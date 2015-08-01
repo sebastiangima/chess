@@ -1,0 +1,1124 @@
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Ba7 8.dxe5 Nxe49.Qg4 Nxf2 10.Rxf2 Qe7 11.Qxg7 Bxf2+ 12.Kxf2 Qh4+ 13.Ke2 Qc4+ 14.Ke1 Qe4+15.Kd1 Qd4+ 16.Bd2 Rf8 17.Nc3 b5 18.Bb3 d6 19.h3 Bb7 20.Ne2 Qxe5 21.Qxe5+ dxe522.g3 O-O-O 23.Ke1 c5 24.c3 c4 25.Bc2 f5 26.Bg5 Rde8 27.Rd1 f4 28.gxf4 exf429.Kf2 Re3 30.Nd4 Rg3 31.Bh4 Rg2+ 32.Kf1 Rh2 33.Bf2 Rg8 34.Bf5+ Kb8 35.Re1 Bg2+36.Ke2 Bd5 37.Rf1 Bg2 38.Rg1 Re8+ 39.Kd1 Be4 40.Bxe4 Rxe4 41.Be1 Rxb2 42.Bd2 Rxa243.Rg7 Ra1+ 44.Bc1 Re3 45.Kc2 Rxc1+ 46.Kxc1 Rxc3+ 47.Kb2 Rxh3  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.Qe2 f59.dxe5 O-O 10.Nbd2 d5 11.exd6 Nxd6 12.Bb3+ Kh8 13.Nc4 f4 14.Nce5 Nxe5 15.Nxe5 Qg516.Bd2 Bh3 17.Bd5 Rae8 18.Rae1 Re6 19.Qd3 Be3 20.Bxe3 Rxe5 21.Bc1 Bg4 22.Bf3 Rfe823.Rxe5 Rxe5 24.Bxg4 Qxg4 25.h3 Qe2 26.Qxe2 Rxe2 27.Bxf4 Rxb2 28.Bxd6 cxd629.Rd1 Rb6 30.Rd4 Rc6 31.a4 Kg8 32.Kf1 Kf7 33.Ke2 Ke6 34.Kd3 Rc5 35.Rb4 Rd5+36.Ke3 Re5+ 37.Kd3 Rg5 38.g3 b5 39.axb5 axb5 40.Re4+ Kd5 41.Rf4 Kc5 42.Rf7 Rg643.Rc7+ Kd5 44.Rb7 Kc6 45.Re7 Rg5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 Qe7 7.Nc3 Nd4 8.Nxd4 Bxd49.Ne2 Ba7 10.Ng3 g6 11.Bh6 b5 12.Bb3 d6 13.h3 Be6 14.Qf3 Nd7 15.Nf5 gxf516.exf5 d5 17.fxe6 fxe6 18.Be3 Rf8 19.Qh5+ Qf7 20.Qxf7+ Rxf7 21.c3 Ke7 22.Rae1 a523.Bd1 Kd6 24.Bh5 Rf6 25.Bg4 Bxe3 26.fxe3 b4 27.c4 Raf8 28.Rxf6 Nxf6 29.Rf1 e430.cxd5 exd3 31.dxe6 c5 32.b3 d2 33.Bf3 Ne4 34.Rd1 Nc3 35.Rxd2+ Kxe6 36.Kf1 Rf737.Ke1 Ke5 38.Rd8 Rc7 39.Re8+ Kf6 40.Rf8+ Ke5 41.Re8+ Kf6 42.Rf8+ Kg7 43.Ra8 a444.bxa4 Nxa2 45.a5 c4 46.a6 c3 47.Bd1 Nc1 48.a7 Kh6 49.g4 Rg7 50.h4 b3 51.Rc8 Rxa752.Rxc3 b2 53.Rc6+ Kg7 54.Rb6 Ra1 55.Rb7+ Kg8 56.Rb8+ Kg7 57.Rb7+ Kg8 58.Rb8+  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Be3 Bxe39.fxe3 O-O 10.Nbd2 Qe7 11.Qe1 Ng4 12.b4 f5 13.exf5 Bxf5 14.e4 Bd7 15.h3 Nh616.Qe3 Rf6 17.Kh2 Raf8 18.a3 Bc8 19.Ng1 Rxf1 20.Rxf1 Rxf1 21.Nxf1 Qh4 22.Kh1 Ng423.Qe2 Nf2+ 24.Kh2 Ng4+ 25.Kh1 Nf2+ 26.Kh2 Ng4+ 27.Kh1 Nf2+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.Qe2 f59.dxe5 O-O 10.Bb3+ Kh8 11.Bd5 d6 12.exd6 Qxd6 13.Bxe4 fxe4 14.Ng5 Qg6 15.Be3 Bxe316.Qxe3 Bf5 17.Nd2 Rae8 18.Rae1 Ne5 19.Qg3 Ng4 20.Nh3 Qc6 21.Nb3 Qb6 22.Nd4 Bd723.f3 exf3 24.Rxe8 Rxe8 25.Qxf3 Qd6 26.Qf4 Qxf4 27.Nxf4 Kg8 28.h3 Nf6 29.Nd3  1/2-1/2");
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.Re1 d6 8.d4 b59.Bb3 Qe7 10.h3 h6 11.a4 Nd8 12.dxe5 dxe5 13.axb5 axb5 14.Be3 c5 15.Bd5 Nxd516.Qxd5 Bb7 17.Qxe5 Qxe5 18.Nxe5 Ne6 19.f3 Bb8 20.Rxa8 Bxa8 21.Nd3 Bd6 22.Na3 Bc623.Nc2 Kd7 24.Ra1 Ra8 25.Rxa8 Bxa8 26.b4 c4 27.Nc1 h5 28.Ne2 Bb7 29.Ncd4 Nxd430.Nxd4 Ba6 31.Kf2 g6 32.Ne2 Bc7 33.Bc5 Bb7 34.Nd4 Ba6 35.Ke3 Be5 36.Ne2 Bb737.Bd4 Bc7 38.Bg7 Ke7 39.Bd4 Bc6 40.Bc5+ Kd8 41.Kd4 f6 42.Ba7 Kc8 43.Ke3 Kd844.Nd4 Bd7 45.f4 Ke7 46.Nf3 Kf7 47.Bd4 Bc8 48.e5 fxe5 49.fxe5 Ke6 50.Kf4 Bd851.Bc5 Bd7 52.Nd4+ Kd5 53.e6 Bxe6 54.Nxb5 g5+ 55.Ke3 g4 56.hxg4 Bg5+ 57.Kf2 Bxg458.Be3 Bh4+ 59.g3 Bf6 60.Bd4 Bd7 61.Nc7+ Kc6  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.Qe2 f59.Nbd2 O-O 10.Nxe4 fxe4 11.Qxe4 d5 12.Bb3 Be6 13.Qe3 Rf5 14.Ng5 Qd7 15.Bc2 e416.Qg3 Raf8 17.Be3 h6 18.Nxe6 Qxe6 19.Rae1 R5f6 20.f3 exf3 21.Rxf3 Rxf3 22.gxf3 Qf623.Bb3 Ne7 24.Bf4 c6 25.Be5 Nf5 26.Qg4 Qh4 27.Re2 g5 28.Bc2 h5 29.Qg2 g430.fxg4 hxg4 31.Bxf5 Rxf5 32.Qg3 Qg5 33.Qe3 Bb6 34.Qxg5+ Rxg5 35.Kg2 Rg636.Kg3 Bd8 37.Rf2 Bg5 38.Kxg4 Be3+ 39.Kf3 Bxf2 40.Kxf2 Rg4 41.Bg3 Re4 42.a4 Kf743.a5 Kg6 44.Kf3 Kh5 45.Bf2 Re7 46.Bg3 Rf7+ 47.Ke2 Kg4 48.Bd6 Kh3 49.Bg3 Kg250.Kd2 Kf3 51.Kd3 Rg7 52.Kc2 Ke3 53.Kb3 Kd3 54.Bd6 Rg1 55.Ba3 Rh1 56.Kb4 Rxh257.Kc5 Rh7 58.Kb6 Kc2 59.Ka7 Kb3 60.Kb6 Rf7 61.Ka7 Ka4 62.Kb6 Rh7 63.Bd6 Kb364.Ba3  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.Re1 f59.Nbd2 Nxd2 10.Nxe5 O-O 11.Bxd2 Nxe5 12.Rxe5 d6 13.Re2 c6 14.Bb3+ Kh8 15.Qc1 Qf616.Bg5 Qg6 17.Qd2 h6 18.Be7 Re8 19.Bxd6 Be6 20.Bxe6 Rxe6 21.Rxe6 Qxe6 22.Be5 Kh723.b4 Re8 24.Re1 Bb6 25.Re3 Qf7 26.Rg3 Rg8 27.Qd3 g6 28.Qd2 Bd8 29.Rh3 h530.Rd3 Re8 31.f4 Qd5 32.Re3 b5 33.Qb2 a5 34.bxa5 Bxa5 35.Qa3 Bb6 36.Qa6 Bd837.a4 bxa4 38.Qxa4 Qd7 39.Rd3 Be7 40.Qc4 Qd5 41.Qxd5 cxd5 42.Rd1 Kg8 43.Rb1 Kf744.Rb7 Ke6 45.Rc7 Ra8 46.Rc6+ Kf7 47.Bd6 Bxd6 48.Rxd6 Rc8 49.Rxd5 Rxc3 50.Re5 Rd351.d5 Rd4 52.g3 Rd2 53.h4 Kf6 54.Kf1 Kf7 55.Ke1 Rd4 56.Ke2 Kf6 57.Re6+ Kf758.Rd6 Kg7 59.Ke3 Rd1 60.Rd8 Kf7 61.Rd6 Kg7 62.Rd8 Kf7 63.d6 Rd5 64.Rd7+ Kf665.Rd8 Kf7 66.d7 Rd6 67.Rh8 Rxd7 68.Rh7+ Ke6 69.Rxd7 Kxd7 70.Kd4 Kd6  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.dxc5 Nxc59.Qd4 Qe7 10.Bf4 f6 11.Nc3 Nxa4 12.Qxa4 c6 13.Rae1 O-O 14.Bg3 Qc5 15.Qb3+ d516.Bxe5 fxe5 17.Rxe5 Bf5 18.Re2 b5 19.Nd1 Rae8 20.Rd2 a5 21.a3 a4 22.Qc3 Qxc323.Nxc3 Bc8 24.f3 Re7 25.Kf2 Rfe8 26.Rfd1 Kf7 27.Ne2 Ke6 28.Nd4+ Kd6 29.c3 Bd730.Re2 Kc5 31.Rxe7 Rxe7 32.Ne2 Kc4 33.Rd2 c5 34.Nf4 Bc6 35.Nd3 d4 36.cxd4 cxd437.Nc1 Bd7 38.Rc2+ Kd5 39.Nd3 Kd6 40.Nb4 Be8 41.Rc8 Bd7 42.Rc2 Be8 43.h3 Bf744.Rc6+ Kd7 45.Rb6 Bc4 46.Rb7+ Ke8 47.Rxe7+ Kxe7 48.Nc6+ Kd6 49.Nxd4 Kd550.Ne2 Bd3 51.Ke3 Kc4 52.Nc1 Bf1 53.Kf2 Bd3 54.g4 Kd4 55.Ne2+ Kc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.Nc3 O-O 11.Nd5 Bd6 12.Re1 c6 13.Nf4 Bxf4 14.Bxf4 d5 15.Qe3 Bf516.Bg3 a5 17.c3 h5 18.Qf3 Bg4 19.Qd3 h4 20.Be5 Qg5 21.Bc2 h3 22.Qg3 Qh5 23.gxh3 Bf524.Bd1 Qxh3 25.Qxh3 Bxh3 26.Bg3 Rfe8 27.Bc2 f5 28.f3 Kf7 29.Kf2 f4 30.Rxe8 Rxe831.Bxg6+ Kxg6 32.Bxf4 Bf5 33.Be5 Kf7 34.a4 g6 35.Ke3 c5 36.Kd2 c4 37.Bc7 Bd338.Be5 Bf5 39.Re1 Re6 40.Bc7 Rxe1 41.Kxe1 Bc2 42.Kd2 Bxa4 43.Ke3 Bd1 44.Bxa5 g545.f4 Kg6 46.Bd8 g4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Re1 Be79.dxe5 Nc5 10.Nc3 Nxa4 11.Nxa4 O-O 12.Bf4 f6 13.Qd5+ Kh8 14.Rad1 fxe5 15.Qxe5 Bd616.Rxd6 cxd6 17.Qe3 b5 18.Bxd6 Bb7 19.Bxf8 Qxf8 20.Nc5 Bc6 21.Qe7 Qxe7 22.Rxe7 Kg823.f3 Kf8 24.Re3 a5 25.Kf2 b4 26.a3 Rb8 27.axb4 Rxb4 28.Nd3 Rb6 29.Ke1 Bb530.Kd2 Bxd3 31.Rxd3 Rxb2 32.Rxd7 Rb1 33.Kc3 a4 34.Rd4 a3 35.Ra4 Rg1 36.g3 Rg237.Rxa3 Rxh2 38.Kb2 h5 39.Rd3 Kf7 40.Kb3 g5 41.c4 h4 42.gxh4 gxh4 43.c5 h344.c6 Rh1 45.c7 Rc1 46.Rc3 Rxc3+ 47.Kxc3 h2 48.c8=Q h1=Q 49.Qf5+ Ke7 50.Kd4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.d5 Ne79.Nxe5 O-O 10.Bc2 f5 11.c4 d6 12.Nf3 Ng6 13.Nc3 Nxc3 14.bxc3 Qf6 15.Bg5 Qf716.Re1 Bd7 17.Qd2 Rae8 18.Rxe8 Rxe8 19.Re1 h6 20.Be3 Bxe3 21.Rxe3 Rxe3 22.Qxe3 Qe723.Qxe7 Nxe7 24.Nd4 Kf7 25.f4 Kf6 26.Kf2 g5 27.g3 Ng6 28.Ke3 g4 29.Ne2 h530.Kd4 b6 31.Ke3 h4 32.Nd4 h3 33.Bd3 Ne7 34.Nc2 a5 35.Nd4 Kg6 36.a3 Kf6 37.Bc2 c538.dxc6 Bxc6 39.Bb3 Bd7 40.Kd2 Ng6 41.Ke3 Nf8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.dxc5 Nxc59.Re1 O-O 10.Rxe5 Nxa4 11.c4 d6 12.Rg5 Re8 13.h3 Bd7 14.Rg3 Qh4 15.Bg5 Qe416.Kh2 Re6 17.b3 Qe5 18.Nd2 Nc3 19.Qf3 Ne4 20.Nxe4 Qxe4 21.Qc3 Rg6 22.Re1 Qf523.Re7 Rxg5 24.Rxg5 Qxg5 25.Rxd7 Rc8 26.Kg1 Kf8 27.Qf3 Qf6 28.Qxb7 Re8 29.g3 g630.Qxc7 Re2 31.Qxd6+ Qxd6 32.Rxd6 Rxa2 33.b4 Ke7 34.Rb6 Rc2 35.Rb7+ Ke6 36.c5 a537.bxa5 Rxc5 38.a6 Ra5 39.a7 h5 40.Kg2 Ra3 41.f4 f6 42.Kf2 Kf5 43.Ke2 h444.gxh4 Kxf4 45.Kd2 f5 46.Kc2 Ra6 47.Rg7 Ke3 48.Re7+ Kf3 49.Kb2 f4 50.Rb7 Kg351.Rb3+ f3 52.Ra3 Rxa3 53.Kxa3 f2 54.a8=Q f1=Q 55.Qe8 Qd3+ 56.Kb2 Kxh4 57.Qe6 Kg358.Qg4+ Kh2 59.h4 Qd2+ 60.Kb3 Qe3+ 61.Ka4 Qg3 62.Qe4 Kh3 63.Ka5 Qg2 64.Qf4 Qg465.Qf6 Qh5+ 66.Ka6 Kg4 67.Qd4+ Kg3 68.Qg1+ Kxh4 69.Qf2+ Kg4 70.Qg2+ Kf4 71.Qd2+ Kf372.Qd1+ Kf2 73.Qd4+ Ke2 74.Qc4+ Kd2 75.Qd4+ Ke1 76.Qc3+ Kf2 77.Qd4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.f4 O-O 11.f5 d5 12.Qd3 Nh4 13.g3 c5 14.gxh4 c4 15.Qf3 b5 16.Nc3 Bb717.Bg5 Bxg5 18.hxg5 Qxg5+ 19.Qg3 Qxg3+ 20.hxg3 bxa4 21.Nxa4 Rae8 22.Nc5 Bc8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Bb6 8.dxe5 Nxe49.Qd5 Nc5 10.Bc2 Ne7 11.Qc4 d5 12.exd6 cxd6 13.Bg5 h6 14.Qh4 f6 15.Bc1 Bf516.Bxf5 Nxf5 17.Qg4 Qc8 18.Qc4+ Qe6 19.Qxe6+ Nxe6 20.g4 Ne7 21.Re1 Kf7 22.Na3 Rfc823.Be3 Bxe3 24.Rxe3 Ng6 25.Rd1 Rd8 26.Nd4 Nxd4 27.Rxd4 Ne5 28.h3 d5  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 Bb6 8.d4 d69.dxe5 dxe5 10.Qxd8+ Nxd8 11.Nxe5 Bb7 12.Bg5 Nxe4 13.Bxd8 Rxd8 14.Nxf7 Rf815.Nxd8 Kxd8 16.Nd2 Nxf2 17.Nf3 Nh3+ 18.Kh1 Nf2+ 19.Kg1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 O-O 8.Bxc6 dxc69.Bg5 Bg4 10.h3 Bxf3 11.Qxf3 exd4 12.Rd1 Qe7 13.Bxf6 Qxf6 14.Qxf6 gxf6 15.cxd4 Rad816.d5 f5 17.Nc3 fxe4 18.dxc6 e3 19.cxb7 exf2+ 20.Kf1 Rb8 21.Ne4 Rxb7 22.Rd2 Rb423.Nxf2 Rf4 24.Re1 Rb8 25.b3 a5 26.Re4 Rb4 27.Rxf4 Rxf4 28.g3 Rb4 29.Ng4 Kg730.Ne5 Re4 31.Re2 Rd4 32.Nc6 Rd1+ 33.Re1 Rxe1+ 34.Kxe1 Bb6 35.Ke2 Kf6 36.Kd3 Kg537.Ke4 h5 38.a4 f5+ 39.Kf3 Kf6 40.Kf4 Ke6 41.Kg5 Bf2 42.Nxa5 Bxg3 43.Nc6 f444.Kxh5 Kd5 45.Nb4+ Ke4 46.a5 f3 47.a6 f2 48.a7 f1=Q 49.a8=Q+ Ke3 50.Qe8+ Kd251.Qe6 Bd6 52.Nd5 Qf3+ 53.Kg6 Qxb3 54.Qf5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 O-O 8.Bg5 h69.Bh4 b5 10.dxe5 g5 11.exf6 Qxf6 12.e5 Qg7 13.Bc2 gxh4 14.Nxh4 Nxe5 15.Nf5 Qf616.Qh5 Re8 17.Nxh6+ Kf8 18.Nd2 d5 19.Rae1 Bd7 20.Kh1 Kg7 21.f4 Qxh6 22.Qxh6+ Kxh623.fxe5 Kg7 24.Bf5 Rad8 25.Bxd7 Rxd7 26.Nf3 c5 27.Ng5 Rde7 28.Rf5 d4 29.cxd4 cxd430.Ref1 Rxe5 31.Rxf7+ Kg8 32.Rxa7 Rxg5 33.h3 Rd5 34.Rff7 Red8 35.Rf2 d3 36.Rd2 Rc837.Kh2 Rd4 38.Rxa6 Rc2 39.Rd1 d2 40.Rf6 Rxb2 41.a3 Rb3 42.Rf2 Rbd3  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 Ba7 8.d4 Qe79.Bg5 h6 10.Bxf6 Qxf6 11.Bd5 exd4 12.cxd4 O-O 13.Nc3 Rb8 14.e5 Qf4 15.Ne2 Qf516.Ng3 Qf4 17.Ne2 Qf5 18.Qd2 Ne7 19.Bb3 d6 20.Rac1 Qd7 21.e6 fxe6 22.Nf4 d523.Ne5 Qd6 24.Bc2 c5 25.g4 c4 26.Bb1 Rb7 27.Nh5 Kh8 28.Qc2 g6 29.Nxg6+ Nxg630.Qxg6 Bxd4 31.Qxh6+ Kg8 32.Qg6+  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 b5 8.Bb3 Qe79.Re1 d6 10.Bd5 Bd7 11.a4 O-O 12.axb5 axb5 13.Bg5 Bb6 14.Rxa8 Rxa8 15.Na3 Ra516.Qd3 Nd8 17.dxe5 dxe5 18.Rd1 c6 19.Bxf7+ Nxf7 20.Bxf6 gxf6 21.Qxd7 Qxd722.Rxd7 Bc5 23.Nb1 Ra2 24.Rd2 Ra1 25.Rd1 Ra2 26.Ne1 Nd6 27.Nd3 Nxe4 28.Nxc5 Nxc529.b4 Nb3 30.g4 Kf7 31.Kg2 Kg6 32.Kf3 Kg5 33.h3 f5 34.gxf5 Kxf5 35.Ke3 Rc236.f3 Rh2 37.Kd3 Kf4 38.Re1 h6 39.Re4+ Kf5 40.Re1 Kf4 41.Re4+ Kxf3 42.Rxe5 Rb243.Rf5+ Kg3 44.Rh5 Nc1+ 45.Kd4 Ne2+ 46.Ke3 Nf4 47.Rxh6 Nd5+ 48.Ke4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 b5 8.Bc2 Qe79.Be3 d6 10.a4 exd4 11.Nxd4 Nxd4 12.Bxd4 Bd7 13.Bxa7 Rxa7 14.axb5 Bxb5 15.Ba4 Rb716.c4 Bd7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Qe7 8.dxc5 Qxc59.Bb3 O-O 10.Be3 Qe7 11.f3 d6 12.Nd2 Be6 13.Qe2 Bxb3 14.axb3 Ng6 15.Qf2 Nh516.Ra5 Nhf4 17.Kh1 b5 18.Rfa1 f5 19.Bxf4 Nxf4 20.Qe3 fxe4 21.Nxe4 d5 22.Qc5 Qe623.Ng3 h5 24.Qf2 h4 25.Nf1 Qg6 26.g3 hxg3 27.hxg3 Qh5+ 28.Nh2 Nh3 29.Qg2 Rf630.Rxb5 Raf8 31.Rb4 Ng5 32.Rh4 Qg6 33.f4 Ne4 34.Ng4 Rf5 35.Qh2 Kf7 36.Kg2 Ke737.Ne3 Rg5 38.f5 Rxg3+ 39.Kh1 Rxf5 40.Nxf5+ Qxf5 41.Qe2 Rh3+ 42.Rxh3 Qxh3+43.Kg1 Qg3+ 44.Qg2 Qe3+ 45.Kh1 Nf2+ 46.Kg1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.c3 Ba7 7.d4 b5 8.Bb3 Qe79.Re1 d6 10.h3 O-O 11.a4 Bd7 12.Na3 Na5 13.Bc2 Bb6 14.b4 Nb7 15.c4 c5 16.bxc5 dxc517.dxe5 Ne8 18.Bg5 Qe6 19.axb5 axb5 20.Nxb5 Bxb5 21.cxb5 Nc7 22.Qe2 c4 23.Rxa8 Rxa824.Rb1 Ra2 25.Bf4 h6 26.Bg3 Na5 27.Qd1 Kh7 28.Nh4 Bc5 29.Nf5 Qb6 30.Nd6 Kg831.Qf3 Rxc2 32.Qxf7+ Kh7 33.Qf5+ Kh8 34.Qc8+ Kh7 35.Qf5+ Kh8 36.Rd1 Bd4 37.Bh4 Nxb5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.Nc3 O-O 11.Nd5 Bd6 12.f4 f5 13.Qf3 Kh8 14.Be3 Nh4 15.Qf2 b516.Bb3 Bb7 17.g3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Bb6 7.d3 d6 8.Na3 h69.Nc4 Ba7 10.Na5 Bd7 11.Nxb7 Qe7 12.Bxc6 Bxc6 13.Na5 Bd7 14.Nc4 O-O 15.Be3 c516.Bd2 Rab8 17.b3 Bb5 18.Re1 Ne8 19.Ne3 Bxd3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Nxe4 7.d4 Bb6 8.Re1 f59.Nbd2 O-O 10.Nxe4 fxe4 11.Rxe4 d6 12.dxe5 Bf5 13.Bg5 Qe8 14.Re1 Bg4 15.Bxc6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Nxe4 7.d4 Bb6 8.Re1 f59.Nbd2 O-O 10.Nxe4 fxe4 11.Rxe4 d6 12.Bg5 Qe8 13.d5 Qg6 14.dxc6 Qxe4 15.Bb3+ Kh816.Bd5 Qg6 17.cxb7 Bxb7 18.Bxb7 Rab8 19.Qd5 Rxf3 20.Qxf3 Qxg5 21.Bxa6 Qe722.Rf1 Rf8 23.Qe2 c6 24.Bd3 d5 25.Kh1 Qg5 26.f4 Rxf4 27.Rxf4 Qxf4 28.Qf3 g529.Qf1 Kg7 30.g3 Qe3 31.Bxh7 Kxh7 32.Qf7+ Kh6 33.Qe6+ Kg7 34.Qe7+ Kh6 35.Qe6+ Kh536.Qh3+ Kg6 37.Qe6+ Kg7  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.d4 Bxd4 10.Nf3 Be6 11.c4 Qxc4 12.Qxc4 Bxc4 13.Nxd4 Bxf1 14.Kxf1 O-O-O 15.Be3 c516.Nf3 Rd1+ 17.Ne1 Rhd8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.c3 Bb6 7.d4 Nxe4 8.Qe2 f59.dxe5 O-O 10.Be3 Bxe3 11.Qxe3 Qe7 12.Bb3+ Kh8 13.Re1 b5 14.Bd5 Bb7 15.Nbd2 Nc516.Nb3 Na4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.c4 O-O 11.Nc3 f5 12.Qd3 f4 13.f3 d6 14.Bd2 c6 15.Ne4 Kh8 16.d5 Ne517.Qd4 b5 18.cxb5 axb5 19.Bc2 c5 20.Qf2 b4 21.a3 Ba6 22.axb4 Bh4 23.g3 fxg324.hxg3 Bxf1 25.Rxf1 Nxf3+ 26.Kg2 Nxd2 27.Qxd2 Rxf1 28.Kxf1 Qf8+ 29.Kg2 Bf630.bxc5 dxc5 31.Qd3 g6 32.d6 Bd4 33.b4 Re8 34.d7 Rxe4 35.Qxe4 Qf2+ 36.Kh3 Qf1+37.Qg2 Qxg2+ 38.Kxg2 Bf6 39.bxc5 Kg7 40.Bb3 Kf8  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 Rb8 10.h3 Bh5 11.Re1 Qd7 12.axb5 axb5 13.Bg5 h6 14.Bxf6 gxf6 15.Nbd2 Rg816.Kf1 Qc8 17.g4 Bg6 18.Nh4 Nd8 19.Qf3 Ne6 20.Qxf6 Qd8 21.Qxd8+ Kxd8 22.Ng2 h523.Ke2 Ke7 24.Bd5 Rg7 25.Nb3 Bb6 26.Na5 Rh8 27.Nc6+ Kd7 28.Nb4 Nd8 29.Ne3 hxg430.hxg4 Rh3 31.Rh1 Rgh7 32.Rxh3 Rxh3 33.Nf1 Rh1 34.Ba8 Bc5 35.Nd5 c6 36.b4 cxd537.bxc5 dxe4 38.Ra7+ Kc8 39.Bxe4 Bxe4 40.Ng3 Bxd3+ 41.Kxd3 Rd1+ 42.Kc2 Rd543.cxd6 Rxd6 44.Nf5 Rb6 45.Kb3 Nb7 46.Ra8+ Kd7 47.Kb4 Rg6 48.Kxb5 Rxg4 49.Ra7 Kc750.Ne3 Rg6 51.Nc4 Kb8 52.Ra2 Nd6+ 53.Nxd6 Rxd6 54.c4 e4 55.Kc5 Rd3 56.Kc6 e357.fxe3 Rxe3 58.c5 f5 59.Rh2 Rg3 60.Rh8+ Ka7 61.Rf8 Rg6+ 62.Kc7 Rg7+ 63.Kc8 f464.Rxf4 Rg8+ 65.Kd7 Rg7+ 66.Kd8 Rg8+ 67.Ke7 Rg7+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.Nc3 O-O 11.Nd5 Bh4 12.Nf4 Nxf4 13.Bxf4 d5 14.Qd3 Bg5 15.Qg3 Bxf416.Qxf4 c6  1/2-1/2");
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 Qe7 8.d4 Bb69.a4 Bb7 10.axb5 axb5 11.Rxa8+ Bxa8 12.Re1 d6 13.Qd3 O-O 14.Bg5 h6 15.Bh4 b416.d5 Na5 17.Ba4 c5 18.Nbd2 bxc3 19.bxc3 c4 20.Nxc4 Nxc4 21.Qxc4 g5 22.Bg3 Nh523.Nd2 Qa7 24.Rf1 Bb7 25.Bb5 Nxg3 26.hxg3 Rc8 27.Qb3 Rb8 28.Qc2 Bc5 29.c4 Bc830.Nb3 Bb6 31.Rc1 Bg4 32.Ra1 Qc7 33.Bc6 Kg7 34.c5 dxc5 35.Nxc5 Qd6 36.Nb7 Qf637.d6 Bc8 38.Rb1 Bd4 39.d7 Bxb7 40.Bxb7 Rd8 41.Bc8 h5 42.Rb3 g4 43.Qd2 Rh844.Kf1 h4 45.gxh4 Rxh4 46.Kg1 Rh6 47.Rg3 Rg6 48.Qe2 Qh4 49.Qd2 Bb6 50.Qb2 Bd451.Qe2 Bb6 52.d8=Q Qxd8 53.Bf5 Rg5 54.Rxg4 Rxg4 55.Qxg4+ Kf8 56.g3 Qd2 57.Qf3 Qh658.Kg2 Bd4 59.Bc8 Qc6 60.Qf5 Kg7  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.Qe2 d6 7.h3 O-O 8.c3 Re89.d3 h6 10.Nbd2 Bd7 11.Bc2 Re7 12.b4 Ba7 13.Bb2 Be6 14.a3 d5 15.d4 dxe4 16.Nxe4 Nxe417.Qxe4 f5 18.Qh4 e4 19.Ne5 Nxe5 20.dxe5 Rd7 21.Qf4 Qe7 22.Rad1 Rad8 23.Rxd7 Rxd724.Rd1 Rxd1+ 25.Bxd1 Qd7 26.Bh5 Bf7 27.Be2 b5 28.g4 Be6 29.gxf5 Bxf5 30.c4 c631.c5 Bb8 32.Bg4 Bxg4 33.hxg4 Qd5 34.Qf5 Qb3 35.Qc8+ Kh7 36.Qxb8 Qxb2 37.e6 e338.fxe3 Qc1+ 39.Kf2 Qd2+ 40.Kf3 Qd5+ 41.Kf4 Qxe6 42.Qe5 g5+ 43.Ke4 Qxg4+44.Kd3 Qc4+ 45.Kd2 Qa2+ 46.Kd3 Qxa3+ 47.Ke2 Qxb4 48.Qc7+ Kg6 49.Qxc6+ Kh550.Qe8+ Kh4 51.c6 Qc4+ 52.Kd2 Qb4+ 53.Ke2 Qc4+ 54.Kd2 Qb4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.dxc5 Nxc59.Qd4 Nxa4 10.Qxe5+ Kf8 11.b3 d6 12.Qd4 Nc5 13.Bb2 Qg5 14.f4 Qf6 15.Qxf6 gxf616.Bxf6 Rg8 17.Nc3 Bf5 18.Rf2 Re8 19.Bd4 Ne4 20.Nxe4 Rxe4 21.Bc3 Rg4 22.g3 Rg623.Re1 Rxe1+ 24.Bxe1 Re6 25.Bb4 Re4 26.Bc3 Bh3 27.Rd2 Re3 28.Bd4 Re1+ 29.Kf2 Rf1+30.Ke2 Rh1 31.Kf3 h5 32.Bf6 Rf1+ 33.Ke2 Rh1 34.Kf3 Bg4+ 35.Kg2 Rc1 36.c4 Ke837.Rf2 Kd7 38.f5 b5 39.h3 Bd1 40.cxb5 axb5 41.Bb2 Rc2 42.Rxc2 Bxc2 43.g4 hxg444.hxg4 b4 45.Kf3 Bb1 46.a3 c5 47.axb4 cxb4 48.Bc1 Kc6 49.Bd2 Kc5 50.Be3+ Kb551.Bf4 Kc5  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Be3 Bxe3 8.Bxc6+ bxc69.fxe3 O-O 10.Nbd2 Ng4 11.Qe2 f5 12.exf5 Bxf5 13.h3 Nh6 14.e4 Bd7 15.Kh2 Qe716.Rf2 Rf4 17.Raf1 Raf8 18.g3 R4f6 19.Ng1 c5 20.Nc4 Rxf2+ 21.Rxf2 Rxf2+ 22.Qxf2 Qf723.Kg2 Bc6 24.b3 Nf5 25.Ne3 Nxe3+ 26.Qxe3 h6 27.c4 Qe8 28.Ne2 Qb8 29.Qd2 Bd730.Nc3 Be6 31.Nd5 Bxd5 32.exd5 Qe8 33.g4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Re1 Be79.dxe5 Nc5 10.Nc3 Nxa4 11.Nxa4 O-O 12.Bf4 f6 13.Qd5+ Kh8 14.Rad1 fxe5 15.Qxe5 Bh416.Bg3 d6 17.Bxh4 Qxh4 18.Qd4 Qxd4 19.Rxd4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Bb6 7.d4 Nxe4 8.Qe2 f59.dxe5 O-O 10.Be3 Bxe3 11.Qxe3 d5 12.exd6 Qxd6 13.Rd1 Qg6 14.Nbd2 Nxd2 15.Rxd2 f416.Qc5 Bh3 17.Qg5 Ne5 18.Qxg6 Nxf3+ 19.gxf3 hxg6 20.Bd7 Rad8 21.Rad1 Bxd722.Rxd7 Rxd7 23.Rxd7 Rf7 24.Rd8+ Rf8 25.Rd4 c5 26.Rd2 Rf5 27.Kg2 b5 28.Kh3 Re529.Kg4 g5 30.Rd8+ Kh7 31.Ra8 Re2 32.Rxa6 Rxb2 33.Rb6 b4 34.cxb4 cxb4 35.Kxg5 Rxa236.Rxb4 Rxf2 37.Rxf4 Rxh2 38.Rh4+ Rxh4 39.Kxh4 Kh6 40.Kg4 g5 41.f4 gxf4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.c3 Ba7 7.d4 Nxe4 8.Bxc6 dxc69.Qe2 f5 10.Nxe5 Qf6 11.Nd2 O-O 12.Nxe4 fxe4 13.Qxe4 Bf5 14.Qf3 Qe6 15.Re1 Bb116.Qg4 Bf5 17.Qf3 Bb1 18.Qg4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Qe79.Qxa4 Qxc5 10.Na3 O-O 11.Bg5 Rb8 12.Rad1 Rxb2 13.Nc4 Rb5 14.Bxf6 gxf6 15.Rd5 Qa716.Ne3 Qb6 17.Nh4 Ne7 18.Qd1 Rxd5 19.exd5 f5 20.Nhxf5 Nxf5 21.Nxf5 Qf6 22.Ne3 d623.Qa4 Qg7 24.Qc4 f5 25.f4 exf4 26.Rxf4 Qe5 27.Qd4 Bd7 28.h3 Kg7 29.Kf2 Kg630.g4 Rf6 31.Kg3 fxg4 32.Qxe5 dxe5 33.Rxf6+ Kxf6 34.hxg4 c6 35.c4 cxd5 36.cxd5 Bb537.Kf3 Bd3 38.Nd1 Bc2 39.Nc3 Ke7 40.Ne4 h6 41.Ke3 a5 42.a3 a4 43.g5 hxg544.Nxg5 Kd6 45.Nf7+ Kxd5  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.c4 O-O 11.Nc3 f5 12.Qd3 f4 13.Re1 d6 14.Bc2 Bf5 15.Qd1 Bxc216.Qxc2 f3 17.Nd5 Bf6 18.Qe4 fxg2 19.Nf4 Nxf4 20.Bxf4 c6 21.Qe6+ Rf7 22.Bxd6 Bxd423.Re2 c5 24.Rd1 Qd7 25.Rdd2 Bxf2+ 26.Kxg2 Qxe6 27.Rxe6 Bd4 28.Rde2 h6 29.b3 b530.a4 bxc4 31.bxc4 Raa7 32.Be5 Rfd7 33.Re4 a5 34.Bxd4 cxd4 35.c5 d3 36.Rd6 Rxd637.cxd6 Kf7 38.Kf2 Rd7 39.Rd4 Ke6 40.Rxd3 Rxd6 41.Re3+ Kf6 42.Re4 Rd2+ 43.Kg3 Rd3+44.Kf2 g5 45.h4 Rh3 46.hxg5+ hxg5 47.Rc4 Rh4 48.Rc6+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Re1 h6 11.axb5 axb5 12.Rxa8 Qxa8 13.Na3 O-O 14.Nxb5 Na5 15.Ba2 exd416.Nbxd4 Bxe4 17.Be3 Nc6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nf6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nc6 6.d3 O-O 7.Bxc6 dxc6 8.Nxe5 Re89.Nf3 Bg4 10.h3 Bh5 11.c3 Bb6 12.d4 Nxe4 13.Bf4 c5 14.d5 Bxf3 15.Qxf3 Qxd516.Rd1 Qf5 17.h4 c4 18.Rf1 Qc5 19.Be3 Qc6 20.Na3 Bc5 21.Nxc4 Bxe3 22.Nxe3 Qh623.Qg4 Nf6 24.Qg3 Ne4 25.Nf5 Qf6 26.Qg4 Re5 27.Ne3 Nd2 28.Rfd1 Ne4 29.Rf1 Qe630.Qxe6 Rxe6 31.Rad1 Rb6 32.Nc4 Rc6 33.Ne5 Rd6 34.Rxd6 Nxd6 35.Re1 Re8 36.Kf1 f637.Nd3 Rxe1+ 38.Kxe1 Kf7 39.Nc5 g5 40.hxg5 fxg5 41.g4 Kf6 42.Nd7+ Ke7 43.Nc5 a544.Ke2 b6 45.Nd3 Ke6 46.b3 Nf7 47.Ke3 Ne5 48.Nxe5 Kxe5 49.c4 c6 50.a4 c551.Ke2 Kf4 52.f3 h6 53.Kf2 Ke5 54.Ke3 Kd6 55.f4 gxf4+ 56.Kxf4 Kd7 57.Ke5 Ke758.Kd5 Kd7 59.Ke5 Ke7 60.Kf5 Kf7  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+ Kxd8 12.Bg5 Ke7 13.Nd2 h6 14.Bh4 g5 15.Bg3 Nd716.Rfe1 Bb7 17.Nf1 h5 18.h4 g4 19.Ne3 f6 20.Nf5+ Kf8 21.Rad1 Bc6 22.Bb3 Nc523.Bd5 Bxd5 24.Rxd5 Kf7 25.b4 Nxe4 26.Rxe4 Ke6 27.Rd1 Kxf5 28.Rde1 Rad8 29.R4e2 Rd330.Kh2 Rxc3 31.Bxe5 Rc6 32.Bg3 a5 33.Rd1 axb4 34.Rd5+ Kg6 35.Rxb5  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.Nd3 O-O 10.Nxc5 Nxc5 11.Nc3 Qd6 12.d3 Qg6 13.Qe5 Ne6 14.Ne2 f6 15.Qe4 Bd716.Qxg6 hxg6 17.h4 c5 18.Be3 Rfe8 19.Nf4 Nxf4 20.Bxf4 Rac8 21.Rfe1 Rxe1+22.Rxe1 Kf7 23.Kf1 Be6 24.b3 Ke7 25.Ke2 Kd7 26.Kd2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Bg5 h6 10.Bd5 Bb7 11.Bxf6 Qxf6 12.a4 O-O 13.Na3 exd4 14.cxd4 b4 15.Nc4 Ba716.Qd3 Rab8 17.Rad1 b3 18.e5 dxe5 19.dxe5 Qe7 20.Qe4 Nd8 21.e6 Qxe6 22.Bxb7 Rxb723.Qxe6 Nxe6 24.Na5 Rb6 25.Ne5 Rd6 26.Rxd6 cxd6 27.Nec6 Bd4 28.Rb1 Bf6 29.Nxb3 Rc830.Nba5 Nd4 31.Nxd4 Bxd4 32.b4 Rc2 33.b5 Bxf2+ 34.Kh1 axb5 35.axb5 d5 36.Nc6 Bc537.g3 d4 38.Rd1 Rb2 39.Nxd4 Rb4 40.Nc6 Rxb5 41.Rd8+ Kh7 42.Rb8 Rxb8 43.Nxb8 Kg644.Nc6 Kf5 45.Kg2 Ke4 46.Nd8 f5 47.Ne6 Bd4 48.h4 Be5 49.h5 Ke3 50.Nf8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.h3 O-O 8.c3 b5 9.Bc2 Bb710.Nbd2 Bb6 11.a4 d5 12.Re1 h6 13.Nf1 b4 14.Ng3 Re8 15.Nh2 Re6 16.Bb3 Rb817.Be3 bxc3 18.bxc3 Na5 19.Ba2 Bxe3 20.Rxe3 c5 21.Ng4 c4 22.Nxf6+ Rxf6 23.d4 exd424.Qxd4 Nb3 25.Bxb3 cxb3 26.Rd3 Rd6 27.Rd2 Qg5 28.h4 Qg6 29.Nf5 Rd7 30.Qe5 Rc831.Ne7+ Rxe7 32.Qxe7 Bc6 33.exd5 b2 34.Rxb2 Bxd5 35.f3 Bxf3 36.Rf2 Bc6 37.Rd1 Bxa438.Rd8+ Rxd8 39.Qxd8+ Kh7 40.Qd4 Bc6 41.Rd2 a5 42.Qd6 Qb1+ 43.Kh2 Qe1 44.Qd4 Be445.Qf2 Qc1 46.Qe3 f5 47.Re2 Qb1 48.h5 Qb8+ 49.Kg1 a4 50.c4 Qb7 51.Kh2 Qb8+52.Kg1 Qe8 53.Qh3 Qe5 54.Qe3 Qe8 55.Qh3 Qe5 56.Qe3  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Bb6 7.Re1 d6 8.h3 Bd79.d4 O-O 10.Bg5 h6 11.Bh4 g5 12.Bg3 Re8 13.dxe5 Nxe5 14.Bxd7 Nexd7 15.Nbd2 Nc516.Qc2 d5 17.e5 Nfe4 18.Nxe4 Nxe4 19.Nd4 Qd7 20.Bh2 c5 21.Nb3 c4 22.Nd4 Nc523.Re3 Nd3 24.Rf1 Bxd4 25.cxd4 Re6 26.f4 gxf4 27.Bxf4 Rg6 28.Ref3  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 Ba7 8.Re1 O-O9.Nbd2 b5 10.Bc2 Ne7 11.Nf1 Ng4 12.Ne3 f5 13.exf5 Nxe3 14.Bxe3 Bxe3 15.fxe3 Bxf516.Bb3+ Kh8 17.Ng5 Qe8 18.e4 Bd7 19.Rf1 Rxf1+ 20.Qxf1 h6 21.Nf3 Qh5 22.Nd2 Qg523.Qf2 Ng6 24.Nf3 Qf4 25.Rf1 c5 26.Ne1 Rf8 27.Qe2 Qxf1+ 28.Qxf1 Rxf1+ 29.Kxf1 Ne730.Kf2 g6 31.Ke3 Kg7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Nxe4 7.d4 exd4 8.cxd4 Bb69.d5 Ne7 10.Bc2 Bxf2+ 11.Rxf2 Nxf2 12.Kxf2 O-O 13.d6 cxd6 14.Bxh7+ Kxh7 15.Ng5+ Kg616.Qxd6+ f6 17.g4 a5 18.h4 Qe8 19.Qd3+ f5 20.Nc3 Ra6 21.Bd2 Rff6 22.Re1 Kh623.Nge4+ Kh7 24.Nxf6+ Rxf6 25.gxf5 Qf7 26.Kg1 d5 27.Bg5 Bxf5 28.Qd2 Re6 29.Bxe7 Qxe730.Rxe6 Qxe6 31.Qxd5 Qxd5 32.Nxd5 Be6 33.Nc3 Kg6 34.Kf2 Kf5 35.Kf3 Bc4 36.a3 b537.Nd1 Ke5 38.Ke3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.d3 d6 7.c3 Ba7 8.Re1 O-O9.h3 h6 10.Bb3 Nd7 11.d4 Qf6 12.Be3 Re8 13.Qd3 Nf8 14.Nbd2 Ng6 15.d5 Nce716.Bxa7 Rxa7 17.Qe3 Ra8 18.Kh2 Nf4 19.Ng1 Qg6 20.g3 Nh5 21.f4 exf4 22.gxf4 Qf623.Ne2 Qh4 24.Rg1 Nf6 25.Qf3 Ng6 26.Rg2 h5 27.f5 Ne5 28.Qg3 Neg4+ 29.Kh1 Qxg330.Nxg3 Ne5 31.Rag1 Kh7 32.Ne2 Rg8 33.Nf4 Bd7 34.Rg5 Kh6 35.R5g3 g5 36.fxg6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.c3 Ba7 7.d4 Nxe4 8.dxe5 d59.exd6 O-O 10.dxc7 Qxc7 11.Bc2 Re8 12.Nbd2 Nf6 13.Nc4 Rd8 14.Qe2 Bg4 15.Bg5 Re816.Ne3 Ne5 17.Bf4 Bxf3 18.gxf3 Qc6 19.Kg2 Nh5 20.Bg3 Ng6 21.Bxg6 Qxg6 22.Qc4 Bxe323.fxe3 Rxe3 24.Rae1 b5 25.Qd4 Rd3 26.Qe4 Rd2+ 27.Rf2 Rxf2+ 28.Kxf2 Qxe429.Rxe4 f5 30.Re7 f4 31.Bh4 h6 32.Ke2 Kf8 33.Re5 Re8 34.Rxe8+ Kxe8 35.Kd3 Kd736.c4 g5 37.Be1 bxc4+ 38.Kxc4 Ng7 39.b4 Kd6 40.Kd4 Nf5+ 41.Ke4 Ne3 42.Bc3 Nf143.h3 Ng3+ 44.Kd3 Kd5 45.Be1 Nf5 46.Bf2 Ne7 47.Bd4  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 exd49.cxd4 Ba7 10.h3 h6 11.Nc3 O-O 12.a3 Re8 13.b4 Bb7 14.Re1 Rc8 15.Bb2 Re716.Qd3 Nd7 17.Nd5 Re8 18.Ne3 Nf8 19.Nf5 Ne7 20.N3h4 Nxf5 21.Nxf5 d5 22.e5 Bb823.Re3 Re6 24.Rae1 Rg6 25.Rf3 Qd7 26.Nh4 Re6 27.Rg3 Rce8 28.Qd2 Qd8 29.Nf5 Ng630.Ne3 Bc8  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.dxc5 Nxc59.Bf4 Ng6 10.Re1+ Ne6 11.Bg3 O-O 12.c4 d6 13.Nc3 Bd7 14.Bc2 Bc6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Bb6 8.dxe5 Nxe49.Qd5 Nc5 10.Bc2 Ne7 11.Qc4 d5 12.exd6 Qxd6 13.Rd1 Qc6 14.b4 Ne6 15.Qe2 Ng616.Be4 Nef4 17.Qc2 Qf6 18.Bb2 Qe6 19.Nd4 Qg4 20.g3 Bxd4 21.cxd4 f5 22.f3 Qh323.Bd3 Nxd3 24.Rxd3 f4 25.Qg2 Qf5 26.Rc3 fxg3 27.hxg3 Ne7 28.Re3 Nd5 29.Re5 Qf730.a3 Bd7 31.Nd2 Bc6 32.Rae1 Rad8 33.Qh3 Rd6 34.Qh5 Rg6 35.Rg5 Rxg5 36.Qxg5 h637.Qg4 Nf6 38.Qe6 Re8 39.Qxf7+ Kxf7 40.Rxe8 Kxe8 41.Kf2 Ke7 42.Nb1 Ke6 43.Nc3  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 h6 8.c3 O-O9.h3 Bb7 10.Re1 d6 11.d4 exd4 12.cxd4 Bb4 13.Nc3 Na5 14.Bc2 Re8 15.e5 dxe516.Nxe5 Nc4 17.Nxc4 bxc4 18.Rxe8+ Qxe8 19.Bf4 Qc6 20.f3 Nh5 21.Be3 Re8 22.Qe2 Ng323.Qf2 Nh5 24.Ba4 Qe6 25.Bxe8 Qxe8 26.Re1 Qd7 27.Qh4 Nf6 28.Bxh6 gxh6 29.Qxf6 Bf830.Ne4 Bg7 31.Qf4 Qxd4+ 32.Kh1 Qxb2 33.Qxc7 c3 34.Qd8+ Kh7 35.Qd3 Bxe4 36.Rxe4 Kg837.Re8+ Bf8 38.Qd4 Qc1+ 39.Kh2 Qa3 40.Rc8 a5 41.Qxc3 Qd6+ 42.g3 Qd5 43.Qe3 Qxa2+44.Kg1 Qa1+ 45.Kg2 Qa2+ 46.Qf2 Qe6 47.Qc2 Kg7 48.Qc3+ Kg8 49.Qc4 Qf6 50.Qg4+ Kh751.Qe4+ Kg8 52.g4 Qd6 53.Qe3 Kg7 54.Qc3+ Kh7 55.Qc2+ Kg7 56.Qc3+ Kh7 57.Qc2+ Kg758.Qc3+  1/2-1/2");
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Re1 Be79.Rxe4 Ng6 10.c4 O-O 11.Nc3 d6 12.Qh5 c6 13.Bc2 f5 14.Re1 Bf6 15.Ne2 Nh416.Nf4 Bxd4 17.g3 Ng6 18.Nxg6 hxg6 19.Qxg6 Qf6 20.Qxf6 Bxf6 21.Bf4 Bxb2 22.Rad1 Bc323.Re3 Bb4 24.Bxd6 Bxd6 25.Rxd6 f4 26.Re5 fxg3 27.hxg3 Bg4 28.Rg5 Be2 29.Bb3 Rad830.c5+ Kh7 31.Bc2+ Kg8 32.Bb3+ Kh7 33.Re5 Rxd6 34.cxd6 Bg4 35.Bc2+ Kh6 36.Re7 Rd837.Rxb7 Rxd6 38.Be4 Be6 39.a3 Bd5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d3 O-O 8.Nbd2 Re89.h3 d5 10.Re1 b5 11.Bb3 d4 12.Nf1 h6 13.a4 Be6 14.axb5 axb5 15.Bc2 Bb6 16.Rxa8 Qxa817.Ng3 Bd7 18.Nh4 Ne7 19.Nh5 Nh7 20.Qf3 g5 21.Nf6+ Nxf6 22.Qxf6 Qc6 23.Qxc6 Bxc624.Nf3 f6  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 O-O  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d3 b5 8.Bc2 d69.h3 Bd7 10.Qe2 Ne7 11.d4 Ng6 12.Bb3 O-O 13.dxe5 dxe5 14.Rd1 Qe7 15.Bg5 Rad816.Nbd2 h6 17.Nh4 Nxh4 18.Bxh4 Bc6 19.Bc2 Bb7 20.Nf1 Rxd1 21.Rxd1 Qe6 22.Bb3 Qc623.Bd5 Nxd5 24.exd5 Qd6 25.Bg3 f6 26.b3 Rd8 27.c4 bxc4 28.bxc4 c6 29.Ne3 cxd530.cxd5 Qd7 31.Qd3 Bc8 32.Ng4 Bd4 33.Qg6 Kf8 34.Bh4 Qf7 35.Qd3 Rxd5 36.Ne3 Rd737.Rc1 Bb7 38.Qa3+ Kg8 39.Nf5 Qd5 40.Qg3 Kf8 41.Qa3+ Kg8 42.Qg3 Kh7 43.Qg4 Ba744.Kh2 Bb8 45.Ne3 Qf7 46.Qf5+ Kh8 47.Rb1 Rd8 48.Ng4 Qd5 49.Rxb7 Qxb7 50.Nxf6 e4+51.g3 g5 52.Bxg5 hxg5 53.Qg6 Bxg3+ 54.Kg2 e3+ 55.Kxg3 Qc7+ 56.Kg2 Qc6+ 57.Kg3 Qd6+58.Kg2 Qc6+ 59.Kg3  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 bxc6 7.Nc3 d6 8.h3 O-O9.d4 exd4 10.Nxd4 Bxd4 11.Qxd4 c5 12.Qd1 h6 13.Bf4 Re8 14.Re1 Re6 15.Qd3 Qe716.Re3 Bb7 17.Rae1 Rd8 18.Qe2 Ne8 19.Bg3 c6 20.f4 d5 21.f5 d4 22.Rf3 dxc323.fxe6 Qxe6 24.Rxc3 Qxa2 25.Rb3 Bc8 26.Be5 Qa5 27.Rg3 c4 28.Bc3 Qc5+ 29.Kh1 Qd630.Qf3 Qe6 31.Rf1 Bb7 32.Rg4 f6 33.Qg3 Rd7 34.Qf4 g5 35.Qf5 Qxf5 36.Rxf5 Rd1+37.Kh2 Bc8 38.Rc5 Bxg4 39.hxg4 Rd6 40.Rxc4 Kf8 41.Kg3 Re6 42.Kf3 Nc7 43.Ra4 Rd644.e5 Re6 45.exf6 Nb5 46.Rxa6 Nxc3 47.bxc3 Rxf6+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 d6 7.c3 Bg4 8.d3 O-O9.Nbd2 b5 10.Bb3 Ne7 11.Nf1 c6 12.h3 Bh5 13.Ng3 Bg6 14.d4 exd4 15.cxd4 Bb416.Re2 Rc8 17.Nh4 Kh8 18.a3 Ba5 19.Ngf5 Nxf5 20.exf5 Bh5 21.g4 Nxg4 22.hxg4 Qxh423.gxh5 Qg4+ 24.Kf1 Qh3+ 25.Kg1  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.Bxc6 dxc6 8.Nxe5 Nxe49.Qe2 Qd5 10.Nxc6 Qxc6 11.d3 Bf5 12.Nd2 O-O-O 13.dxe4 Rhe8 14.Re1 Bg6 15.e5 Qe616.Nb3 f6 17.Bf4 Qf5 18.Bg3 fxe5 19.Qc4 Bf7 20.Qb4 g5 21.Na5 Bb6 22.Nc4 Bxc423.Qxc4 Rd2 24.Re2 Rxe2 25.Qxe2 h5 26.Qxh5 Rf8 27.Qe2 Re8 28.h3 e4 29.Rf1 Qe630.a3 e3 31.fxe3 Qxe3+ 32.Qxe3 Rxe3 33.Bf2 Re2 34.Bxb6 cxb6 35.Rb1 Kd7 36.Kf1 Rc237.Rd1+ Kc6 38.Rb1 Kd5 39.Rd1+ Kc4 40.Rd4+ Kb3 41.Rb4+ Ka2 42.Rxb6 Rxb2 43.Rxb2+ Kxb244.g3 Kxc3 45.h4 gxh4 46.gxh4 Kd4 47.Ke2 b5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Qe2 O-O9.Be3 Bxe3 10.Qxe3 Ng4 11.Qe2 f5 12.exf5 Bxf5 13.Nbd2 c5 14.Nc4 Bd7 15.Ne3 Qe716.Nd2 Nh6 17.Rae1 Bc6 18.f3 Rf7 19.Ne4 Raf8 20.Qd2 Nf5  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Nc3 b5 8.Bb3 Na59.Kh1 c6 10.h3 Ra7 11.Nh2 O-O 12.f4 Nxb3 13.axb3 Re8 14.fxe5 dxe5 15.Qe1 Nd716.Nf3 Nf8 17.Be3 Bxe3 18.Qxe3 Rd7 19.Rf2 f6 20.Nh4 Ne6 21.Nf5 Nd4 22.Qg3 Nxf523.Rxf5 c5 24.Rf2 Bb7 25.Raf1 Rf7 26.Nd5 Bxd5 27.exd5 Qxd5 28.Rxf6 Rxf6 29.Rxf6  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Rb8 10.h3 O-O 11.Be3 h6 12.Nbd2 Re8 13.Re1 Bd7 14.axb5 axb5 15.dxe5 Nxe516.Nxe5 Rxe5 17.Bxb6 Rxb6 18.f4 Re8 19.Qf3 Bc6 20.Qd3 b4 21.c4 Nd7 22.Qd4 Qh423.Qe3 Qf6 24.Ra7 Qxb2 25.Rxc7 Nc5 26.e5 Nxb3 27.Qxb6 Qxd2 28.Qf2 Qxf2+ 29.Kxf2 Nc5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Be3 O-O 10.h3 Bb7 11.Nbd2 Rb8 12.a3 Qe7 13.Re1 Rbd8 14.Qb1 Nh5 15.Bg5 Nf616.Qd3 h6 17.Bh4 Kh7 18.Nf1 g5 19.Ne3 gxh4 20.Nf5 Qe8 21.Qe3 Ng8 22.N3xh4 Nce723.Qg3 Ng6 24.Re3 Bc8 25.Rae1 Nf6 26.Rf3 Nh5 27.Qg4 Nf6 28.Qg3 Nh5 29.Qg4 Nf630.Qg3 Nh5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Be3 b5 8.Bxc5 dxc59.Bb3 Bg4 10.h3 Bxf3 11.Qxf3 Nd4 12.Qe3 O-O 13.Nd2 Qd6 14.c3 Nxb3 15.Nxb3 Nd716.Rad1 Rfd8 17.f4 exf4 18.Qxf4 Qxf4 19.Rxf4 a5 20.Rf5 g6 21.Rd5 c6 22.Rd6 a423.Nc1 Ne5 24.Rxd8+ Rxd8 25.Kf2 Kf8 26.Ke2 Ke7 27.b3 axb3 28.axb3 h5 29.d4 cxd430.cxd4 Nd7 31.Nd3 Ra8 32.Rd2 Ra3 33.Rc2 Rxb3 34.Rxc6 Ra3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 O-O 8.Re1 d69.h3 h6 10.Be3 Bd7 11.Nbd2 exd4 12.cxd4 Re8 13.d5 Ne5 14.Bxa7 Rxa7 15.Nxe5 Rxe516.Bb3 Re8 17.Kh1 Ra8 18.f4 c6 19.Qf3 b5 20.Nf1 Rc8 21.Rad1 Qa5 22.Re2 Qb423.a3 Qc5 24.Ng3 Qb6 25.Nh5 Nxh5 26.Qxh5 cxd5 27.Kh2 Qd8 28.e5 dxe5 29.Bxd5 Re730.Rxe5 Rc7 31.Qh4 Kf8 32.Bf3 Qe8 33.Rde1 Bc8 34.b4 Rxe5 35.Rxe5 Re7 36.Bc6 Qd837.Qe1 Qd6 38.Rxe7 Qxe7 39.Qxe7+ Kxe7 40.Kg3 Kd6 41.Bf3 Bd7 42.Kf2 Bc6 43.Bh5 f644.h4 g5 45.g3 gxf4 46.gxf4 Kd5 47.Bf3+ Kd6 48.Be2 Bb7 49.Ke3 Bc6 50.Kd4 Bd751.Bf3 Bc8 52.Be4 Bd7 53.Bg6 Bc8 54.Ke4 Bg4 55.Bf5 Bd1 56.Bc8 Bc2+ 57.Kd4 Kc658.Ke3 Bg6 59.Kf3 Bh5+ 60.Kg3 Kb6 61.Bg4 Bg6 62.Kf3 Kc6 63.Bc8 Bh5+ 64.Ke4 Bg6+65.f5 Be8 66.Kd4 Kd6 67.Ke4 Kc6 68.Kf4 Kc7 69.Be6 Bh5 70.Ke4 Kc6 71.Bd5+ Kc772.Kd4 Kd6 73.Bb7 Be8 74.Bc8 Bc6 75.Be6  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Bg5 h6 11.Bh4 Qe7 12.a4 Bd7 13.d5 Na5 14.Nbd2 Kh8 15.b4 Nb7 16.c4 g517.Bg3 Nh5 18.Kh2 Nf4 19.cxb5 axb5 20.a5 Ba7 21.Bxf4 gxf4 22.Qe2 Rg8 23.Bd3 Rg624.Bxb5 Rag8 25.Rg1 Bc8 26.g4 fxg3+ 27.Rxg3 Qf6 28.Rag1 Qf4 29.Qe1 Nd8 30.Bf1 c631.Bc4 R8g7 32.Qf1 h5 33.Kh1 Rxg3 34.Rxg3 Rxg3 35.fxg3 Qxg3 36.Qg2 Qf4 37.Qg5 Qxg538.Nxg5 Be3 39.Ndf3 Kg7 40.dxc6 Nxc6 41.Nxf7 Nxb4 42.Nxd6 Bxh3 43.Nxe5 Kf644.Nf3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.f4 Nc6 11.Qc3 Bb7 12.e5 Ne4 13.Qe3 Na5 14.Nd2 Nxb3 15.axb3 Nxd216.Bxd2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.h3 O-O9.a4 Bb7 10.d4 Bb6 11.axb5 axb5 12.Rxa8 Bxa8 13.dxe5 Nxe5 14.Nxe5 dxe5 15.Qe2 Bc616.Na3 Qa8 17.Re1  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d5 8.exd5 Nxd59.Nxe5 Nxe5 10.d4 O-O 11.dxe5 Bb7 12.Nd2 Nf4 13.Ne4 Qxd1 14.Bxd1 Nh3+ 15.gxh3 Bxe416.Re1 Bd5 17.Bb3 Be6 18.Kg2 Rad8 19.Bf4 Rd3 20.Rad1  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 O-O 13.Na3 exd4 14.cxd4 Rfb8 15.Nc2 Qd816.axb5 axb5 17.Qd3 Na5 18.Bxb7 Rxb7 19.Qxb5 c5 20.Qd3 Rc8 21.b4 cxb4 22.Nxb4 Bxd423.Nxd4 Rxb4 24.Nf5 Nb7 25.Rfc1 Rc5 26.h3 Qf6 27.Rd1 Re5 28.Ra8+ Kh7 29.Qc2 Rc530.Qe2 Rb2 31.Qe3 Rcc2 32.Rb8 Re2 33.Qd4 Qxd4 34.Rxd4 Rxf2 35.Rxb7 Rxg2+36.Kf1 Rbf2+ 37.Ke1 Re2+ 38.Kf1 Ref2+ 39.Ke1 Re2+ 40.Kf1  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxc7 Nxc5 13.Be3 Rc8 14.Bxc5 Rxc715.Bxe7 Kxe7 16.Re1+ Kf6 17.Rd1 Re8 18.Na3 Re2 19.Rd6+ Ke7 20.Rb6 Be4 21.Rxa6 Rb722.Rxa4 Rbxb2 23.Nc4 Bb1 24.g4 Rxa2 25.R4xa2 Bxa2 26.Ne3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Qe2 Be79.Qxe4 Ng6 10.Nc3 O-O 11.Nd5 Bh4 12.c3 c6 13.Nf4 d5 14.Qf3 Bf5 15.Qh5 Nxf416.Qxf5 Ne2+ 17.Kh1 Nxc1 18.Raxc1 g6 19.Qf3 Re8 20.g3 Bg5 21.Rce1 Qd7 22.Kg2 Bh623.Bb3 b5 24.Bc2 Rxe1 25.Rxe1 Re8 26.Qd1 Re7 27.h4 Qe8 28.Rxe7 Qxe7 29.Bd3 a530.h5 a4 31.Qg4 Kg7 32.Qc8 Qf6 33.f4 Qd6 34.a3 Qe6 35.Qxe6 fxe6 36.Kh3 Kf637.Kg4 Bf8 38.Kf3 Bd6 39.Bc2 Bc7 40.Kg4 Bd6 41.Kf3 Bc7 42.Kg4 Bd6 43.Bd1 Bf844.Be2 Bd6 45.Bd3 Bf8 46.Be2 Bd6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 Bb7 10.Re1 h6 11.Be3 O-O 12.Nbd2 exd4 13.cxd4 Nb4 14.Qb1 c5 15.a3 Nc616.e5 dxe5 17.dxc5 Bc7 18.Qc2 e4 19.Nxe4 Nxe4 20.Qxe4 Na5 21.Qc2 Bxf3 22.gxf3 Nxb323.Qxb3 Qf6 24.Kg2 Qg6+ 25.Kh1 Qf5 26.Kg2 Rae8 27.Rad1 Qg6+ 28.Kf1 Qf5 29.Kg2 Qg6+30.Kf1 Ba5 31.Re2 Qf5 32.Kg2 Re6 33.Rd4 Rg6+ 34.Rg4 h5 35.Rxg6 Qxg6+ 36.Kf1 Qf537.Kg2 Qg6+ 38.Kf1 Qf5 39.Kg2 Qg6+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 d6 7.h3 Be6 8.Re1 b59.Bc2 O-O 10.d4 exd4 11.cxd4 Bb4 12.Nc3 d5 13.e5 Nd7 14.Ng5 g6 15.Nxe6 fxe616.Qg4 Qe8 17.h4 Qf7 18.f3 Kh8 19.Kh1 Be7 20.Ne2 Rg8 21.Nf4 Nxd4 22.Nxg6+ hxg623.Qxd4 Qh7 24.g3 Qh5 25.Qg4 Qxg4 26.fxg4 Raf8 27.Kg2 Bb4 28.Re2 d4 29.Re4 Bc530.a3 Bb6 31.b4 c5 32.bxc5 Bxc5 33.g5 Rg7 34.Bb3 Re7 35.Rf4 Rg8  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Be2 Bg4 13.Bxg4 Nxg4 14.a4 b4 15.cxb4 Nxb416.Bd2 Nc2 17.Ra2 Rb8 18.Nc3 O-O 19.Nxe4 Rfe8 20.Ng3 Ne5 21.b3 Nd4 22.b4 Nd323.Be3 Nxb4 24.Rd2 Ne6 25.f4 f6 26.f5 Nf8 27.Bf4 Re7 28.Rb1 a5 29.Ne2 g530.Bg3 h5 31.h3 h4 32.Bh2 Rbe8 33.Nd4 Rd7 34.Rbd1 Red8 35.Nb3 Rxd2 36.Rxd2 Rxd237.Nxd2 Nd7 38.Bxc7 Nxc5 39.Bxa5 Nd5 40.Bd8 Nxa4 41.Ne4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 Bb7 11.f3 c5 12.Qd1 O-O 13.a4 c4 14.Bc2 Qb6+ 15.Qd4 Qxd4+16.cxd4 Nc6 17.d5 Nb4 18.Na3 Nd7 19.Bd2 Nxc2 20.Nxc2 f5 21.axb5 axb5 22.Nd4 fxe423.fxe4 Rxf1+ 24.Rxf1 Nc5 25.Nxb5 Nxe4 26.Bf4 Rf8 27.Nxd6 Nxd6  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.f4 Nc6 11.Qc3 Bb7 12.e5 Ne4 13.Qe3 Na5 14.Nd2 Nxb3 15.cxb3 Nxd216.Bxd2 O-O 17.Bc3 Qh4 18.Rae1 Rfe8 19.Qf2 Qxf2+ 20.Rxf2 dxe5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.Na3 Bg4 11.axb5 axb5 12.Nxb5 O-O 13.Bc2 Bxf3 14.Qxf3 exd4 15.Bg5 h616.Bh4 dxc3 17.bxc3 Ne5 18.Qe2 Ng6 19.Bg3 Re8 20.Rad1 Qd7 21.Nd4 Qg4 22.f3 Qg523.f4 Qh5 24.Rf3 Nh4 25.Bxh4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.h3 Bb7 12.Re1 O-O 13.Na3 exd4 14.Nxb5 dxc3 15.Nxc3 Ne516.Nxe5 dxe5 17.Qf3 Bd4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.c3 O-O 7.d4 Bb6 8.dxe5 Nxe49.Qd5 Nc5 10.Bc2 Ne7 11.Qd1 d5 12.exd6 Qxd6 13.Qxd6 cxd6 14.Bg5 Re8 15.Nbd2 d516.c4 f6 17.Be3 Bf5 18.Rac1 Bxc2 19.Rxc2 Nd7 20.Bxb6 Nxb6 21.c5 Nd7 22.Nb3 Rac823.Re1 Kf7 24.Kf1 Nc6 25.Rd1 Nb4 26.Rcd2 Nxc5 27.Nxc5 Rxc5 28.a3 Nc6 29.Rxd5 Rxd530.Rxd5 Ke6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.axb5 axb5 11.Rxa8 Qxa8 12.d3 O-O 13.b4 Bb6 14.Na3 Qa6 15.Bb3 Nd816.g4 Bg6 17.Nh4 Ne6 18.Nf5 c5 19.Nc2 Bd8 20.c4 cxb4 21.Nxb4 Qb6 22.Be3 Nc523.Qb1 Bxf5 24.gxf5 Qb7 25.Ba2 g6 26.Bh6 Re8 27.cxb5 Qxb5 28.Kh2 Qd7 29.Rg1 Kh830.Bc4 Rg8 31.Nd5 gxf5 32.Nxf6 Bxf6 33.Rxg8+ Kxg8 34.exf5 Qb7 35.Qa2 Qe736.Bxf7+ Kh8 37.Bc4 Qd8 38.Qa7 e4 39.Qf7 Nxd3 40.Bd5 Ne5 41.Qb7 Qe7 42.Qc8+ Qd843.Qb7 Qe7 44.Qb1 Nd7 45.Kh1 Bg7 46.Be3 Nf6 47.Be6 Qe8 48.Bd4 Qa8 49.Kg1 Qd850.Qb2 Qf8 51.Kf1 Qd8 52.Qc3 Qf8 53.h4 h6 54.Qb3 Nh7 55.Be3 Nf6 56.Qc4 Qd857.Qc6 Qe7 58.Bb6 Kh7 59.Ke1 Kh8 60.Qc8+ Qe8 61.Bd8 Ng4 62.Bd7 Qg8 63.Be6 Qe864.Qc7 Qb5 65.Bg5 Qe8 66.Bd2 Ne5 67.Kf1 Nf3 68.Bc3 Nd4 69.Bxd4 Bxd4 70.Qc4 Bg771.Qxe4 Qf8 72.Kg2 Bf6 73.Kh3 Bg7 74.Qc6 Bf6 75.Kg4 Be7 76.Kh5 Kh7 77.Qc4 Qf678.Qg4 Qg7 79.Qe4 Qf6 80.f3 Bd8 81.Qg4 Qg7 82.Qxg7+  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kd8 14.Be3 Re8 15.Na3 Nf616.Nc2 Be4 17.Nd4 Nd5 18.Bd2 Bg6 19.b4 axb3 20.Rxe8+ Kxe8 21.axb3 Ne7 22.b4 Bd323.f3 Kd8 24.Kf2 Rb8 25.g4 Bc4 26.h4 d6 27.cxd6 cxd6 28.Nc2 Rc8 29.Ne3 Bd330.h5 Kd7 31.Be1 Kc6 32.Rd1 Bb5 33.Kg2 f6 34.Nc2 Bc4 35.Nd4+ Kd7 36.Kf2 g637.hxg6 hxg6 38.Bd2 Nc6 39.Nxc6 Kxc6 40.Bf4 Rd8 41.Re1 Kd7 42.Rh1 Re8 43.Be3 Re744.Rh6 Bd3 45.Bd4 Re2+ 46.Kg3 Re6 47.Rh8 Re8 48.Rh1 Re6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.d5 Na7 13.h3 Bh5 14.Bg5 Nd7 15.g4 Bg616.Nh4 h6 17.Bc1 Qd8 18.Nf5 Bxf5 19.exf5 Nf6 20.b3 Qd7 21.Qf3 O-O 22.Nd2 c623.dxc6 Qxc6 24.Ne4 Rc8 25.Nxf6+ gxf6 26.Qxc6 Nxc6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Rb8 10.axb5 axb5 11.Na3 exd4 12.cxd4 Bg4 13.Nxb5 O-O 14.Be3 Re8 15.Nc3 Bxf316.gxf3 Nb4 17.Ba4 Rf8 18.Kh1 c5 19.Rg1 cxd4 20.Bxd4 g6 21.f4 d5 22.e5 Ne423.Rg2 Qh4 24.Bxb6 Rxb6 25.Qd4 Rfb8 26.f5 Nxc3 27.bxc3 Nc6 28.Bxc6 Rb1+ 29.Rxb1 Rxb1+30.Rg1 Rb2  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.Na3 Bg4 12.Nxb5 O-O 13.Bc2 d5 14.Bg5 exd4 15.cxd4 dxe416.Bxe4 Bxf3 17.Qxf3 Nxd4 18.Nxd4 Qxd4 19.Bxf6  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Be3 O-O 10.Nbd2 h6 11.h3 Bb7 12.d5 Ne7 13.Bxb6 cxb6 14.Nh4 Bc8 15.Qf3 Ra716.a4 bxa4 17.Rxa4 b5 18.Ra3 Qb6 19.Rfa1 Nh7 20.Qe3 Qxe3 21.fxe3 Rc7 22.Nhf3 Nf623.Bc2 Nd7 24.b4 Nb6 25.Bd3 Bb7 26.Nxe5 dxe5 27.d6 Rd7 28.dxe7 Rxe7 29.Nb3 Na430.Rxa4 bxa4 31.Rxa4 Rd8 32.Nc5 Rc7 33.Bxa6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nc3 O-O 7.d3 d5 8.exd5 Nxd59.Bxc6 bxc6 10.Nxe5 Qf6 11.Ne4 Qxe5 12.Nxc5 Nc3 13.bxc3 Qxc5 14.Bf4 Qxc3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 O-O 8.c3 d69.Nbd2 Kh8 10.h3 Ng8 11.Re1 f5 12.Nf1 fxe4 13.dxe4 Qe8 14.Be3 Bxe3 15.Rxe3 Nf616.a4 Rb8 17.axb5 Rxb5 18.Ra2 Nh5 19.Bc4 Rb6 20.b4 Nd8 21.Qa1 Qg6 22.Bxa6 Be623.Rd2 Nf7 24.Be2 Nf4 25.Ng3 Rbb8 26.Qf1 Ng5 27.Nxg5 Qxg5 28.Bf3 Nxh3+ 29.gxh3 Rxf330.Rxf3 Qxd2 31.Re3 Ra8 32.Kg2 h6 33.Qb5 Rf8 34.Qe2 Qc1 35.Rf3 Ra8 36.Qf1 Ra137.Rf8+ Kh7 38.Qb5 Qg1+ 39.Kf3 Qd1+ 40.Kg2 Qg1+ 41.Kf3 Qd1+ 42.Kg2 Qg1+ 43.Kf3  1/2-1/2");
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Re1 Rb8 12.axb5 axb5 13.Nbd2 b4 14.Ba4 bxc3 15.bxc3 Ne716.Nf1 Nd7 17.Ng3 Bg6 18.Bb3 h6 19.Rb1 Kh8 20.Nh4 Bh7 21.Qf3 Nd5 22.exd5 Qxh423.Bc2 Rxb1 24.Bxb1 f5 25.Kf1 Nf6 26.d4 e4 27.Nxf5 exf3 28.Nxh4 fxg2+ 29.Nxg2 Bxb130.dxc5 Nxd5 31.cxd6 cxd6 32.Ba3 Bd3+ 33.Kg1 Rf3 34.Bxd6 Rxh3 35.Bg3 Rh536.Re5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.Nd3 O-O 10.Nxc5 Nxc5 11.Nc3 Qf5 12.d3 Bd7 13.Be3 Rfe8 14.Qd2 Ne6 15.Ne4 c516.Qc3 b6 17.a3 Qd5 18.f3 a5 19.Rae1 a4 20.Bf2 Nd4 21.Qd2 Bc6 22.Bg3 Qd723.c3 Ne6 24.Nf2 f6 25.h4 Rad8 26.Re3 Nf8 27.Rfe1 Rxe3 28.Qxe3 Qf7 29.Qf4 Rd730.Qf5 Ng6 31.c4 Ne7 32.Qf4 h5 33.Kh2 Bb7 34.Qe3 Kf8 35.Qf4 Nc6 36.Qf5 Kg837.Ne4 Nd4 38.Qf4 Qg6 39.Bf2 Nf5 40.Nc3 Bc6 41.Re6 Rd6 42.Rxd6 Nxd6 43.Ne4 Qf544.Qxf5 Nxf5 45.Nc3 Kf7 46.Bg3 Nd6 47.Bxd6 cxd6 48.Kg3 g5 49.hxg5 fxg5 50.Ne4 Bxe451.dxe4 Ke6 52.f4 gxf4+ 53.Kxf4 Kf6 54.Kg3 Kg5 55.Kh3 h4 56.g3 hxg3 57.Kxg3 Kf658.Kf4 Ke6 59.Kf3 Kf7 60.Kf4 Kf6 61.Ke3 Ke6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Rb8 11.Re1 Bd7 12.Nbd2 Re8 13.Nf1 b4 14.Ng3 bxc3 15.bxc3 Ba516.Bd2 h6 17.Bb3 Bb6 18.Bc1 a5 19.Rb1 Qc8 20.Bb2 Qa6 21.dxe5 Nxe5 22.Nxe5 Rxe523.c4 Qa7 24.c5 Bxc5 25.Qf3 Rg5 26.Bxf6 gxf6 27.Nh5 Rxh5 28.Qxh5 Bxf2+ 29.Kh1 Rxb330.axb3 Bxe1 31.Rxe1 Qf2 32.Ra1 Qe3 33.Qf3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.dxe5 Nxe49.Bb3 Bb7 10.Qg4 Qe7 11.Nc3 Nxc3 12.bxc3 O-O-O 13.Bg5 f6 14.exf6 gxf6 15.Bh4 Qe516.Rfe1 Qxc3 17.Rad1 Bc6 18.Qe2 Kb7 19.Bg3 d6 20.Rd3 Qa5 21.Ra1 Rde8 22.Qd1 Re423.Kh1 Rhe8 24.f3 Re2 25.a4 b4 26.Bc4 Bf2 27.Bxf2 Rxf2 28.Rb3 Qc5 29.c3 Ka730.Bf1 Qd5 31.Qxd5 Bxd5 32.Rxb4 Re3 33.Rf4 Rxc3 34.Rxf6 Ra3 35.Re1 Re3 36.Ra1 Kb637.Rf4 Rc3 38.Kg1 Rb2 39.a5+ Ka7 40.Rh4 Bg8 41.Rg4 Bf7 42.Rg7 Bg6 43.h4 Bb144.Kh2 Kb7 45.Kg3 d5 46.Rd7 Rc5 47.Rd8 Rb4 48.h5 d4 49.h6 Rg5+ 50.Kf4 Rf5+51.Kg4 Rf6 52.Bc4 Ka7 53.Bd5 c6 54.Rd7+ Kb8 55.Ba2 Bc2 56.Re1 Rb7 57.Rxd4 Rxh658.Re8+ Ka7 59.Kg3 Rg6+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 O-O9.Nbd2 Bxe3 10.fxe3 Ng4 11.Qe2 c5 12.h3 Nh6 13.g4 f6 14.Rf2 Nf7 15.Kh2 Be616.Rg1 Rad8 17.Nh4 c4 18.dxc4 Qb4 19.b3 b5 20.Nf5 Ng5 21.Rgg2 bxc4 22.bxc4 Qa323.Qf1 Bxf5 24.gxf5 Rd7 25.h4 Nf7 26.Rg3 Rfd8 27.Nb3 Nd6 28.Rfg2 Ne8 29.c5 Qa430.Qf3 Qxa2 31.c6 Re7 32.Nc5 Qb1 33.Ne6 Rd1 34.Rf2 a5 35.Qg2 a4 36.c4 a337.Ra2 Rh1+ 38.Qxh1 Qxa2+ 39.Rg2 Qxc4 40.Qa1 Qxe4 41.Qxa3 Qxh4+ 42.Kg1 Qe1+  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Bg4 21.Rd3 Bf522.Rdd1 Bg4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 O-O 10.Be3 Bxe3 11.fxe3 Rb8 12.axb5 axb5 13.Ra6 Qe8 14.Nbd2 Nd8 15.Ra7 Qe716.Qe1 Ne8 17.Qg3 Be6 18.Nh4 f6 19.Nf5 Qd7 20.Bd5 Kh8 21.d4 g6 22.Nh4 Qf723.Bxe6 Nxe6 24.Nhf3 Qe7 25.b4 N8g7 26.d5 Nd8 27.Nh4 Kg8 28.Qg4 Nf7 29.Ndf3 Nh830.Nd2 Nf7 31.Ndf3 Nh8 32.g3 Rf7 33.Nd2 Rff8 34.Nb3 Ra8 35.Rxa8 Rxa8 36.Na5 Ne837.Nc6 Qg7 38.Qe2 Qd7 39.Qxb5 Nf7 40.Nf3 Qg4 41.Qd3 Ra2 42.Rf2 Ra1+ 43.Kg2 f544.Qb5 fxe4 45.Nfxe5 dxe5 46.Nxe5 Nfd6 47.Qxe8+ Nxe8 48.Nxg4 Kg7 49.Ne5 Nd650.c4 Rc1 51.c5 Nf5 52.g4 Nxe3+ 53.Kg3 Nxd5 54.Rf7+ Kg8 55.Rd7 Nxb4 56.Rxc7 Nd357.Nxd3 exd3  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 O-O 11.f3 c5 12.Qd1 c4 13.Bc2 d5 14.exd5 Bb7 15.a4 b4 16.cxb4 Qb6+17.Kh1 Nxd5 18.Qe1 Rfe8 19.Qh4 h6 20.Nc3 Nxb4 21.a5 Qc7 22.Be4 Nbd3 23.Be3 Ng624.Qh5 Re5 25.Qg4 Bxe4 26.fxe4 Rxa5 27.Rxa5 Qxa5 28.Bd4 Qg5 29.Qd7 Rf8 30.Nd5 Ndf431.Nxf4 Nxf4 32.g3 Ne6 33.Bc3 Qe3 34.Qd5 Qe2 35.Kg1 Ng5 36.Qf5 Qxe4 37.h4 Qe3+38.Kg2 Qe4+ 39.Kh2 Qxf5 40.Rxf5 Ne4 41.Ra5 Rb8 42.Ra4 Nxc3 43.bxc3 Kf8 44.Kg2 Ke745.Kf3 Kd7 46.Ke4 Rb6 47.Rxc4 Rg6 48.Kf4 h5 49.Rc5 Rc6 50.Rxh5 Rc4+ 51.Kf3 Rxc3+52.Kf4 Rc4+ 53.Kf3 Rc8 54.Rg5 g6 55.Ra5 Ra8 56.Kf4 f6 57.g4 Kc7 58.h5 Kb659.Ra1 gxh5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kd8 14.Be3 Re8 15.Na3 Rb816.f3 Nf6 17.Bd4 Rxe1+ 18.Rxe1 Bd5 19.c4 Be6 20.Kf2 Ng8 21.c6 f6 22.cxd7 Kxd723.Rd1 Ke8 24.Ke3 Ne7 25.Kd2 Rd8 26.Kc1 Nf5 27.Bf2 Rxd1+ 28.Kxd1 Nd6 29.b3 axb330.axb3 Kd7 31.Kd2 h5 32.Nb1 g5 33.Nc3 g4 34.Na4 Nb7 35.fxg4 hxg4 36.Bd4 Ke737.Ke3 Kf7 38.Kf4 Bd7 39.Nb2 Na5 40.b4 Nc6 41.Bc3 Be6 42.Nd1 Bxc4 43.Ne3 Ne744.Nxc4 Nd5+ 45.Kxg4 Nxc3 46.Na5 Nd5 47.Nc6 Kg6 48.Kf3 f5 49.g3 Kg5 50.h3 Kh551.h4 Kg6 52.Ne5+ Kg7 53.Nd3 Kh6 54.g4 fxg4+ 55.Kxg4 Ne3+ 56.Kf4 Nc2 57.Ke5 Kh558.Kd5 Nxb4+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Bb7 11.Nbd2 Re8 12.d5 Ne7 13.Bxb6 cxb6 14.c4 bxc4 15.Nxc4 b516.Ne3 Ng6 17.a4 Qb6 18.Qd2 Reb8 19.axb5 axb5 20.g3 h6 21.b4 Bc8 22.Kg2 Bd723.Bd3 Ra4 24.Rxa4 bxa4 25.Nc4 Qd8 26.Rb1 Nh5 27.Ne3 a3 28.Ra1 Ra8 29.Kh2 Nf630.Nc4 Bb5 31.Nxa3 Bxd3 32.Qxd3 Qb6 33.Kg2 Qxb4 34.Nc2 Qb7 35.Rxa8+ Qxa836.Ne3 Ne7 37.Nd2 Qa4 38.Ndc4 Qb4 39.Qc2 g6 40.f3 h5 41.h4 Kg7 42.Qa2 Qe143.Qd2 Qxd2+ 44.Nxd2 Nd7 45.Ndc4 Nc8 46.Kf2 Kf6 47.g4 hxg4 48.fxg4 Nc5 49.Kf3 Nb350.g5+ Ke7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.d3 O-O 10.Nbd2 d5 11.h3 Bh5 12.Qe2 Re8 13.Rd1 b4 14.g4 Bg6 15.Nf1 bxc316.bxc3 d4 17.cxd4 Nxd4 18.Nxd4 Bxd4 19.Rb1 Nd7 20.Nd2 Nc5 21.Nf3 f6 22.Nxd4 exd423.Ba3 Ne6 24.Qf3 Bf7 25.Qg3 g5 26.Bc1 Rb8 27.Bd2 Qd7 28.Re1 Qc6 29.Rxb8 Rxb830.Rc1 Qd6 31.Qxd6 cxd6 32.Rb1 Rxb1+ 33.Bxb1 Nc5 34.Bc2 Be8 35.Bb4 Kf7 36.Kf1 Bxa437.Bxa4 Nxa4 38.Bxd6 Nc3 39.Bc5 Nb5 40.Bb6 Ke6 41.Ke2 Ke5 42.Kd2 Nc3 43.Bc7+ Ke644.Bb6 Ke5 45.Bc7+ Ke6 46.Bb6 Ke5  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 Bb7 11.f3 O-O 12.Bg5 h6 13.Bh4 c5 14.Bxf6 Qxf6 15.Qe3 a516.Nd2 Qe7 17.Rad1 Qc7  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.Nd3 O-O 10.Nxc5 Nxc5 11.Nc3 Qf5 12.d3 Bd7 13.Qe7 Rfe8 14.Qg5 Qxg5 15.Bxg5 Ne616.Be3 c5 17.Ne2 Rad8 18.Rfe1 Bc6 19.Rac1 b6 20.Nf4 Nd4 21.Ne2 Ne6 22.Nf4 Nf823.h4 f6 24.c3 Re7 25.d4 cxd4 26.cxd4 Bd5 27.a3 Kf7 28.Rc3 Ng6 29.Nxd5 Rxd530.Rec1 Nxh4 31.Rxc7 Nf5 32.Kf1 b5 33.Rxe7+ Nxe7 34.Rc7 a5 35.Bd2 Ke6 36.Bxa5 Rxd437.Rb7 Rd5 38.Bb4 Nf5 39.g4 Nd4 40.Rxg7 Nc6 41.Bc3 h5 42.Rc7 Nb8 43.Rc8 Nd744.Rc6+ Kf7 45.gxh5 Rxh5 46.Ke2 Rd5 47.Ke3 f5 48.Kf4 Nc5 49.Rf6+ Ke7 50.f3 Ne6+51.Ke3 Kd6 52.f4 Ke7 53.Be5 Ng7 54.Rh6 Ne6 55.Rh5 Nc5 56.Rxf5 Rd3+ 57.Ke2 Rb358.Bc3 Na4 59.Bb4+ Kd7 60.Rxb5 Nxb2 61.f5 Nc4 62.Rb7+ Kc6 63.Ra7 Re3+ 64.Kf2 Re565.Rf7 Ne3 66.f6 Nd5 67.Bd2  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Bg5 Qd7 11.axb5 axb5 12.Rxa8+ Bxa8 13.Bxf6 gxf6 14.Bd5 O-O 15.Na3 exd416.cxd4 Ne7 17.Bxa8 Rxa8 18.Qd3 c6 19.Nc2 d5 20.Ne3 Re8 21.e5 Qe6 22.exf6 Qxf623.Ng4 Qg7 24.h3 Kh8 25.Re1 f6 26.Qe3 Bd8 27.Qh6 Qxh6 28.Nxh6 Rf8 29.Nh4 f530.Re6 Kg7 31.g4 fxg4 32.hxg4 Rf6 33.N6f5+ Nxf5 34.Nxf5+ Kf7 35.Re3 h5 36.f3 hxg437.fxg4 Re6 38.Rc3 Kf6 39.Kf2 Kg5 40.Kf3 Bf6 41.Re3 Rxe3+ 42.Kxe3 Kxg4 43.Nd6 Be7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Rb8 10.axb5 axb5 11.Be3 Bxe3 12.fxe3 O-O 13.Nbd2 b4 14.Qe1 bxc3 15.bxc3 Bxf316.Rxf3 Ra8 17.h3 Rxa1 18.Qxa1 Qa8 19.Rf1 Qxa1 20.Rxa1 Rb8 21.Kf2 Kf8 22.Ra6 Ne723.Ra7 Ne8 24.d4 Nc6 25.Ra6 Rb6 26.Ra8 Rb8 27.Ra6 Rb6 28.Ra3 Rb7 29.Bd5 Ra730.Rb3 Nd8 31.Rb8 Ke7 32.Ke2 Nf6 33.Bc4 Rb7 34.Rc8 Nd7 35.Ra8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.axb5 axb5 12.Rxa8 Qxa8 13.b4 Bb6 14.Bg5 Nd8 15.Bxf6 gxf616.g4 Bg6 17.Nh4 Ne6 18.Kh2 Nf4 19.Ng2 Nxg2 20.Kxg2 f5 21.Nd2 fxe4 22.dxe4 Qc623.Qf3 Bd4 24.Nb1 Bb6 25.h4 f6 26.Nd2 Kg7 27.h5 Be8 28.Rg1 Kh8 29.Bb3 Qd730.Nf1 Qg7 31.Ng3 Bd7 32.Nf5 Qg5 33.Ra1 Qd2 34.Ra2 Qc1 35.Ne7 Qg5 36.Kg3 Qc137.Kg2 Qg5 38.Kg3 Qc1 39.Kg2 Qg5 40.Kg3  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 b5 7.Bb3 d6 8.h3 O-O9.c3 Bb7 10.d4 Bb6 11.d5 Ne7 12.Nbd2 Ng6 13.Nf1 h6 14.Ng3 Bc8 15.a4 Bd7 16.a5 Ba717.Bc2 Nh7 18.b4 Qf6 19.Be3 Nh4 20.Nh5 Nxf3+ 21.Qxf3 Qxf3 22.gxf3 Bxh3 23.Kh2 Bxe324.fxe3 Bd7 25.f4 f5 26.Rg1 g5 27.Raf1 fxe4 28.Bxe4 Bf5 29.Bxf5 Rxf5 30.fxg5 Rxf131.Rxf1 Nxg5 32.Rf6 Kh7 33.Ng3 Rg8 34.Nf5 Rg6 35.Rxg6 Kxg6 36.Ne7+ Kh7 37.Nc6 Ne4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 b5 8.Bb3 O-O9.a4 Bg4 10.h3 Bxf3 11.Qxf3 Na5 12.Ba2 bxa4 13.Nd2 Qd7 14.Bb1 Rfb8 15.Qd1 Nb316.Nxb3 axb3 17.d4 Bb6 18.Ra3 exd4 19.cxd4 c5 20.dxc5 Bxc5  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kd8 14.Be3 Re8 15.Na3 Bd516.c4 Be6 17.Bd4 Nf6 18.Rad1 Kc8 19.h3 Ng8 20.Bc3 g6 21.f3 Ne7 22.Kf2 h523.g4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.b4 Bb69.a4 Bg4 10.h3 Bh5 11.axb5 axb5 12.Rxa8 Qxa8 13.Na3 Nd8 14.d3 c6 15.Bb3 O-O16.Nc2 Ne6 17.Ne3 Bxf3 18.Qxf3 Qa1 19.Bd2 Qb2 20.Qd1 Bxe3 21.fxe3 Ra8 22.Qc2 Qxc223.Bxc2 Ra2 24.Rc1 Nd7 25.Kf2 Kf8 26.Ke2 Nc7 27.Kd1 Ke7 28.Rb1 h5 29.Bb3 Ra830.Kc2 h4 31.Rf1 f6 32.Kb2 g5 33.Bd1 Nb6 34.Bg4 c5 35.Be1 c4 36.d4 Na4+ 37.Kb1 Nb638.Bd1 Ne6 39.Rf2 Nc7 40.Rf5 Nd7 41.g3 hxg3 42.Bxg3 Rh8 43.Bg4 Nf8 44.Rf2 Nfe645.Rd2 Ra8 46.Kb2 Rh8 47.Rd1 Ra8 48.Rh1 Rh8 49.Kc2 Ra8 50.Kb2 Rh8 51.Rf1 Ng752.Kc2 Nge6 53.Kd2 Ra8 54.Bd1 Ra3 55.Rg1 Ra2+ 56.Bc2 Kf7 57.Rf1 Ke7 58.h4 gxh459.Bxh4 Ne8 60.Kc1 Ra1+ 61.Bb1 Ra3 62.Be1 Kf8 63.Bc2 Ra7 64.Kd2 Ra2 65.Bh4 Ke766.Rf5 N6g7 67.Rf1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.h3 Bh5 13.d5 Ne7 14.Bc2 Bg6 15.Qe2 c616.dxc6 Qxc6 17.Re1 O-O 18.Na3 Rb8 19.Bd3 h6 20.Nd2 b4 21.cxb4 d5 22.Bb5 Qb723.exd5 Nexd5 24.Ndc4 Ne4 25.Nxb6 Qxb6 26.Be3 Qb7 27.Rc1 Qe7 28.Bc6 Nxb429.Bxe4 Bxe4 30.Bxh6 Bg6 31.Bd2 Nd3 32.Rc3 Nxb2 33.Nc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 O-O 8.h3 b5 9.Bc2 Bb710.Re1 Re8 11.Nbd2 Bb6 12.Nf1 Ne7 13.Ng3 Ng6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Qe79.Qxa4 Qxc5 10.Na3 Bb7 11.Be3 Qe7 12.Rad1 O-O 13.Bg5 d6 14.Nh4 Qe6 15.Nf5 Nd716.f3 Nc5 17.Qc4 Qxc4 18.Nxc4 Ne6 19.Bh4 g6 20.Ne7+ Nxe7 21.Bxe7 Rfe8 22.Bf6 g523.h4 h6 24.hxg5 hxg5 25.Kf2 Kh7 26.Ne3 Kg6 27.Ng4 Ng7 28.Rh1 Rh8 29.Bxg7 Kxg730.Ne3 Rxh1 31.Nf5+ Kg8 32.Rxh1 Bc8 33.Ne7+ Kg7 34.Nxc8 Rxc8 35.c4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 Bb6 8.d4 d69.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bg49.Nbd2 Nd7 10.a3 Bd6 11.h3 Bh5 12.c3 f6 13.b4 O-O 14.Qc2 Rfd8 15.Nh4 Qe616.Nf5 Bg6 17.Ng3 Nf8 18.f4 exf4 19.Bxf4 Qd7 20.Bxd6 cxd6 21.d4 Re8 22.Rae1 Re623.Qd1 Rae8 24.c4 Qc7 25.Kh2 a5 26.Qb3 axb4 27.axb4 Kh8 28.Rc1 R6e7 29.Qc3 c530.bxc5 dxc5 31.d5 Bxe4 32.Nxe4 Rxe4 33.Rce1 Rxe1 34.Rxe1 Rxe1 35.Qxe1 g636.Kg1 Kg7 37.Ne4 Qe5 38.Qb1 b6 39.Kh1 f5 40.Nd2 Nd7 41.Nf3 Qc3 42.Qb5 Nf643.Qxb6 Qc1+ 44.Kh2 Qf4+ 45.Kh1 Qc1+ 46.Kh2 Qf4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.Bb3 Qd3 10.Bc2 Qd5 11.Bb3 Qd3 12.Bc2 Qd5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Ng5 exd4 10.Nxe4 Be7 11.Re1 O-O 12.Qd3 g6 13.Bg5 Bf5 14.Qf3 Nxe4 15.Bxe7 Nxe716.Bxe4 Bxe4 17.Qxe4 Nf5 18.cxd4 Qxd4 19.Nc3 Rad8 20.Rad1 Qxe4 21.Nxe4 Kg722.Nc5 a5 23.Nb7 Rxd1 24.Rxd1 a4 25.g4 Nh4 26.Rd7 Re8 27.Kf1 Nf3 28.Kg2 Ne1+29.Kf1 Nf3 30.h3 Kf8 31.Rxc7 Ne5 32.Nd6 Rd8 33.Nxb5 Rb8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.c3 O-O9.Be3 h6 10.Nbd2 Bb7 11.Qe1 Nd7 12.Bd5 Rb8 13.b4 Bb6 14.a4 Ne7 15.Bxb7 Rxb716.axb5 axb5 17.Bxb6 Rxb6 18.d4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb79.d4 Bb6 10.Bg5 exd4 11.cxd4 h6 12.Bxf6 Qxf6 13.Bd5 O-O 14.Nc3 b4 15.Ne2 Na516.Bxb7 Nxb7 17.Qd2 Qe6 18.Ng3 a5 19.Rfe1 d5 20.exd5 Qxd5 21.Re5 Qd7 22.Rae1 Rae823.Nf5 Rxe5 24.Rxe5 Nd6 25.Ne7+ Kh8 26.b3 Nc8 27.Nd5 f6 28.Nxb6 cxb6 29.Re3 Rd830.h3 Ne7 31.Nh4 Nf5 32.Nxf5 Qxf5 33.Rd3 Qd5  1/2-1/2");
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Qe2 d6 7.h3 O-O 8.c3 Re89.Rd1 Bd7 10.Bc2 Qe7 11.d3 Nh5 12.Be3 Bxe3 13.fxe3 g6 14.Qf2 Rf8 15.Qh4 Qxh416.Nxh4 Ne7 17.Nd2 f5 18.exf5 Nxf5 19.Nxf5 Bxf5 20.e4 Be6 21.Nf3 Bxh3 22.Ng5 Bg423.Rf1 Nf4 24.d4 exd4 25.cxd4 Ne2+ 26.Kh2 Nxd4 27.Bd3 h6 28.Nh3 Bxh3 29.Kxh3 Kg730.Kg3 Rf6 31.Rfd1 c5 32.Rac1 Raf8 33.a3 Nc6 34.Bc4 b5 35.Bd5 Nd4 36.Kh3 Ne237.Rc2 Rf2 38.Rcd2 Nf4+ 39.Kg3 Rxd2 40.Rxd2 Nxd5 41.Rxd5 Rf6 42.b4 cxb4 43.axb4 Re644.Kf4 Kf6 45.Rd1 g5+ 46.Kf3 h5 47.Ra1 d5 48.exd5 Rd6 49.Ke4 h4 50.Rf1+ Kg651.Ke5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 b5 7.Bb3 d6 8.c3 O-O9.a4 Rb8 10.d3 Bg4 11.Nbd2 d5 12.exd5 Nxd5 13.h3 Bh5 14.Ne4 Bb6 15.axb5 axb516.Ng3 Bxf3 17.Qxf3 Nde7 18.Bg5 Qd6 19.Rad1 Rbe8 20.Re4 Kh8 21.Rh4 Qg6 22.Bxe7 Nxe723.Rg4 Qc6 24.Rb4 Ng6 25.Nf5 Qf6 26.Rg4 Rg8 27.Ne3 Qxf3 28.gxf3 Rgf8 29.Nf5 Nf430.Nxg7 Nxh3+ 31.Kg2 Nxf2 32.Nxe8 Nxg4 33.fxg4 Rxe8 34.Bxf7 Rf8 35.Rf1 Kg7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bg49.Nbd2 Nd7 10.Bxc5 Nxc5 11.Nc4 f6 12.Ne3 Bh5 13.Nf5 Qd7 14.Ng3 Bxf3 15.Qxf3 Ne616.Ne2 c5 17.Qh5+ g6 18.Qh6 O-O-O 19.Rac1 Kb8 20.Qe3 g5 21.Nc3 Qd6 22.a3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.d3 h6 7.c3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 Nxe4 8.Re1 f59.Bxc6 dxc6 10.Nxe5 O-O 11.f3 Re8 12.Nd3  1/2-1/2");
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 Bb7 11.f3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Bxd4 8.Qxd4 Qe79.Nc3 O-O 10.Bg5 Qe6 11.Bb3 Qd6 12.Nd5 Nxd5 13.Qxd5 Qxd5 14.Bxd5 c6 15.Bb3 h616.Bh4 Ng6 17.Bg3 Re8 18.Rfe1 b6 19.f4 Ne7 20.Bf2 b5 21.a4 Bb7 22.Rad1 d523.axb5 axb5 24.Bc5 Ng6 25.exd5 Rxe1+ 26.Rxe1 cxd5 27.g3 Rc8 28.Bb4 Rd8 29.f5 Nf830.c3 Nd7 31.Rd1 Ne5 32.h3 Bc6 33.Kf2 Rd7 34.g4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 O-O 7.c3 Ng4 8.d4 exd49.cxd4 Bb4 10.Bd2 Bxd2 11.Qxd2 d5 12.e5 f6 13.h3 Nh6 14.Bc2 fxe5 15.Nxe5 Nxe516.Rxe5 Bf5 17.Nc3 Bxc2 18.Qxc2 c6 19.Rae1 Qc7 20.Qd2 Nf7 21.Re7 Qb6 22.b3 Nd623.Qe3 Nf5 24.Qe6+ Kh8 25.Re8 Raxe8 26.Qxe8 Qd8 27.Qxd8 Rxd8 28.Rd1 Rd6 29.Rd2 g630.Na4 Re6 31.f3 Kg7 32.Kf2 Kf6 33.g4 Nd6 34.Nc5 Re7 35.b4 Nc4 36.Re2 Rxe2+37.Kxe2 a5  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 Bb7 11.Re1 O-O 12.Bc2 Re8 13.Bg5 h6 14.Bxf6 Qxf6 15.Nd2 Nd716.Nb3 Ne5 17.Nd2 Qg5 18.Qe3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.b4 Bb6 10.h3 Bh5 11.axb5 axb5 12.Rxa8 Qxa8 13.Na3 Na7 14.d3 O-O 15.g4 Bg616.Bg5 Nd7 17.Bb3 Kh8 18.Nh4 h6 19.Bd2 Bh7 20.Nc2 Qd8 21.Nf5 Nc8 22.Nce3 Ne723.Nxe7 Qxe7 24.Nd5 Qd8 25.Kg2 c6 26.Nxb6 Nxb6 27.Be3 d5 28.f3 f6 29.Qd2 dxe430.fxe4 Na4 31.Bd1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.b4 Bb6 10.h3 Bd7 11.d3 h6 12.axb5 axb5 13.Rxa8 Qxa8 14.Na3 Qa6 15.Bb2 O-O16.Qd2 Ne7 17.d4 Ng6 18.dxe5 dxe5 19.c4 bxc4 20.Nxe5 Nxe5 21.Bxe5 Be6 22.Qc3 Ra823.Nb1 Ne8 24.Rd1 Qb5 25.Qb2 c5  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb79.d3 h6 10.h3 O-O 11.Re1 d5 12.axb5 axb5 13.Rxa8 Bxa8 14.Qe2 d4 15.Nbd2 Bb716.c4 Ba6 17.cxb5 Bxb5 18.Nc4 Re8 19.Bd2 Nd7 20.Rc1 Qe7 21.g3 Kh7 22.Nh4 g6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.d4 Bxd4 10.Nf3 Be6 11.Nxd4 Qxd4 12.Rd1 Qc4 13.Qxc4 Bxc4 14.Bf4 Nd6 15.b3 Be616.Bxd6 O-O-O 17.Nc3 cxd6 18.Ne4 Kc7 19.Ng5 Rhe8 20.Re1 Kd7 21.f3 Bf5 22.Nxf7 Rxe1+23.Rxe1 Rf8 24.Ng5 Bxc2 25.Re2 Bf5 26.g4 h6 27.Nh3 Bd3 28.Rf2 d5 29.Kg2 Kd630.Rd2 Bb1 31.Kg3 Re8 32.Nf4 Re1 33.h4 Rg1+ 34.Ng2 a5 35.Kf2 Rc1 36.Ne3 Ke637.Re2 Bd3 38.Rd2 Bh7 39.Re2 Kf7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.axb5 axb5 11.Rxa8 Qxa8 12.b4 Bb6 13.Na3 Nd8 14.Re1 c6 15.d4 Qa716.g4 Bg6 17.c4 exd4 18.e5 dxe5 19.Nxe5 O-O 20.Bxg6 hxg6 21.cxb5 cxb5 22.Nxb5 Qb723.Nxd4 Bxd4 24.Qxd4 Ne6 25.Qe3 g5 26.Bd2 Rd8 27.Qf3 Qb5 28.Bc3 Nf4 29.h4 N6d530.hxg5 f6 31.gxf6 gxf6 32.Bd2 fxe5 33.Rxe5 Qd3 34.Rg5+ Kf7 35.Qxd3 Nxd336.b5 Nf6 37.Be3 Rd5 38.Rxd5 Nxd5 39.b6 Nxb6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.Nbd2 Rb8 11.h3 Bh5 12.Re1 Re8 13.axb5 axb5 14.Nf1 Ra8 15.Rxa8 Qxa816.Ng3 Bg6 17.Nh4 Qa7 18.Rf1 Na5 19.Bc2 b4 20.Qf3 b3 21.Bd1 c6 22.Nhf5 Re623.Bg5 d5 24.h4 dxe4 25.dxe4 h6 26.Bxf6 Rxf6 27.Nxh6+ Kh8 28.Nhf5 Qd7 29.Be2 Qd230.h5 Bxf5 31.exf5 Qxb2 32.Ne4 Be7 33.Nxf6 Bxf6 34.Qd3 Kh7 35.Rb1 e4 36.Qxe4 Qxc337.g4 b2 38.Qe3 Nb3 39.Qxc3 Bxc3 40.Bd3 f6 41.Rd1 c5 42.Kg2 c4 43.Bc2 Na144.Bb1 Be5 45.f4 Bxf4 46.Kf3 Bc1 47.Ke2 c3 48.Kd3 Bd2 49.Rxd2 cxd2 50.Kxd2 Nb3+51.Kc3 Nc5 52.Kxb2 Kh6 53.Kc3 Nd7 54.Kd4 Ne5 55.Kd5 Nxg4 56.Ke6 Kxh5 57.Bc2 Kg558.Bb1 Ne5 59.Be4 Nc4 60.Bd3 Ne3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 Bb7 10.Re1 O-O 11.a3 h6 12.Be3 Nd7 13.Nbd2 Ne7 14.b4 exd4 15.cxd4 f516.Bb3+ Kh8 17.Ng5 Qe8 18.Ne6 Rf6 19.d5 Bxe3 20.Rxe3 Rc8 21.Rc1 c6 22.exf5 Nxf523.Nxg7 Nxe3 24.Nxe8 Nxd1 25.Nxf6 Nxf6 26.Rxd1 c5 27.bxc5 Rxc5 28.Nf3 a529.Rb1 Nxd5 30.Nd4 Nf4 31.f3 Rg5 32.g4 Nxh3+ 33.Kh2 Nf4 34.Kg3 Nh5+ 35.Kf2 Ng736.Rc1 Ne8 37.Bf7 Nf6 38.Rc7 Bd5 39.Nf5 h5 40.Rc8+ Kh7 41.Rc7 Kh8 42.Rc8+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 Bb7 12.a4 b4 13.Re1 O-O-O 14.Bxc6 Bxc6 15.cxb4 Nd516.Bd2 f6 17.b3 Ne7 18.Ra2 Rd3 19.b5 Bd5 20.bxa6 Rxb3 21.Ra3 Rxa3 22.Nxa3 Kd723.Nc2 Nc6 24.f4 Ra8 25.fxe5 fxe5 26.Bc3 Rxa6 27.Bxe5 Nxe5 28.Rxe5 Bc6 29.Nd4 Rxa4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.d3 d6 7.c3 O-O 8.Bg5 h69.Bh4 Ba7 10.Nbd2 Ne7 11.Bxf6 gxf6 12.Nh4 Kh7 13.Qh5 Ng6 14.Nf5 Bxf5 15.Qxf5 Kg716.g3 Qc8 17.Qxc8 Raxc8 18.Kh1 c6 19.Bb3 Rcd8 20.Rad1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 O-O 11.Bg5 h6 12.Bxf6 Qxf6 13.f4 Nd7 14.Bd5 Qxd4+ 15.cxd4 Ra716.a4 bxa4 17.Bc6 Nb6 18.Nc3 Bb7 19.Bxa4 Nxa4 20.Rxa4 Re8 21.d5 Bc8 22.Rfa1 Rb723.Rxa6 Rxb2 24.R6a2 Rb3 25.Ra3 Rb2 26.R1a2 Rb6 27.Ra8 Kf8 28.Kf2 Bb7 29.Rxe8+ Kxe830.Ke3 Rb3 31.Kd3 Rb4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 h6 7.Bxc6 bxc6 8.Nxe5 O-O9.Nc3 Bb7 10.Re1 d5 11.d4 Bb4 12.exd5 cxd5 13.Qd3 Re8 14.Qg3 Kh7 15.Bd2 Bd616.Qd3+ Kg8 17.Re3 Bxe5 18.Rxe5 Rxe5 19.dxe5 Ne4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 Bb7 10.Re1 O-O 11.Bg5 h6 12.Bh4 g5 13.Bg3 Re8 14.dxe5 Nxe5 15.Nxe5  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 O-O 8.Nc3 d69.Bg5 h6 10.Bh4 Nd4 11.Nxd4 Bxd4 12.Kh1 g5 13.Bg3 Bg4 14.f3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 Bb7 10.Re1 O-O 11.Be3 Re8 12.Nbd2 h6 13.a3 Na7 14.a4 exd4 15.cxd4 c516.d5 Nc8 17.axb5 axb5 18.Rxa8 Bxa8 19.b3 Ba5 20.Qa1 Bb7 21.Bd3 c4 22.bxc4 bxc423.Bxc4 Nxe4 24.Bxh6 Bc3 25.Qb1 Nxd2 26.Rxe8+ Qxe8 27.Bxd2 Bxd2 28.Nxd2 Qe729.Nf1 Qc7 30.Ne3 Nb6 31.Qe4 Qd8 32.Bd3 g6 33.h4 Nd7 34.Be2 Nf6 35.Qd4 Qe736.Bf3 Qe5 37.Qd1 Qc3 38.Qb1 Qc7 39.Qb2 Qe7 40.g3 Kh7 41.Kg2 Bc8 42.Qb6 Bb743.Kh2 Kg7 44.Qb2 Kh7 45.Qb6 Kg7 46.Qb4 Ba6 47.Qd4 Kg8 48.Qf4 Bd3 49.Qd4 Ba650.Kg2 Bb5 51.Bd1 Ba6 52.f4 Qe4+ 53.Qxe4 Nxe4 54.Bf3 Nd2 55.Kf2 f5 56.Bg2 Kf757.Ke1 Nc4 58.Nc2 Nb6 59.Kd2 Nd7 60.Bf3 Nf6 61.Ke3 Bb5 62.Kd4 Ba6 63.Ne3 Bb564.g4 fxg4 65.Nxg4 Nxg4 66.Bxg4 Kf6 67.Kc3 Bf1 68.Be6 Bg2 69.Kc4 Bf3 70.Kb5 Bxd571.Bxd5 Kf5 72.Bf7 Kxf4 73.Bxg6 Kg4 74.h5 Kg5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.Bg5 Rb8 11.axb5 axb5 12.Na3 exd4 13.Nxb5 h6 14.Bh4 dxc3 15.Nxc3 O-O16.Bc4 Nd4 17.Qd3 Bxf3 18.gxf3 Ne6 19.Rad1 Nf4 20.Qc2 Qe7 21.Bg3 N6h5 22.Nd5 Nxd523.Rxd5 Nxg3 24.hxg3 Qf6 25.Kg2 Bd4 26.b3 c6 27.Rf5 Qe7 28.Rd1 c5 29.f4 g630.Rd5 Kg7 31.Re1 Rfd8 32.Re2 Rd7 33.Qd3 Ra7 34.e5 dxe5 35.fxe5 Rb6 36.b4 Rxb437.e6 f6 38.Bb5 Qb7 39.Qf3 Rxb5 40.Rd7+ Qxd7 41.exd7 Rxd7 42.Qc6 Rbb7 43.Re8 Re744.Ra8 h5 45.Qc8 Kh6 46.Qf8+ Rg7 47.Qh8+ Rh7 48.Qf8+ Rhg7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.Nbd2 Na5 11.Bc2 b4 12.h3 Bh5 13.Qe2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O a6 5.Ba4 Nf6 6.Nc3 b5 7.Bb3 d6 8.d3 Nd49.Bd5 Rb8 10.Ng5 O-O 11.Bxf7+ Rxf7 12.Nxf7 Kxf7 13.Nd5 Nxd5 14.exd5 Bb7 15.Qh5+ g616.Qxh7+ Kf6 17.Qh4+ Kf7 18.Qg3 Ne2+ 19.Kh1 Nxg3+ 20.fxg3+ Qf6 21.Rxf6+ Kxf622.h4 Ke7 23.Bg5+ Kd7 24.c4 bxc4 25.dxc4 Rf8 26.Bh6 Rf2 27.b3 Bd4 28.Re1 Bc329.Rd1 c6 30.Kg1 Bd4 31.Rxd4 exd4 32.Kxf2 cxd5 33.cxd5 Bxd5 34.Ke2 Ke6 35.Kd3 Ke536.Bf4+ Ke6 37.Kxd4 Bxg2 38.Bd2 d5 39.g4 Kd6 40.h5 gxh5 41.gxh5 Be4 42.h6 Kc643.a4 a5 44.b4 axb4 45.Bxb4 Kb6 46.a5+ Kb5 47.Bd2 Ka6 48.Ke5 Kb5 49.Kf6 d450.Kg7 d3 51.h7 Bxh7 52.Kxh7 Ka6 53.Kg6 Kb5 54.Kf5 Ka6 55.Ke4 Kb5 56.Kxd3 Ka657.Kc4 Ka7 58.Kb5 Ka8 59.a6 Kb8 60.Be3 Ka8 61.Kb6 Kb8 62.a7+ Ka8 63.Ka6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.dxe5 Nxe49.Bb3 Qh4 10.Be3 Bb7 11.Bxc5 Nxc5 12.Bd5 Rd8 13.Bxb7 Nxb7 14.Nd2 O-O 15.Nf3 Qb416.Qd5 c6 17.Qd4 Qxd4 18.Nxd4 c5 19.Nf5 Rfe8 20.Rfe1 g6 21.Nh4 d6 22.exd6 Nxd623.Nf3 Nc4 24.Rxe8+ Rxe8 25.b3 Na3 26.Re1 Rd8 27.c3 Rd3 28.Rc1 Nc2 29.Kh1 Na330.Kg1 c4 31.Kf1 cxb3 32.axb3 b4 33.cxb4 Rxb3 34.Rc6 Rxb4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 exd4 8.cxd4 Bb69.Nc3 d6 10.h3 Re8 11.Re1 h6 12.a3 Bd7 13.Bc2 Ne7 14.Bf4 Ng6 15.Bh2 c6 16.Bxd6 Bc717.Bxc7 Qxc7 18.e5 Nd5 19.Nxd5 cxd5 20.Rc1 Bc6 21.h4 Qd7 22.Bxg6 fxg6 23.Rc3 Qg424.Qd2 Rf8 25.e6 Rae8 26.Rce3 Re7 27.Qb4 Rfe8 28.Qd6 Qf5 29.g3 Qf8 30.Nh2 Rd831.Qf4 Qxf4 32.gxf4 Rf8 33.Rf3 Rf6 34.Ng4 Rfxe6 35.Rxe6 Rxe6 36.Ne5  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.h3 Bb79.d4 Ba7 10.d5 Ne7 11.Nbd2 c6 12.dxc6 Bxc6 13.Re1 Ng6 14.Nf1 h6 15.Ng3 Qc716.Nf5 O-O 17.Bb3 a5 18.Qxd6 Qb7 19.Nxh6+ Kh7 20.Nf5 b4 21.cxb4 Nxe4 22.Ng5+ Nxg523.Bxg5 f6 24.Qd1 Bf3 25.Qxf3 Qxf3 26.gxf3 fxg5 27.Bc2 Rac8 28.Be4 Kh8 29.bxa5 Rf630.Rac1 Rcf8 31.Rc7 R8f7 32.Rxf7 Rxf7 33.Nd6 Rd7 34.Bxg6 Rxd6 35.Be4 Rd236.Kh1 Rxb2 37.Rc1 Rb8 38.Kg2 Kg8 39.Rc7 Bd4 40.Kg3 Rb2 41.Bg6 Kf8 42.Bf7 Bxf2+43.Kg4 Be3 44.Bg6 Rb4+ 45.Be4 Ra4 46.Rc8+ Ke7 47.Rc3 Bd2 48.Rc2 Bf4 49.Kf5 Rxa550.Kg6 Kf8 51.Rc8+ Ke7 52.Ra8 Rxa8 53.Bxa8 Kd6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 d5 7.Nxe5 Bd7 8.Nxc6 Bxc69.Bxc6+ bxc6 10.d4 Bb6 11.e5 Nd7 12.Qg4 g6 13.Bh6 Nf8 14.Bg7 Rg8 15.Bf6 Qc816.Qh4 h5 17.Nd2 Qg4 18.Qxg4 hxg4 19.Rfe1 c5 20.Nb3 c4 21.Nd2 c6 22.f3 gxf323.Nxf3 Bd8 24.Bxd8 Kxd8 25.Ng5 Rg7 26.Rf1 Ke7 27.Rf3 Ne6 28.Nxe6 fxe6 29.Raf1 Rh830.Rf6 Rhh7 31.R1f3 g5 32.Kf2 Rxh2 33.Kg3 Rh1 34.Rf1 Rxf1 35.Rxf1 Rf7 36.Rxf7+ Kxf737.Kg4 Kg6 38.g3 a5 39.a4 Kh6 40.Kh3 Kh5 41.g4+ Kg6 42.Kg3 Kf7 43.Kf3 Ke744.Ke2 Kd7 45.Kd2 Kc7 46.Kc2 Kb6 47.b3 cxb3+ 48.Kxb3 c5 49.Ka3 c4 50.Kb2  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 h6 10.a4 Bb7 11.Re1 O-O 12.d5 Ne7 13.Nbd2 c6 14.c4 Ng6 15.Nf1 bxc4 16.dxc6 Bxc617.Ng3 Qc7 18.Qe2 Bb7 19.Bd2 a5 20.Nf5 Ba6 21.Bc3 Nf4 22.Qd2 Rad8 23.Kh2 Rfe824.g3 Ng6 25.Kg2 d5 26.exd5 Rxd5 27.Qe2 Bb7 28.Kh2 Qc6 29.Ne3 Rd3 30.Nd2 Bxe331.fxe3 Rxe3 32.Qf2 Rxe1 33.Rxe1 Qc7 34.Qe2 Ba6 35.Qf3 Bb7 36.Qe2 Bd5 37.Bxg6 fxg638.Bxe5 Qc6 39.Qf2 Re6 40.Qd4 Nd7 41.Re2 Nxe5 42.Rxe5 Rxe5 43.Qxe5  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.d3 Na5 12.Bc2 b4 13.Nd2 Rb8 14.Qg3 Nh5 15.Qg4 Nf416.d4 Ba7 17.Nb1 Qc8 18.Bxf4 Qxg4 19.hxg4 exf4 20.Nd2 bxc3 21.bxc3 Rb2 22.Rfc1 Rfb823.Rab1 R8b6 24.Kf1 g6 25.Ke1 Ra2 26.Rxb6 Bxb6 27.f3 c5 28.d5 c4 29.Kd1 Be330.Rb1 Bxd2 31.Rb8+ Kg7 32.Bb1 Rxa4 33.Kxd2 Ra3 34.Kc2 Rb3 35.Rb4 Rxb4 36.cxb4 Nb337.Kc3 Kf6 38.Bc2 Ke5 39.Bxb3 cxb3 40.Kxb3 f5 41.gxf5 gxf5 42.exf5 Kxd5 43.Ka4 Ke544.Ka5 d5 45.Kxa6 d4 46.b5 d3 47.b6 d2 48.b7 d1=Q 49.b8=Q+ Kxf5 50.Qf8+ Kg651.Qg8+ Kf6 52.Qxh7 Qe2+ 53.Kb6 Qe3+ 54.Kb7 Qb3+ 55.Kc7 Qc4+ 56.Kb8 Qb5+57.Kc8 Qe8+ 58.Kc7 Qe5+  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Be3 21.Ra1 Bf422.g3 Bxe5 23.Rd2 Rd8 24.Ke2 Bg4+ 25.Ke3 Bd6 26.Nc2 f5 27.Nd4 Rf8 28.Rf1 g529.Rdf2 f4+ 30.gxf4 Bxf4+ 31.Rxf4 gxf4+ 32.Rxf4 Rg8 33.Nc6+ Ke6 34.Nb4 a535.Nc6 b4 36.cxb4 axb4 37.Nxb4 c5 38.Nd3 Kd5 39.Re4 Kd6 40.Rc4 Re8+ 41.Re4 Rg842.Rc4 Re8+ 43.Kf4 Be2 44.Rc3 Rf8+ 45.Ke3 Bxd3 46.Rxd3+ Ke5 47.b3 Rf6 48.h3 Rg649.Kf3 Rf6+ 50.Kg4 Rf2 51.a4 Rc2 52.Kg5 c4 53.bxc4 Rxc4 54.a5 Rc6 55.Re3+ Kd456.Rf3 Rg6+ 57.Kh5 Ke4 58.Rb3 Ra6 59.Rb5 Kf4 60.h4 Rd6 61.Rb4+ Kf5 62.Rb6 Rd763.a6 Ra7 64.Kh6 Kg4 65.h5 Kf5 66.Rb5+ Kf4 67.Rb4+ Ke5 68.Ra4 Kf5 69.Ra2 Kg470.Ra1 Kf4 71.Rf1+ Ke5 72.Rf2 Rxa6+ 73.Kxh7 Ra1 74.Kg7 Rg1+ 75.Kf7 Rh1 76.Ra2 Rf1+77.Ke7 Kf5 78.Rh2 Ra1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Bg5 Rb8 12.axb5 axb5 13.g4 Bg6 14.Nh4 Kh8 15.Qf3 h616.Bxf6 Qxf6 17.Qxf6 gxf6 18.Nd2 Ne7 19.Rfd1 Rfd8 20.Bc2 d5 21.Kf1 b4 22.Nb3 Bd623.c4 dxc4 24.dxc4 Nc6 25.Nf3 Be7 26.Rd5 Kg7 27.Ra6 Rb6 28.Rxb6 cxb6 29.Rb5 Rb830.Ne1 Na7 31.Rd5 Nc6 32.Rb5 Na7 33.Rd5 Nc6 34.f3 Nd8 35.Rb5 Ne6 36.c5 Nxc537.Nxc5 Bxc5 38.Nd3 Bd4 39.Rxb4 h5 40.Bb3 Rd8 41.Rc4 Kh6 42.Rc7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kf6 14.Be3 d6 15.cxd6 Nxd616.Nd2 Rhe8 17.f3 Rad8 18.Kf2 Bd5 19.b3 Bc6 20.Bc5 Nb7 21.Bd4+ Kg6 22.Nc4 f623.Nb2 Rxe1 24.Kxe1 axb3 25.axb3 Bd5 26.b4 Rd6 27.Kf2 Kf7 28.Ke3 Rc6 29.Kd3 Be630.c4 Nd6 31.Bc5 Nb7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Na5 10.Bc2 b4 11.Nbd2 O-O 12.h3 Bh5 13.Qe2 Re8 14.Nb3 Nxb3 15.Bxb3 a516.Be3 Bxe3 17.Qxe3 Rb8 18.Rab1 c6 19.Nd2 d5 20.f3 Qd6 21.Bc2 Nd7 22.Nb3 Ra823.d4 Bg6 24.dxe5 Nxe5 25.Qc5 Qxc5+ 26.Nxc5 Nc4 27.Rf2 Rab8 28.cxb4 Rxb429.b3 Na3 30.Rd1 Nxc2 31.Rxc2 h5 32.Rc3 dxe4 33.fxe4 h4 34.Rd6 Bxe4 35.Nxe4 Rexe436.Rdxc6 Re1+ 37.Kf2 Rb1 38.Rc8+ Kh7 39.R8c5 Rb2+ 40.Kf3 R2xb3 41.Rxb3 Rxb3+42.Kf2 Kg6 43.Rxa5 Ra3 44.Ra8 f5 45.a5 Kg5 46.a6 Kf4 47.a7 Ra2+ 48.Kf1 Kg349.Rf8 Ra1+ 50.Ke2 Rxa7 51.Rxf5 Kxg2 52.Rg5+ Kh2 53.Kf3 Ra3+ 54.Kg4 Ra4+55.Kf3 Ra1 56.Kg4 Ra4+ 57.Kf3 Kxh3 58.Rxg7 Kh2 59.Rg2+ Kh3 60.Rg8 Ra3+ 61.Kf2 Rg362.Rf8 Kh2 63.Rf7 Rg5 64.Rf4 Rh5 65.Rf7 Rc5 66.Rg7 Rf5+ 67.Ke2 Rf4 68.Rg8 h369.Rg7 Ra4 70.Rg8 Ra2+ 71.Kf1 Rg2 72.Rf8 Kh1 73.Rf7 Rg3 74.Rf8 Rg7 75.Rf6 Ra776.Rg6 Ra1+ 77.Kf2 Kh2 78.Rg8 Ra2+ 79.Kf1 Rg2 80.Rf8 Rg4 81.Kf2 Ra4 82.Rg8 Ra183.Rg7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kf6 14.Be3 d6 15.cxd6 Nxd6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 O-O 11.f3 c5 12.Qd1 Bb7 13.Bg5 h6 14.Bh4 Ng6 15.Bg3 d5 16.exd5 Nxd517.Bxd5 Qxd5 18.Qxd5 Bxd5 19.Nd2 Rfe8 20.Nb3 Bxb3 21.axb3 Re2 22.Rf2 Rae823.Kf1 R2e6 24.Rd2 Ne7 25.Bf2 c4 26.bxc4 bxc4 27.Ra4 Rc8 28.Re2 Rxe2 29.Kxe2 Rb830.Ra2 Nd5 31.g3 f5 32.Kd2 h5 33.Bd4 f4 34.Kc1 Re8 35.Ra5 Re1+ 36.Kd2 Rh137.Rxd5 Rxh2+ 38.Ke1 fxg3 39.Rg5 h4 40.Rxg7+ Kf8 41.Rg4 Rh1+ 42.Ke2 h3 43.Rxg3 h244.Rh3 Rb1 45.Bc5+ Kf7 46.Ke3 h1=Q 47.Rxh1 Rxh1 48.Kd4 Rh4+ 49.Kd5 Rf4 50.Bd4 Ke751.Kxc4 Kd6 52.b4 Kc6 53.Kd3 Rxf3+ 54.Ke4 Rh3 55.c4 Rb3 56.b5+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Rb8 10.axb5 axb5 11.h3 Bh5 12.Re1 O-O 13.Nbd2 Ra8 14.Rxa8 Qxa8 15.Nf1 Qa716.Qe2 b4 17.g4 Bg6 18.Bg5 bxc3 19.bxc3 Rb8 20.Rb1 Na5 21.Ba2 Rxb1 22.Bxb1 Nd723.Ba2 Kf8 24.h4 f6 25.h5 Be8 26.Be3 Nc6 27.d4 exd4 28.cxd4 Nxd4 29.Nxd4 Bxd430.Qc4 c5 31.Bf4 Ke7 32.Qe6+ Kd8 33.Bxd6 Ne5 34.Bf8 Bf7 35.Qd6+ Ke8 36.Bxg7 Bxa237.Bxf6 Nxg4 38.Bxd4 cxd4 39.f3 d3+ 40.Kh1 Nf2+ 41.Kg2 Nd1 42.Qxd3 Qf2+ 43.Kh1 Bc444.Qxc4 Qxf3+ 45.Kh2 Qxh5+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Nbd2 Bg49.Nc4 Nd7 10.h3 Bh5 11.Ne3 Bxe3 12.fxe3 O-O-O 13.Qe1 f5 14.exf5 Bxf3 15.Rxf3 e416.dxe4 Nf6 17.Bd2 Nxe4 18.Bc3 Rhf8 19.Rd1 Rd5 20.Rxd5 cxd5 21.Rf4 Rf7 22.Qh4 Nxc323.Qxe7 Rxe7 24.bxc3 Rxe3 25.c4 dxc4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Be3 21.Ra1 Bf422.g3 Bxe5 23.Rd2 Rd8 24.Ke1 h5 25.Nc2 Bxc2 26.Rxc2 h4 27.Re2 Kf6 28.gxh4 Rh829.h3 Rxh4 30.Re3 b4 31.Ke2 bxc3 32.bxc3 Rc4 33.Rf1+ Ke6 34.Rc1 f6 35.Kd3 Kd536.Kc2 g5 37.Rd1+ Kc5 38.Rd8 a5 39.Re8 Kb5 40.R8xe5+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Nbd2 Bg49.Nc4 Nd7 10.Ne3 Bxe3 11.fxe3 O-O 12.h3 Bxf3 13.Qxf3 Nc5 14.a4 Ne6 15.b3 c516.Bb2 f6 17.Qg4 b6 18.Kh1 Rae8 19.Rf5 Nd8 20.Raf1 Nb7 21.R5f2 Nd6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 Bb7 12.b4 e4 13.Be2 O-O 14.a4 bxa4 15.Rd1 Ne516.Bf4 Rfe8 17.c4 Re7 18.Nc3 Rae8 19.Be3 Rd7 20.Rxd7 Nexd7 21.b5 c6 22.Rxa4 Nb823.Ra1 Nfd7 24.Rd1 f5 25.Na4 Ne5 26.Nc3 Nbd7 27.h3 Rc8 28.b6 Re8 29.Rd6 Nf830.g4 Nf7 31.Rd1 g6 32.Nd5 Nd7 33.gxf5 gxf5 34.Nc7 Re7 35.Ra1 Nfe5 36.Nxa6 Nd337.Bxd3 exd3 38.Nb4 Ne5 39.Kf1 Rd7 40.Rd1 Kf7 41.Bf4 Nxc4 42.Rxd3 Rxd3 43.Nxd3 Ke644.Nb4 Ne5 45.Bxe5 Kxe5 46.Ke2 Kd4 47.Nd3 Bc8 48.f4 Ba6 49.Kd2 Bb7 50.h4 Bc851.Ke2 Ke4 52.Kd2 Kd4 53.h5 h6 54.Kc2  1/2-1/2");
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Qe79.Qxa4 Qxc5 10.Be3 Qe7 11.h3 O-O 12.Nbd2 Bb7 13.b4 h6 14.Rab1 d6 15.c4 Qe616.Qc2 Ne7 17.a4 Nxe4 18.Nxe4 Qg6 19.Nfd2 f5 20.Ng3 f4 21.Qxg6 Nxg6 22.Nge4 fxe323.fxe3 Nh4 24.Rxf8+ Kxf8 25.Rf1+ Ke8 26.g3 Ng6 27.Kf2 Nf8 28.Ke2 Nd7 29.Rc1 Nf630.Kd3 Nxe4 31.Nxe4 Kd7 32.Rf1 Ke6 33.Rf2 Bc6 34.Nc3 Be8 35.e4 Bg6 36.Nd5 Rc837.a5 c6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Rb8 12.d3 Nd7 13.Be3 Kh8 14.Nd2 Ne7 15.Bc2 Bxe316.fxe3 c5 17.Bb3 c4 18.dxc4 Nc5 19.cxb5 Nxb3 20.Nxb3 Rxb5 21.Qd1 Qc7 22.Ra4 Nc623.Nd2 Nxa5 24.b4 Nb7 25.Qc2 h6 26.Qd3 Rb6 27.Rfa1 Rc6 28.R1a3 a5 29.Kh2 d530.Qb5 d4 31.bxa5 dxc3 32.Nb3 Nc5 33.Rc4 Rb8 34.Qxc6 Qxc6 35.Nxc5 Qb5 36.Rcxc3 Qe237.Nd7 Rb2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nbd2 exf3 10.Qxf3 Be7 11.Qxc6+ Bd7 12.Qf3 exd4 13.cxd4 O-O 14.Ne4 Be6 15.Nxf6+ Bxf616.Be4 Bxd4 17.Rd1 c5 18.Bxa8 Qxa8 19.Be3 Qxf3 20.gxf3 Bxb2 21.Bxc5 Rc8 22.Rab1 h623.Bb4 Be5 24.a3 Rc6 25.Rbc1 Bc4 26.Rd8+ Kh7 27.Re1 Bc7 28.Rd7 Be6 29.Rd3 Bf530.Rd5 Bh3 31.Kh1 Rf6 32.Rd3 Be6 33.Bc3 Rf5 34.Rxe6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qd6 8.Be3 Bg49.Nbd2 Bxe3 10.fxe3 Nd7 11.Nc4 Qe7 12.Qe1 O-O-O 13.b4 f6 14.a4 Nb6 15.Qc3 Nxc416.Qxc4 Qe6 17.Qc3 Bxf3 18.Rxf3 b6 19.a5 b5 20.Raf1 Kb7 21.Kf2 Rd7 22.Rf5 Rhd8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d3 O-O9.Nbd2 Bd7 10.h3 Be6 11.Re1 Re8 12.Nf1 h6 13.Be3 Bxe3 14.Nxe3 d5 15.exd5 Nxd516.d4 Nxe3 17.Rxe3 exd4 18.cxd4 Bxb3 19.Rxe8+ Qxe8 20.Qxb3 Rd8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.f4 c5 11.Qd1 Neg4 12.c3 O-O 13.e5 c4 14.Bc2 dxe5 15.Qxd8 Rxd816.h3 Nh6 17.fxe5 Nd7 18.Be4 Rb8 19.Bf4 Bb7 20.Nd2 Nc5 21.Bxb7 Rxb7 22.Bxh6 gxh623.Nf3 Nd3 24.b3 Re8 25.bxc4 bxc4 26.Rab1 Reb8 27.Rxb7 Rxb7 28.Nd4 Nxe5 29.Rf6 Rb1+30.Kh2 Rc1 31.Rxa6 Rxc3 32.Nf5 f6 33.Rxf6 Ra3 34.Re6 Ng6 35.Rc6 h5 36.Rxc4 Rxa237.Nh4 Nxh4 38.Rxh4 Ra5 39.Re4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.axb5 axb5 11.Rxa8 Qxa8 12.b4 Bb6 13.d3 O-O 14.Bg5 Nd7 15.Bb3 Nd816.Nbd2 Ne6 17.Be3 Bxe3 18.fxe3 Qa7 19.Qe1 Bxf3 20.Nxf3 Qa3 21.Bd5 c5 22.bxc5 Ndxc523.d4 Nd7 24.Qa1 Qxa1 25.Rxa1 exd4 26.cxd4 Rb8 27.Nd2 Nf6 28.Ra6 Ne8 29.Bb3 Kf830.Kf2 Rb7 31.Ke2 N6c7 32.Ra1 Ke7 33.Kd3 Nf6 34.Nb1 b4 35.Nd2 Nb5 36.Nc4 Rc737.Ra5 Na3 38.e5 dxe5 39.Rxe5+ Kd8 40.Ra5 Ke7 41.g4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.Re1 Be79.Rxe4 Ng6 10.c4 O-O 11.Nc3 d6 12.Re1 c6 13.Bc2 b5 14.b3 Rb8 15.Qd3 f5 16.f4 Bf617.g3 Rb7 18.Be3 Re8 19.Bf2 Rbe7 20.Rxe7 Rxe7 21.Bd1 Nh8 22.Bf3 Qe8 23.Kf1 Nf724.Re1 Rxe1+ 25.Bxe1 Bd7 26.a4 bxc4 27.bxc4 Qb8 28.a5 Qb3 29.Bd2 Qa3 30.Ke2 Qxa531.Nd5 Qd8 32.Nxf6+ Qxf6 33.Be3 Qd8 34.Qb3 Qc7 35.c5 g6 36.Bd2 Bc8 37.cxd6 Qxd638.Qb6 Nd8 39.Bb4 Qd7 40.Kf1 Bb7 41.Be2 h5 42.d5 Qxd5 43.Qc7 c5 44.Qxc5 Qxc545.Bxc5 Kf7 46.Bc4+ Ne6 47.Ke2 Kf6 48.Bb6 Ke7 49.Ke3 Kd6 50.Bxe6 Kxe6 51.Kd4 Kd652.h4 Kc6 53.Bd8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Bb7 11.Nbd2 Re8 12.Re1 h6 13.a3 Nb8 14.Qb1 Nbd7 15.b4 Nf816.a4 Ng6 17.c4 exd4 18.Bxd4 Bxd4 19.Nxd4 bxc4 20.N4f3 c3 21.Nc4 d5 22.Na5 dxe423.Nxb7 Qd5 24.Nc5 exf3 25.Bxg6 fxg6 26.Qxg6 fxg2 27.Red1 Qc4 28.Rd3 c2 29.Rc1 Rad830.Kxg2 Rxd3 31.Qxd3 Qxb4 32.Rxc2 a5 33.Qb3+ Qxb3 34.Nxb3 Re4 35.Rxc7 Rxa436.Ra7 Ra3 37.Nxa5 Nh5 38.f3 Ra2+ 39.Kf1 Nf6 40.Nc6 Rh2 41.Ne7+ Kf8 42.Nf5 Rxh343.Nxg7 Rxf3+ 44.Ke1 Re3+ 45.Kf2 Re5 46.Kg3 Nd5 47.Kf3 Ne7 48.Kf4 Ng6+ 49.Kf3 Kg850.Rb7 Kf8 51.Ra7 Ne7 52.Kf4 Rd5 53.Ne6+ Kf7 54.Ke4 Kxe6 55.Rxe7+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Nxe4 8.dxc5 Nxc59.Qd4 Nxa4 10.Qxe5+ Kf8 11.Be3 d6 12.Qf4 Bd7 13.b3 Nc5 14.Bxc5 dxc5 15.Nc3 Bc616.Rad1 Qf6 17.Qxc7 Re8 18.Nd5 Qd8 19.Qg3 Bxd5 20.c4 Qf6 21.Rxd5 g6 22.Rxc5 Kg723.Rc7 Re2 24.Rxb7 Rhe8 25.h3 h5 26.Rd7 h4 27.Qd6 R8e6 28.Qd4 Rxa2 29.Qxf6+ Rxf630.Rd4 Rb2 31.Rxh4 Rxb3 32.Rc1 Rb2 33.f3 Rd6 34.c5 Rdd2 35.Rg4 Rdc2 36.Rxc2 Rxc237.Ra4 Rxc5 38.Rxa6 Rc2 39.Kh2 Rb2 40.h4 Rb4 41.Kg3 Rc4 42.Ra5 Kh6 43.Kh3 Rc344.Ra7 Kg7 45.Kg4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.d3 Na5 12.Bc2 b4 13.Nd2 Rb8 14.Qe2 Re8 15.Nf3 bxc316.bxc3 Nb3 17.Bxb3 Rxb3 18.d4 exd4 19.cxd4 Rxe4 20.Be3 Bb4 21.Qc4 Rb2 22.Qc1 Rb323.Qc4 Rb2 24.Qc1 Rb3 25.Qc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.Nd3 O-O 10.Nxc5 Nxc5 11.Nc3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 O-O 8.Be3 Bxe39.fxe3 Ne7 10.Nbd2 Ng6 11.Qe2 c6 12.h3 Qe7 13.Rf2 d5 14.exd5 cxd5 15.d4 e416.Nh2 Be6 17.Bb3 Rac8 18.Raf1 b5 19.a4 Rb8 20.Ra1 Ne8 21.axb5 axb5 22.Qh5 f523.Ra6 Nd6 24.g3 Kh8 25.Bd1 b4 26.Nb3 bxc3 27.bxc3 Bf7 28.Qe2 Be8 29.Qe1 Bb530.Ra1 Rf6 31.Nc5 Nf8 32.Rb1 Nd7 33.Rfb2 Rff8 34.h4 h6 35.Qf2 Rfc8 36.Be2 Bxe237.Rxb8 Nxb8 38.Qxe2 Nd7 39.Na4 Rc4 40.Rb4 Kh7 41.Qf2 Rc6 42.Kg2 Qf6 43.Qf4 Ra644.Nf1 Nc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Re1 O-O 13.Bxe4 Re8 14.Nd2 Bf5 15.f3 Rad816.Kf1 Nxe4 17.Nxe4 Bxe4 18.fxe4 Ne5 19.Bf4 Nd3 20.Bxc7 Rc8 21.Bd6 Nxb2 22.Rab1 Nd323.Re3 Nxc5 24.Bxc5 Rxc5 25.Ke2 Kf8 26.Rb4 Rec8 27.a4 bxa4 28.Rxa4 a5 29.Rd3 Rh530.h3 Rg5 31.Kf2 Rb5 32.c4 Rbc5 33.Kf3 Rxc4 34.Rxa5 Rc3 35.Rxc3 Rxc3+ 36.Kf4 g637.h4 h5 38.Ra8+ Kg7 39.Ra7 Rc1 40.g3 Rf1+ 41.Ke3 Kh6 42.Ra8 Rb1 43.Ra7 Rb3+44.Kf4 Kg7 45.Rc7 Ra3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 Bb7 10.Re1 O-O 11.Be3 Re8 12.Nbd2 h6 13.Qb1 Nb8 14.Bc2 Nbd7 15.a4 Nh516.Bd3 c6 17.b4 Qf6 18.Bf1 Nf4 19.Qb3 Ne6 20.axb5 axb5 21.Rxa8 Rxa8 22.dxe5 dxe523.c4 Bxe3 24.Qxe3 bxc4 25.Nxc4 c5 26.Rd1 Rd8 27.bxc5 Ndxc5 28.Rxd8+ Qxd829.Ncxe5 Bxe4 30.Bc4 Qd1+ 31.Kh2 Bd5 32.Qd2 Qxd2  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.h3 h6 9.a4 Rb810.c3 O-O 11.Re1 b4 12.Nbd2 Ba7 13.a5 Nd7 14.Bc2 Re8 15.Ba4 Bb7 16.Nb3 Rf817.d4 bxc3 18.bxc3 Nf6 19.Ba3 Ne7 20.Nbd2 Nd7 21.dxe5 dxe5 22.Nc4 Nc5 23.Ncxe5 Qxd124.Bxd1 Rfd8 25.Bc2 f6 26.Nc4 Bc6 27.Nd4 Bd7 28.e5 Nd5 29.exf6 gxf6 30.Ne3 Nxc331.Ndf5 h5 32.Nh6+ Kf8 33.Nef5 Bxf5 34.Nxf5 Rd2 35.Ne3 Kf7 36.Kf1 N5e4 37.Bxe4 Nxe438.Re2 Rxe2 39.Kxe2 Rd8 40.Bb4 Rb8 41.Ra4 Ke6 42.g4 hxg4 43.hxg4 Rb5 44.f4 Bc545.Be1 Rb2+ 46.Kf3 Nd6 47.f5+ Kf7 48.Bc3 Rb3 49.Bd4 Bxd4 50.Rxd4 Ra3 51.Kf4 Rxa552.g5 fxg5+ 53.Kxg5 Re5 54.Rd3 a5 55.Kf4 Rc5 56.Ra3 Ke7 57.Ra1 c6 58.Kg5 Re559.Ra3 Kf7 60.Rd3 a4 61.Kf4 Re4+ 62.Kf3 Rxe3+  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Be3 Bb69.Nbd2 Be6 10.Bxb6 cxb6 11.d4 Nd7 12.Qe2 O-O 13.dxe5 dxe5 14.Nc4 Qf6 15.Rfd1 a516.a4 Rfd8 17.h3 h6 18.Rd2 Bxc4 19.Qxc4 Nc5 20.Rxd8+ Rxd8 21.b4 Nxa4 22.bxa5 b523.Qb4 Qe6 24.c4 Qe8 25.cxb5 cxb5 26.Rb1 Rb8 27.a6 f6 28.Nh4 Ra8 29.Qxb5  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Qe2 b5 7.Bb3 O-O 8.c3 d69.d3 Bg4 10.h3 Bh5 11.Nbd2 Qd7 12.Rd1 Rfe8 13.Nf1 Nd8 14.Ng3 Bg6 15.Nh4 Ne616.Qf3 Kh8 17.Nhf5 Ng8 18.h4 h6 19.h5 Bh7 20.d4 exd4 21.cxd4 Bb6 22.e5 Rad823.d5 Nf8 24.Qg4 Bxf5 25.Nxf5 g6 26.hxg6 fxg6 27.e6 gxf5 28.exd7 fxg4 29.dxe8=Q Rxe830.Kf1 Re5 31.Bd2 Rf5 32.Bc3+ Nf6 33.Rd2 Nd7 34.Bc2 Rh5 35.Re1 Kg8 36.g3 Rh1+37.Ke2 Rh2 38.Kd1 Kf7 39.Rf1 Ne5 40.Bxe5 dxe5 41.f3 Rxd2+ 42.Kxd2 gxf3 43.Rxf3 Ke744.Bb3 Bd4 45.Kc2 a5 46.a3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 Rb8 13.Nd2 O-O 14.Qe2 Re8 15.Kh1 bxc316.bxc3 d5 17.Rb1 Rxb1 18.Bxb1 d4 19.Bb2 Qd7 20.Nf3 Qxa4 21.cxd4 exd4 22.Bc2 Qa223.Bxd4 Bxd4 24.Nxd4 g6 25.Qd2 c5 26.Nf3 Rb8 27.Qc3 Nd7 28.Kg1 Nc6 29.Rd1 Qb230.Qxb2 Rxb2 31.Ba4 Rb6 32.Rc1 Nce5 33.Nxe5 Nxe5 34.Rc3 Rb1+ 35.Kh2 Rb2 36.Kg3 Rd237.Bc2 Nc6 38.Rxc5 Nd4 39.Ba4 Rxd3+ 40.Kh2 Ne6 41.Rc2 Kg7 42.Ra2 Nc5 43.Bc6 Rd644.Bd5 f5 45.f3 fxe4 46.fxe4 Nd7 47.Bc4 Rd4 48.Bxa6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.dxe5 Nxe49.Bb3 Bb7 10.Bd5 Nxf2 11.Rxf2 Bxf2+ 12.Kxf2 Qh4+ 13.Kf1 Bxd5 14.Qxd5 O-O15.Nd2 Qxh2 16.Nf3 Qh5 17.b3 Rae8 18.Bb2 d6 19.Rd1 dxe5 20.Ba3 c6 21.Qd7 e422.Bxf8 exf3 23.Qxe8 Qh1+ 24.Kf2 Qxg2+ 25.Ke1 Qg1+ 26.Kd2 Qd4+ 27.Kc1 Qa1+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Re8 11.Nbd2 Bb7 12.d5 Ne7 13.Bxb6 cxb6 14.Nh4 Bc8 15.c4 bxc416.Nxc4 Ng6 17.Nxg6 hxg6 18.Qd2 b5 19.Na5 Qb6 20.b4 Bd7 21.Rac1 Rec8 22.Bb1 Ne823.Kh2 Rxc1 24.Rxc1 Rc8 25.Rxc8 Bxc8 26.Kg1 Bd7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.d5 Ne7 12.Qd3 O-O 13.Na3 Bd7 14.Nc2 Nh5 15.Nb4 Kh816.Bd1 f5 17.Nxe5 fxe4 18.Qc2 Nf6 19.Nxd7 Qxd7 20.Be3 Bxe3 21.fxe3 Nexd5  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Bg5 Na5 12.Bc2 b4 13.g4 Bg6 14.Nbd2 h6 15.Bh4 Re8 16.Nb3 Nxb317.Bxb3 bxc3 18.bxc3 a5 19.Bg3 Bh7 20.Nh4 d5 21.Nf3 Bd6 22.d4 Nxe4 23.Bxd5 exd424.Bxd6 Qxd6 25.Bxa8 Nxc3 26.Qd2 Rxa8 27.Rac1 Rd8 28.Rfe1 Ne4 29.Qxa5 c530.Nd2 Nxf2 31.Kxf2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.h3 Bh5 11.d5 Na5 12.Na3 O-O 13.Qe2 c6 14.b4 cxd5 15.bxa5 Bxa516.Bg5 Bxc3 17.Rad1 b4 18.Nb1 d4 19.Bb3 h6 20.Bxf6 Qxf6 21.g4 Bg6 22.Ne1 Kh823.Nd3 Qe7 24.Nd2 Bxd2 25.Rxd2 a5 26.Rc1 Rac8 27.Rc4 Rxc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Nxe49.Nxe5 Nxe5 10.Qd5 Bb7 11.Qxe5+ Qe7 12.Qxe7+ Kxe7 13.Re1 Kd8 14.Be3 Re8 15.Na3 Bd516.c4 Be6 17.Bd4 Nf6 18.Rad1 Kc8 19.f3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bxe39.fxe3 Bg4 10.Qe1 Bxf3 11.Rxf3 Nd7 12.Nd2  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.d3 Na5 12.Bc2 b4 13.Nd2 Rb8 14.Qd1 Re8 15.Nb3 Nxb316.Bxb3 bxc3 17.bxc3 d5 18.exd5 Nxd5 19.Bd2 c6 20.Rb1 Qf6 21.Qe2 Bb6 22.Bc4 Ba523.Bxa6 Bxc3 24.Bc4 Nf4 25.Bxf4 exf4 26.Qf3 g6 27.g3 Bd2 28.Kg2 Kg7 29.Rfd1 Rxb130.Rxb1 Re7 31.a5 fxg3 32.Qxf6+ Kxf6 33.fxg3 Bxa5 34.Rf1+ Kg7 35.g4 Bc3 36.Rf4 c537.Kf3 Be5 38.Re4 f5 39.gxf5 gxf5 40.Re2 Kf6 41.Ra2 Bd4 42.Re2 Rb7 43.Kf4 Rb644.Re8 Rd6 45.Rf8+ Kg6 46.Re8 Bf6 47.Rc8 Rd4+ 48.Kf3 Be7 49.Rc6+ Bd6 50.Rc8 Kf651.Re8 Kg5 52.Rg8+ Kf6 53.Re8 h5 54.Rh8 h4 55.Rh6+ Kg5 56.Re6 Bg3 57.Re2 Rd658.Re6 Rd4 59.Re2 Rd7 60.Re6 Rb7 61.Rc6 Rb2 62.Rxc5 Rf2+ 63.Ke3 Rh2 64.Rb5 Bf2+65.Ke2 Bd4+ 66.Kf1 Rxh3 67.Be6 Rf3+ 68.Kg2 Kg4 69.Rxf5 Rxf5 70.Bxf5+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Bxd1 Ng4 12.Bxg4 Bxg4 13.a4 O-O 14.Re1 Rad8 15.axb5 axb516.Na3 b4 17.Nc4 bxc3 18.bxc3 Be6 19.Be3 Bxe3 20.Nxe3 Rd3 21.c4 f5 22.exf6 gxf623.g4 Rf7 24.Ra8+ Kg7 25.Re8 Rd6 26.Kg2 Rfd7 27.Nf5+ Bxf5 28.gxf5 Kh6 29.R8xe4 Kg530.Kf3 Rd3+ 31.R1e3 R7d4 32.Rxd3 Rxd3+ 33.Ke2 Rd7 34.Re6 Kxf5 35.Rc6 Re7+36.Kd3 Ke5 37.Ke3 Kf5+ 38.Kd4 Rd7+ 39.Kc5 Ke5 40.h3 h5 41.Kb5 Rd2 42.Rxc7 Rxf243.Rc5+ Ke4 44.Rxh5 f5 45.Rh8 Rb2+ 46.Kc6 f4 47.Re8+ Kd4 48.c5 f3 49.Kd6 f250.Rf8 Ke3 51.c6 Rd2+ 52.Ke6 Rc2 53.Kd7 Rd2+ 54.Kc8 Rd1 55.h4 f1=Q 56.Rxf1 Rxf157.c7 Kf4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Nbd2 Nd7 12.b4 Bb6 13.Bb3 Ne7 14.Re1 Kh8 15.g4 Bg616.Nf1 bxa4 17.Rxa4 a5 18.Ng3 axb4 19.cxb4 Rxa4 20.Bxa4 f6 21.Kg2 Bf7 22.Bb3 d523.d4 dxe4 24.Rxe4 Nd5 25.Bd2 exd4 26.Nxd4 Ne5 27.f4 Ng6 28.Ngf5 Re8 29.Rxe8+ Qxe830.Kg3 Nde7 31.Bxf7 Qxf7 32.Qe2 Bxd4 33.Nxd4 Qd5 34.Nf3 Qd6 35.Qe4 Kg8 36.Qa8+ Kf737.Qe4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg49.h3 Bh5 10.d3 Rb8 11.axb5 axb5 12.b4 Bb6 13.Na3 Na7 14.Qe2 O-O 15.Be3 Bxf316.Qxf3 h6 17.Bb3 Nc8 18.Nc2 c6 19.c4 bxc4 20.dxc4 Bxe3 21.Qxe3 Qb6 22.Rfe1 Rd823.Qxb6  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Re1 d69.Bg5 h6 10.Bh4 Qe7 11.Nbd2 exd4 12.e5 dxe5 13.cxd4 Nxd4 14.Nxe5 Qd6 15.Nec4 Qf416.Bg3 Qg5 17.Nf3 Qd5 18.Nfe5 b5 19.Ne3 Qe6 20.Bb3 Nxb3 21.axb3 Bb7 22.Qc2 Be423.Qc3 Rfd8 24.N3g4 Bd4 25.Nxf6+ Qxf6 26.Qxc7 Rac8 27.Qxf7+ Qxf7 28.Nxf7 Bxb229.Nxd8 Bxa1  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Bg5 Na5 12.Ba2 b4 13.g4 Bg6 14.Nbd2 h6 15.Bh4 bxc316.bxc3 Qe7 17.Re1 Rab8 18.d4 Ba7 19.Qe2 Rb6 20.Bg3 Nd7 21.Nc4 Nxc4 22.Qxc4 c523.dxe5 Nxe5 24.Nxe5 dxe5 25.Rad1 Kh7 26.Qe2 f6 27.Bc4 a5 28.Rd2 Rd8 29.Bd5 Be830.Qc4 Rdb8 31.Qa2 Qc7 32.Bc4 Rd8 33.Rxd8 Qxd8 34.Kg2 Bb8 35.f3 Rd6 36.Re2 Bc637.Bf2 Ba7 38.Be3 Qd7 39.Qa3 Rd1 40.Bxc5 f5 41.gxf5 Qd8 42.Bxa7 Qg5+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.d4 bxa4 8.dxc5 Qe79.Qxa4 Qxc5 10.Bg5 Ng4 11.h3 h6 12.Bh4 Nf6 13.b4 Qb5 14.Qc2 g5 15.Bg3 d616.Nbd2 Be6 17.Rab1 Nd7 18.c4 Qb6 19.c5 dxc5 20.Nc4 Bxc4 21.Qxc4 Qb5 22.Qc2 Nd423.Nxd4 cxd4 24.Qxc7 f6 25.Rfc1 Ke7 26.Rc6 Qb8 27.Qa5 Rc8 28.Rbc1 Rxc6 29.Rxc6 Qb530.Qc7 Qb8  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Rb8 10.axb5 axb5 11.Bd3 Bd7 12.Bxb5 exd4 13.Qa4 Ne5 14.Bxd7+ Qxd7 15.cxd4 Nxf3+16.gxf3 O-O 17.Qxd7 Nxd7 18.Rd1 f5 19.Nc3 Rbe8 20.Ra4 h6 21.Re1 fxe4 22.Rxe4 Ra823.Re7 Nf6 24.Rc4 Ra1 25.Re1 d5 26.Rc6 Bxd4 27.Rxc7 Ng4 28.Kg2 Nxf2 29.Nxd5 Nd330.Rd1 Be5 31.Re7 Rf5 32.Ne3 Rg5+ 33.Ng4 Bxb2 34.Rxd3 Rxc1 35.h4 Rf5 36.Rd2 Bc337.Rd8+ Rf8 38.Rxf8+ Kxf8 39.Rc7 Bb2 40.Rxc1 Bxc1 41.h5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nbd2 exf3 10.Qxf3 Be7 11.Qxc6+ Bd7 12.Qf3 exd4 13.Ne4 O-O 14.Qd3 Nxe4 15.Qxe4 g616.Qxd4 Be6  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb79.d4 Bb6 10.Bg5 h6 11.Bxf6 Qxf6 12.axb5 axb5 13.Rxa8+ Bxa8 14.d5 Ne7 15.Qd3 c616.Rd1 O-O 17.dxc6 Nxc6 18.Qxb5 Rb8 19.Qa6 Ne7 20.Nbd2 d5 21.Qe2 dxe4 22.Nxe4 Bxe423.Qxe4 Bxf2+ 24.Kxf2 Qb6+ 25.Kg3 Qxb3 26.Qxe5 Nc6 27.Qe2 Qxb2 28.Qxb2 Rxb229.Rd6 Ne7 30.Rd8+ Kh7 31.Rd7 Nc6  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 b5 7.Bb3 d6 8.h3 Be69.Bxe6 fxe6 10.c3 d5 11.exd5 exd5 12.a4 e4 13.axb5 axb5 14.Rxa8 Qxa8 15.d4 Bd616.Bg5 O-O 17.Nh2 h6 18.Be3 Qc8 19.Qb3 Qb7 20.Na3 Na7 21.c4 Bxa3 22.bxa3 c6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bg5+ f6 16.exf6+ gxf6 17.Bh4 Ng4+ 18.Kh1 Rb8 19.Nd2 Be6 20.Rh5 Nf2+ 21.Bxf2 Bxf222.Rf1 Be3 23.Nb3 Rbd8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 Bb7 10.Be3 h6 11.Nbd2 O-O 12.Re1 Re8 13.a3 Qd7 14.b4 Rad8 15.d5 Ne716.c4 Bxe3 17.Rxe3 c6 18.dxc6 Nxc6 19.Rc1 Nd4 20.Nxd4 exd4 21.Re1 bxc4 22.Ba4 Bc623.Bxc6 Qxc6 24.Rxc4 Qb6 25.Nf3 d5 26.exd5 Rxe1+ 27.Nxe1 Rxd5 28.Qd3 Nh529.g3 Qe6 30.Kg2 Qg6 31.Qxg6 fxg6 32.Nd3 Rd6 33.Kf3 Nf6 34.Ne5 Rd5 35.Nc6 Kf736.Rxd4 Ke6 37.Ke3 Rh5 38.h4 g5 39.hxg5 Rxg5 40.Rc4 Ng4+ 41.Kf3 h5 42.Nd4+ Kd743.Rc5 Rxc5 44.bxc5 g5 45.Kg2 a5 46.a4 Ne5 47.f4 gxf4 48.gxf4 Nd3 49.c6+ Kd650.f5 Nc5 51.Kg3 Nxa4 52.Kh4 Nb6 53.Kxh5 Nd5 54.Kg6 Ne7+ 55.Kg5 Nxf5 56.Kxf5 a4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.Bg5 Rb8 11.axb5 axb5 12.h3 Be6 13.Bxe6 fxe6 14.d4 Bb6 15.dxe5 Nxe516.Nxe5 dxe5 17.Qe2 Qe8 18.Be3 Qg6 19.Nd2 Nh5 20.Bxb6 Rxb6 21.Qg4 Qxg4 22.hxg4 Nf423.Ra7 c5 24.Rd7 Rf7 25.Rd8+ Rf8 26.Rd7 Rf7 27.Rd8+ Rf8 28.Rd7  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2 O-O9.Nc4 Re8 10.b3 Bd6 11.Bb2 c5 12.a4 b6 13.Nfd2 Nf8 14.Qh5 f6 15.f4 exf4 16.Nxd6 cxd617.Rxf4 Ng6 18.Rf3 Be6 19.Raf1 d5 20.Rg3 d4 21.Bc1 Bf7 22.Rh3 Nf8 23.Qh4 b524.Nf3 bxa4 25.bxa4 Qd7 26.a5 c4 27.Qf2 Rad8 28.Nh4 cxd3 29.cxd3 Re5 30.Bd2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Rb8 10.Na3 O-O 11.axb5 axb5 12.Nxb5 Bg4 13.Bc2 Bxf3 14.gxf3 Nh5 15.Kh1 Qf616.Ra4 Nf4 17.Rg1 Ne7 18.Be3 Neg6 19.Rg3 Nh5 20.Rg4 h6 21.Na3 Nh4 22.Bd3 Ra823.Rxa8 Rxa8 24.Be2 Ng6 25.Nc4 Nhf4 26.Bf1 Ra2 27.Qb1 Ra4 28.Qd1 Ra2 29.Qb1 Ra430.Qd1  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.h3 O-O9.d4 Bb6 10.a4 Bb7 11.d5 Ne7 12.axb5 axb5 13.Rxa8 Bxa8 14.Na3 c6 15.dxc6 Bxc616.Qe2  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.a4 b4 10.d4 exd4 11.Bb3 Qd8 12.Re1+ Be7 13.Nxd4 Nxd4 14.Qxd4 Qxd4 15.cxd4 Bb716.Bg5 h6 17.Bxf6 gxf6 18.Nd2 Rg8 19.g3 Rd8 20.Rac1 Rd7 21.Nc4 Rg5 22.Ne3 Kf823.h4 Ra5 24.d5 Rc5 25.Rcd1 c6 26.Nf5 cxd5 27.Rd4 Rdc7 28.Red1 Rc1 29.Bxd5 Rxd1+30.Rxd1 Bc8 31.Be4 Bxf5 32.Bxf5 b3 33.Rd3 Rc4 34.Bd7 Rb4 35.Bc6  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Rb89.axb5 axb5 10.Be3 O-O 11.Bxc5 dxc5 12.h3 Qd6 13.Nc3 Nd4 14.Nxd4 cxd4 15.Nd5 Nd716.f4 c6 17.fxe5 Nxe5 18.Nf4 Be6 19.Bxe6 fxe6 20.Ra7 Ra8 21.Qa1 Rxa7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Bb7 11.Nbd2 Re8 12.Re1 h6 13.a3 Qd7 14.b4 Rad8 15.d5 Ne716.c4 Bxe3 17.Rxe3 c6 18.dxc6 Bxc6 19.a4 Ng6 20.axb5 axb5 21.cxb5 Bxb5 22.Rea3 Nf423.Ra7 Qc6 24.Bb3 d5 25.exd5 N6xd5 26.Kh2 Be2 27.Qb1 Bd3 28.Qb2 Qg6 29.g3 Qb630.Nc4 Qe6 31.g4 Nxh3 32.Ncxe5 Ng5 33.Nxg5 hxg5 34.Nxd3 Qxg4 35.Rxf7 Qh5+36.Kg2 Qg4+ 37.Kh2 Qh5+ 38.Kg1 Qg4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.a4 b4 10.d4 exd4 11.Bb3 Qh5 12.cxd4 Be7 13.Ne5 Qxd1 14.Rxd1 Nxe5 15.dxe5 Ng416.h3 Nxe5 17.Bf4 f6 18.Bxe5 fxe5 19.Nd2 Bd6 20.Ne4 Ke7 21.Rac1 Rd8 22.Bd5 Rb823.b3 Bf5  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 O-O 13.d4 exd4 14.cxd4 Bb6 15.b3 Re816.Re1 c5 17.Nd2 cxd4 18.Bb2 Nd7 19.Nf3 Nc6 20.a5 Bc5 21.Qd2 Rc8 22.Re2 Qf623.Bd3 Ra8 24.Bc4 Nde5 25.Nxe5 Nxe5 26.Bd5 Rac8 27.Rd1 Qd8 28.Bxd4 Bxd4 29.Qxd4 Qxa530.Ra1 Qb5 31.Rea2 Nc6 32.Qd2 a5 33.Qf4 Red8 34.Qxf7+ Kh8 35.Qf4 Nd4 36.Qd2 Nc637.Kh2 Qb6 38.f4 Rf8 39.Qf2 Qb5 40.Qg3 Rce8 41.Rc1 Ne7 42.Rc7 Qb6 43.Rd7 Qc544.f5 Qc3 45.Be6 d5 46.Rxa5 dxe4 47.Qd6 e3 48.Rc5 Qf6 49.Qe5 Qxe5+ 50.Rxe5 Nxf551.g4 Nh4 52.Rxe3 Nf3+ 53.Kg2 Ng5 54.Rd6 g6 55.h4 Nxe6 56.Rdxe6 Rxe6 57.Rxe6 Rf458.Kg3 Rd4 59.Re3 h5 60.g5 Kg7 61.Rf3 Rg4+ 62.Kh3 Rd4 63.Kg3 Rg4+ 64.Kh3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 Qb8 13.d4 b3 14.dxc5 bxc2 15.Qxc2 Nb316.Ra3 Nxc5 17.Nd2 Qb7 18.Re1 a5 19.f3 O-O 20.Nc4 Qa6 21.Ne3 Rfb8 22.Bd2 Qd323.Rb1 Qxc2 24.Nxc2 Rb3 25.Rxb3 Nxb3 26.Be1 Nd7 27.Na1 Ndc5 28.Nxb3 Nxb329.Bf2 Kf8 30.Rd1 Ke7 31.Kf1 Rb8 32.Ke2 c6 33.Kd3 d5 34.Re1 Kd6 35.exd5 cxd536.Kc2 f6 37.Rd1 Rb7 38.Be3 g5 39.Bf2 h6 40.h4 Nc5 41.hxg5 hxg5 42.Bxc5+ Kxc543.Rh1 e4 44.fxe4 dxe4 45.Rf1 e3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Qd3 Bg4 10.d5 Ne7 11.a4 O-O 12.h3 Bd7 13.Be3 bxa4 14.Bxa4 Nexd5 15.exd5 e416.Qd1 exf3 17.Qxf3 Bxe3 18.fxe3 Qb8 19.b4 Qb6 20.Bxd7 Nxd7 21.Nd2 Ne5 22.Qf2 a523.Nf3 Nxf3+ 24.Qxf3 f6 25.bxa5 Rxa5 26.Qe4 Rxa1 27.Rxa1 Qb8 28.Qe6+ Kh829.Qd7 h6 30.Ra4 f5 31.Rc4 Qe8 32.Qxe8 Rxe8 33.Rxc7 Rxe3 34.Kf2 Re5 35.c4 Re436.Kf3 h5 37.c5 dxc5 38.Rxc5 Kh7 39.d6 Rd4 40.Rc6 f4 41.h4 g5 42.hxg5  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Na5 10.axb5 Bxf3 11.gxf3 axb5 12.Bc2 b4 13.d4 exd4 14.Ba4+ Kf8 15.cxd4 Bb616.Kh1 Nh5 17.f4 g6 18.Be3 Nc4 19.Qe2 Nxe3 20.fxe3 Qh4 21.Qg2 c5 22.Nd2 cxd423.Nc4 Rxa4 24.Rxa4 dxe3 25.Rf3 Qe1+ 26.Rf1 Qh4 27.Rf3 Qe1+  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.Qe2 O-O9.d3 h6 10.a4 Rb8 11.axb5 axb5 12.Be3 Bxe3 13.Qxe3 Ng4 14.Qe2 Ne7 15.Nbd2 Ng616.g3 Kh8 17.d4 c5 18.dxc5 dxc5 19.Rfd1 Qc7 20.Bc2 Be6 21.Ra6 b4 22.Bd3 bxc323.bxc3 Rb2 24.Bc4 Bc8 25.Ra8 Bb7 26.Rxf8+ Nxf8 27.Ng5 f5 28.exf5 Nf6 29.Nf7+ Kh730.Nxe5 Ne4 31.Ng6 Nd7 32.Qe3 Qd6 33.Bd3 Rxd2 34.Rxd2 Nxd2 35.Qe8 Nf3+ 36.Kg2 Ne1+37.Kg1 Nf3+ 38.Kg2 Ne1+ 39.Kg1 Nf3+ 40.Kg2 Ne1+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 b5 8.Bb3 O-O9.Re1 Re8 10.a4 Bg4 11.h3 Bxf3 12.Qxf3 Na5 13.Bc2 b4 14.Nd2 Rb8 15.Rb1 Qd716.Nb3 Nxb3 17.Bxb3 bxc3 18.bxc3 Rf8 19.Bg5 Ne8 20.Bc4 Rxb1 21.Rxb1 a5 22.Rb8 c623.Rd8 Qc7 24.Qf5 d5 25.exd5 h6 26.Rd7 Qc8 27.dxc6 Nd6 28.Qxe5 Qxc6 29.Be7 Nxc430.Qxc5 Qxd7 31.Bxf8 Qxd3 32.Kh2 Nd2  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 h6 10.a4 Rb8 11.axb5 axb5 12.Na3 exd4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 Bb7 10.Be3 O-O 11.Nbd2 Re8 12.Re1 h6 13.a4 exd4 14.Nxd4 Nxd4 15.Bxd4 c516.Bxf6 Qxf6 17.Qf3 Qxf3 18.Nxf3 Re7 19.Kf1 Rae8 20.Nd2 d5 21.f3 dxe4 22.Nxe4 Bc623.a5 Ba7 24.Rad1 Kf8 25.b4 cxb4 26.cxb4 f5 27.Nc3 g6 28.Rxe7 Kxe7 29.Bb3 Rd830.Rxd8 Kxd8 31.Ke2 Kc7 32.g3 Kd6 33.f4 Bd4 34.Kd3 Bg1 35.Bf7 g5 36.Ne2 Be4+37.Kd2 Bf2 38.fxg5 hxg5 39.Bh5 Ke5 40.Be8 f4 41.gxf4+ gxf4 42.Bh5 Be3+ 43.Ke1 Bf544.Bf3 Be4 45.Bh5 Ba7 46.Bg4 Bb7 47.Kf1 f3 48.Ng3 Kf4 49.Nh5+ Ke3 50.Ng3 Bb851.Nf5+ Kd3 52.Nh4 Kc3 53.Bxf3 Bxf3 54.Nxf3 Kxb4 55.h4 Kxa5 56.Ke2 Bf4 57.Kd3 b458.Nd4 Ka4 59.Kc4 a5 60.h5 Be5 61.h6 Bh8 62.h7 Ka3 63.Nc2+ Ka2 64.Nxb4+ axb4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bg5+ f6 16.exf6+ gxf6 17.Bh4 Ng4+ 18.Kh1 Rb8 19.Nd2 Be6 20.Re1 Kf7 21.Rh5 Nf2+22.Bxf2 Bxf2 23.Rf1 Rb6 24.Rxf2 Rxc6 25.a3 Rd6 26.h3 Bd5 27.Nf1 Be4 28.Ng3 Bg629.Rc5 c6 30.Nf5 Bxf5 31.Rcxf5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bg5+ f6 16.exf6+ gxf6 17.Bh4 Ng4+ 18.Kh1 Rb8 19.Nd2 Be6 20.Re1 Kf7 21.Ne4 Bxd522.Bxd5+ Kg6 23.h3 Rhd8 24.Bb3 Ne3 25.Nxf6 Rd2 26.Ng4 Re8 27.Bg3 Re7 28.Bf4 Rxb229.Nxe3 Rf2 30.Bc2+ Kf7 31.Bg3 Bxe3 32.Bxf2 Bxf2 33.Rxe7+ Kxe7 34.Bxh7 Bg335.Kg1 Kd6 36.Kf1 Ke5 37.Ke2 Kf4 38.Kd3 Be1 39.g4 c5 40.Bf5 a5 41.Bd7 b442.c4 Bf2 43.Kc2 Kg5 44.Kb3 Kh4 45.Ka4 Kg5 46.Kxa5 Kh4 47.Kb5 Kg5 48.Kc6 Kh449.Kd5 Kg5 50.Ke4 Be1 51.Kf3 Bh4 52.Ke4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxe5 exf3 10.exf6 Qxf6 11.Re1+ Be6 12.Nd2 O-O-O 13.Qxf3 Qxf3 14.Nxf3 Bd515.b4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.h3 O-O9.a4 Bb7 10.d4 Bb6 11.dxe5 Nxe5 12.Nxe5 dxe5 13.Qf3 Ne8 14.Be3 Nd6 15.Bxb6 cxb616.axb5 axb5 17.Na3 Qc7 18.Bd3 Qc5 19.Qe2 b4 20.cxb4 Qxb4 21.Nc4 Qc5 22.Nxd6 Qxd623.Bc4 Qg6 24.Bd5 Bxd5 25.exd5 Qd6 26.Qb5 g6 27.Rxa8 Rxa8 28.Qc6 Rd8 29.Re1 Qxd530.Qxb6 Qd4 31.Qxd4 exd4 32.Rd1 Kg7 33.Kf1 Kf6 34.Ke2 Rb8 35.Rxd4 Rxb2+ 36.Ke3 Rb3+37.Ke2 Rb2+ 38.Ke3 Rb3+ 39.Ke2 Rb2+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.c3 h6 9.h3 O-O10.Nbd2 Bb7 11.Re1 Re8 12.Nf1 Bb6 13.Be3 d5 14.Bxb6 cxb6 15.Ng3 dxe4 16.dxe4 Na517.Qe2 Nxb3 18.axb3 Qc7 19.Nh4 Rad8 20.Rad1 g6 21.Qe3 Kh7 22.Nf3 Rd6 23.Rxd6 Qxd624.Nh2 Rd8 25.Nhf1 a5 26.Re2 Qe6 27.Rd2 Rxd2 28.Nxd2 Qd6 29.Ngf1 Nd7 30.Nh2 h531.Nhf3 Nc5 32.Ne1 Bc8 33.b4 axb4 34.cxb4 Ne6 35.Ndf3 Nf4 36.Qd2 Qxd2 37.Nxd2 Kg738.f3 h4 39.Kf2 Be6 40.Nb1 Kf6 41.Na3 Bc4 42.Nac2 Ke6 43.Ne3 f5 44.Nd1 Kd645.Nc3 Ne6 46.Nc2 Nd4 47.Ne3 f4 48.Ned5 Bxd5 49.Nxd5 Nc6 50.Ke2 Nd4+ 51.Kd2 g552.Nxb6 g4 53.fxg4 f3 54.gxf3 Nxf3+ 55.Ke3 Ng5 56.Nd5 Nxh3 57.Nc3 Kc6 58.Ne2 Kd759.Nc3 Ng5 60.Nxb5 h3 61.Kf2 Nxe4+ 62.Kf3 Kc6 63.Na3 Kd5 64.b5 Ng5+ 65.Kg3 Kc566.b6 Kxb6 67.Nc4+ Kc5 68.Nxe5 Kb4 69.Nd3+ Kb3 70.Nf2 Kxb2 71.Nxh3 Ne6 72.Kf3 Kc373.Ke4 Kc4 74.Ke5 Nd4 75.Ng1 Nc6+ 76.Kf6 Kd5 77.Nf3 Kd6 78.g5 Ne7 79.Nd4 Nd5+80.Kf7 Nf4 81.Nf5+ Ke5 82.Nh4 Ke4 83.Kf6 Nd5+ 84.Ke6 Nf4+ 85.Kf7 Nd3 86.Kf6 Ne587.Ng2 Nd7+ 88.Ke6 Nf8+ 89.Kf6 Nh7+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 O-O 13.Re1 Re8 14.d4 exd4 15.cxd4 Bb616.d5 Nd7 17.Nd2 Qf6 18.Re2 Ne5 19.Nb3 Nxb3 20.Bxb3 a5 21.Be3 Nd7 22.Bxb6 cxb623.Bc4 Nc5 24.f3 g5 25.Qd2 Re5 26.Rf2 Qf4 27.Qxf4 gxf4 28.Bb5 Kh8 29.Re2 Rg830.g4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.d5 Ne7 11.axb5 axb5 12.Rxa8 Qxa8 13.Na3 Ng6 14.h3 Bd7 15.Re1 O-O16.Bd3 Rb8 17.Nc2 c6 18.dxc6 Bxc6 19.Qe2 Nh5 20.Nb4 Nhf4 21.Qc2 Bd7 22.Bf1 Bc523.Be3 Bxb4 24.cxb4 Bc6 25.Nd2 Rc8 26.Qd1 d5 27.exd5 Bxd5 28.f3 Ne6 29.Nb1 Bc430.Nc3 Qb7 31.Ne4 Rd8 32.Qc2 Nd4 33.Qf2 Bxf1 34.Rxf1 Qe7 35.Nc5 Nc6 36.Qe2 Nxb437.Qxb5 Nd5 38.Bf2 Ngf4 39.Kh2 Qg5 40.Rg1 Nf6 41.g3 Ng6 42.Ne4 Nxe4 43.fxe4 h544.h4 Qg4 45.Qb4 Rd3 46.Rg2 Qf3 47.Qc4 Kh7 48.Be1 Rd4 49.Qe2 Qxe4 50.Qxh5+ Kg851.Bc3 Rd3 52.Re2 Re3 53.Rxe3 Qxe3 54.Qg4 Qf2+ 55.Kh1 Ne7 56.Qd1 Nf5 57.Bxe5 Ne358.Qd8+ Kh7 59.Qd3+ f5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Re1 Bf5 13.Nd2 O-O-O 14.Be2 Nd7 15.a4 Nxc516.axb5 axb5 17.Bxb5 Ne5 18.f3 Ncd3 19.Re2 exf3 20.Nxf3 Nxf3+ 21.gxf3 Nxc122.Rxc1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.h3 Bh5 11.d5 Ne7 12.axb5 axb5 13.Rxa8 Qxa8 14.Na3 O-O 15.Bg5 Qe816.Bxf6 gxf6 17.Qd3 Ng6 18.g3 Kh8 19.Kh2 Rg8 20.Ne1 Qf8 21.Bd1 Qh6 22.Ng2 Bxd123.Qxd1 f5 24.exf5 Ne7 25.Nc2 Nxf5 26.Qf3 Qg5 27.Nce3 Bxe3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Bb3 Qd6 11.Re1+ Kf8 12.Bg5 Bf5 13.cxd4 Nxd4 14.Nxd4 Qxd4 15.Qf3 Be416.Qf4 Bd5 17.Nc3 Bxb3 18.axb3 h6 19.Nxb5 Qxf2+ 20.Qxf2 Bxf2+ 21.Kxf2 hxg522.Nxc7 Rb8 23.Kg1 Rxb3 24.Rxa6 Kg8 25.Ra5 Rxb2 26.Rxg5 Rh5 27.Rxh5 Nxh528.Nd5 Nf6 29.Nxf6+ gxf6 30.h3 Kg7  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxe5 exf3 10.Qxd8+ Nxd8 11.exf6 fxg2 12.Re1+ Kf8 13.Be4 Bb7 14.Bxb7 Nxb715.Kxg2 Rg8 16.a4 b4 17.Kf3 g5 18.Nd2 Nd6 19.Nb3 Ba7 20.cxb4 Rg6 21.Nc5 Rxf6+22.Kg2 Rf5 23.Be3 Kg7 24.Rac1 Kg6 25.Nd7 Bxe3 26.Rxe3 Ra7 27.Ne5+ Kg7 28.Nc6 Rb729.b3 Rf4 30.b5 Rb6 31.bxa6 Rxa6 32.a5 Nf5 33.Rd3 Nh4+ 34.Kf1 Nf3 35.h3 Rf636.b4 Rfxc6 37.Rxc6 Rxc6 38.Rxf3 Rc1+ 39.Ke2 Rb1 40.a6 Rb2+ 41.Kd1 Rxb4 42.Ra3 Rb843.Kc2 Kg6 44.Kc3 f5 45.Kc4 g4 46.Kc5 Kg5 47.Kc6 gxh3 48.Kxc7 Ra8 49.Kb7 Rxa650.Kxa6 Kg4 51.Rg3+ Kh4 52.Rg1 h2 53.Rb1 Kh3 54.f4 Kg2 55.Rb2+ Kg3 56.Rb1 Kxf457.Kb5 Kg3 58.Kc4 f4 59.Kd3 Kg2 60.Rb2+ Kg3 61.Rb1 Kg2 62.Rb2+ Kg3 63.Rb1 Kg2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+ Kxd8 12.Bxf7 Rf8 13.Bd5 Nxd5 14.exd5 Bb715.Bg5+ Kd7 16.Nd2 Bxd5 17.Rae1 Rf5 18.Be3 Bxe3 19.Rxe3 a5 20.a3 c5 21.Rfe1 Kd622.f3 Re8 23.Kf2 c4 24.Rd1 Kc6 25.Ne4 h6 26.Re2 Bxe4  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxe5 exf3 10.Qxd8+ Nxd8 11.exf6 gxf6 12.Re1+ Be7 13.g3 Bb7 14.Nd2 Ne6 15.Bd1 O-O-O16.Bxf3 Bxf3 17.Nxf3 Rd5 18.Be3 Rhd8 19.Kf1 Kb7 20.Rac1 Bc5 21.Bxc5 Nxc522.Rc2 Ne6 23.Rce2 a5 24.Rc2  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Ba7 7.d4 O-O 8.Re1 d69.h3 Qe7 10.Bb3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Be2 Bg4 13.Bxg4 Nxg4 14.a4 O-O 15.axb5 axb516.Rxa8 Rxa8 17.Na3 b4 18.Nb5 Ra5 19.c4 Nge5 20.b3 Nd3 21.Be3 f5 22.g3 Ra223.Rb1 Nce5 24.Nxc7 Nf3+ 25.Kg2 Nd2 26.Bxd2 Rxd2 27.Nd5 Rxf2+ 28.Kg1 Rd229.c6 Ne5 30.c7 Nf3+ 31.Kf1 Nxh2+ 32.Ke1 Nf3+  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Rb8 12.d3 Nd7 13.Kh1 Kh8 14.Qe2 Ba7 15.Nd2 Ne716.f4 Ng6 17.fxe5 dxe5 18.Nf3 f6 19.Rd1 Qe7 20.Be3 Bxe3 21.Qxe3 c6 22.Ba2 Rfd823.Ne1 c5 24.Nc2 Nf4 25.Kh2 Rbc8 26.g3 Ne6 27.Qe2 Nc7  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Be2 Bg4 13.f3 exf3 14.gxf3 Bf5 15.b4 O-O-O16.a4 Rhe8 17.axb5 Rxe2 18.bxc6 Bh3 19.Rxa6 Kb8 20.Bf4 Bxf1 21.Rb6+ Kc8 22.Ra6 Kb823.Rb6+ Kc8 24.Ra6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bh5 12.d3 O-O 13.Bg5 Nd7 14.g4 Bg6 15.Bd5 h616.b4 hxg5 17.bxc5 Nxc5 18.Nxg5 Qd8 19.Bxc6 Qxg5 20.Bxb5 f5 21.Bc4+ Kh7 22.exf5 Rxf523.h4 Qxh4 24.gxf5 Qg5+ 25.Kh2 Qh4+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 Rb8 13.Nd2 O-O 14.Re1 Qd7 15.Qd1 d516.d4 bxc3 17.bxc3 exd4 18.e5 Ne4 19.Bxe4 dxe4 20.Nxe4 Be7 21.cxd4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.f4 Nc6 11.Qc3 Bb7 12.e5 Ne4 13.Qe3 Ne7 14.Nd2 Nc5 15.f5 Nxb316.Nxb3 dxe5 17.Nc5 Bd5 18.Qxe5 Qd6 19.Qxd6 cxd6 20.Nb3 f6 21.Bf4 Nxf5 22.Rad1 Bc423.Rfe1+ Kf7 24.Nd4 Nxd4 25.Rxd4 Rhe8 26.Rxe8 Rxe8 27.b3 Be6 28.Rxd6 Rc829.Rxa6 Rxc2 30.h4 h5 31.a4 Bxb3 32.axb5 Bd5 33.g3 Rg2+ 34.Kf1 Rb2 35.Rb6 Kg636.Rb8 Bc4+ 37.Ke1 Bxb5 38.Rb7 Re2+ 39.Kd1 Ba6 40.Ra7 Re6 41.Kd2 Be2 42.Rc7 Bg443.Ra7 Re2+ 44.Kd3 Re1 45.Kd4 Bf3 46.Rc7 Re8 47.Ra7 Bg2 48.Rc7 Rg8 49.Rc5 Re850.Rc7 Bf1 51.Ra7 Be2 52.Rc7 Bd1 53.Ra7 Rg8 54.Rb7 Bg4 55.Rb5 Rd8+ 56.Ke3 Re8+57.Kd4 Re7 58.Rc5 Bd7 59.Bd6 Re8 60.Rc7 Bf5 61.Bf4 Re4+ 62.Kc5 Ra4 63.Kb5 Ra864.Kc4 Rd8 65.Kc5 Bc2 66.Kc4 Ba4 67.Kc3 Bd7 68.Rc5 Bg4 69.Rc7 Bf3 70.Ra7 Rg871.Ra5 Kf7 72.Kd4 Ke6 73.Ke3 Bd5 74.Kd4 Rd8 75.Ra6+ Ke7 76.Ra7+ Kf8 77.Bc7 Rd778.Kc5 Ke8 79.Bb8 Rxa7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Rb89.Nc3 Bg4 10.Be3 Nd4 11.Bxd4 Bxd4 12.h3 Bxf3 13.Qxf3 O-O 14.axb5 axb5 15.Rfb1 g616.Nd5 Nxd5 17.Bxd5 b4 18.Ra2 Kg7 19.g4 Qe7 20.Rba1 Rh8 21.Ra8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.h3 Bxf3 11.Qxf3 Na5 12.Bc2 b4 13.Bg5 h6 14.Bh4 Rb8 15.Nd2 bxc316.bxc3 Rb2 17.Qd1 Qe7 18.Nf3 Ba7 19.Re1 Qe6 20.Bg3 Nh5 21.Bh2 Qf6 22.Rb1 Rfb823.Rxb2 Rxb2 24.Qc1 Rb8 25.Qd2 Nf4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Be3 21.Ra1 Bf422.g3 Bxe5 23.Rd2 h5 24.Nc2 Bxc2 25.Rxc2 Rh8 26.Re1 Ke6 27.c4 b4 28.Rd2 f629.Kg2 g5 30.h3 a5 31.Re3 a4 32.Kf3 Rg8 33.Ke2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 h6 10.Be3 O-O 11.Nbd2 Re8 12.Re1 Bb7 13.d5 Ne7 14.c4 Bxe3 15.Rxe3 Ng616.Qf1 c5 17.dxc6 Bxc6 18.Rc1 Qb6 19.cxb5 axb5 20.Rec3 Bb7 21.Rc7 Re7 22.Rxe7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d3 Bg4 10.Nbd2 O-O 11.Qe2 Rad8 12.Ne4 Nxe4 13.dxe4 Qd6 14.b4 Bb6 15.a4 Qf616.h3 Bxf3 17.Qxf3 Qxf3 18.gxf3 Rd6 19.Rd1 Rfd8 20.Rxd6 Rxd6 21.axb5 axb522.Kf1 Kf8 23.Ke2 Nd8 24.Bd3 Bxf2 25.Bxb5 Bg3 26.Ra8 Ke7 27.Bg5+ f6 28.Be3 Ne629.Re8+ Kf7 30.Rc8 Rd8 31.Rxd8 Nxd8 32.Ba7 Ne6 33.Bc4 Ke7 34.Bxe6 Kxe6 35.b5 g636.c4 Kd7 37.Bc5 f5 38.Kd3 Kc8 39.Be7 Kb7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.h3 Bh5 13.Qd3 exd4 14.Nxd4 O-O 15.Nxc6 Qxc616.Bd5 Nxd5 17.exd5 Qe8 18.Be3 Bg6 19.Qd2 Bxe3 20.fxe3 Be4 21.Qd4 Qe5 22.Qxe5 dxe523.Rd1 Rd8 24.c4 Bxb1 25.Rxb1 bxc4 26.Ra1 Kf8 27.e4 c6 28.dxc6 Rc8 29.Ra5 Rxc630.Rxe5 Rd6 31.Rc5 Rd4 32.e5 Ke7 33.Kf2 Rd2+ 34.Kf3 Rxb2 35.Rxc4 Ke6 36.Rg4 Rb3+37.Kf2 g6 38.Rh4 h5 39.Rf4 Rb7 40.Re4 Rb5 41.g3 Rxe5 42.Ra4 g5 43.Kf3 Rf5+44.Ke4 Rf1 45.Ra6+ Ke7 46.Rh6 h4 47.gxh4 Rf4+ 48.Ke3 Rxh4 49.Rxh4 gxh4 50.Kf4 Kf651.Ke4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 O-O 13.d4 exd4 14.cxd4 Bb6 15.Be3 Nc416.Nd2 Nxe3 17.fxe3 d5 18.e5 Nd7 19.a5 Ba7 20.Rf4 g6 21.Qf3 Qe7 22.Kh1 Rad823.Bb3 c6 24.Rf1 Kg7 25.Qe2 f6 26.Qxa6 fxe5 27.Rxf8 Nxf8 28.Qxc6 exd4 29.exd4 Rd630.Qb5 Bxd4 31.Qxb4 Bf6 32.Nf3 Ne6 33.Re1 Qc7 34.Bxd5 Rxd5 35.Rxe6 Rxa5 36.Re1 Ra237.Nd4 Qg3 38.Ne6+ Kh6 39.Rf1 Be5 40.Qf8+ Kh5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Be3 Bxe39.fxe3 O-O 10.Nc3 Be6 11.Qd2 c5 12.b3 Nd7 13.Rf2 c6 14.Raf1 d5 15.d4 cxd416.exd4 exd4 17.Nxd4 Qb6 18.exd5 cxd5 19.Nf5 Bxf5 20.Nxd5 Qc5 21.b4 Qxc222.Ne7+ Kh8 23.Qg5 Qc3 24.Nxf5 g6 25.Qe7 gxf5 26.Qxd7 Qxb4 27.Qxf5 Qb6 28.h3 Ra729.Kh1 Re7 30.Qg5 Qd6 31.Rf6 Re6 32.Rxe6 Qxe6 33.Qf6+ Kg8 34.Qxe6 fxe6 35.Rxf8+ Kxf836.g3 Kf7 37.Kg2 Kf6 38.Kf3 h5 39.Ke4 a5 40.a4 e5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Re1+ Be7 11.Bb3 Qd8 12.a4 b4 13.Nxd4 Nxd4 14.Qxd4 Qxd4 15.cxd4 Bb716.Bg5 Rd8 17.Nd2 Rd7 18.Nc4 O-O 19.Rac1 Bd8 20.Ne5 Rd6 21.Nxf7 Rxf7 22.Bxf6 gxf623.Re8+ Kg7 24.Bxf7 Kxf7 25.Rxd8 Rxd8 26.Rxc7+ Kg6 27.Rxb7 Rxd4 28.Kf1 b329.Rxb3 Rxa4 30.Ke2 Rd4 31.Ke3 Rd6 32.Rd3 Rb6 33.b3 a5 34.Kd2 Rb5 35.Kc3 h536.Rg3+ Kf7 37.Rf3 h4 38.Rf4 Rg5 39.g3 hxg3 40.fxg3 Rh5 41.h4 Kg6 42.Rg4+ Kf743.Rc4 Kg6 44.Rg4+ Kf7 45.Kc4 Re5 46.Rf4 Kg6 47.g4 Re3 48.Rd4 Rh3 49.g5 fxg550.Rd6+ Kh5 51.hxg5 Kxg5 52.Ra6 Kf5 53.Rxa5+ Ke6 54.Rc5 Kd7 55.b4 Rh8 56.b5 Rh4+57.Kb3 Rg4 58.Ka3 Rh4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 Qb8 13.d4 b3 14.dxc5 bxc2 15.Qxc2 Nb316.Ra3 Nxc5 17.Nd2 a5 18.Re1 Qb7 19.f3 O-O 20.Nc4 Rfe8 21.Be3 Qc6 22.b4 axb423.cxb4 Nxa4 24.Rc1 Nb6 25.Na5 Qxc2 26.Rxc2 Rec8 27.Rc6 d5 28.Bg5 Nfd7 29.Rac3 d430.Rc1 Nf8 31.Rxc7 Ne6 32.Rxc8+ Rxc8 33.Rxc8+ Nxc8 34.Bd2 Nd6 35.Kf1 Kf836.Ke2 Ke8 37.Kd3 f6 38.Nc4 Nb5 39.Nb6 Nd6 40.Nc4 Nb5 41.g3 g5 42.Nb6 Nd643.Nc4 Nb5 44.Kc2 h5 45.Kb3 d3 46.Be3 Ned4+ 47.Bxd4 Nxd4+ 48.Kc3 Nxf3 49.Kxd3 h450.gxh4 gxh4 51.Nd6+ Kd7 52.Nf5 Kc6 53.Kc4 Nd2+ 54.Kd3 Nf3 55.Kc4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Bxd1 Ng4 12.Bf4 e3 13.Bf3 Rb8 14.Na3 Nxf2 15.Nc2 Nd316.Bxe3 Bxe3+ 17.Nxe3 Nxe5 18.Nd5 c6 19.Rfe1 f6 20.Nb4 Kd7 21.Rad1+ Kc7 22.Nd3 Nxf3+23.gxf3 Kb6 24.b4 Rb7 25.Nc5 Ra7 26.Nb3 Bf5 27.Rd6 Rc7 28.Nd4 Bc8 29.Kf2 Rf830.Nb3 Rff7 31.Nc5 Rfe7 32.Rb1 a5 33.a4 axb4 34.cxb4 bxa4 35.Nxa4+ Kb5 36.Nc3+ Kc437.Rc1 Kxb4 38.Rd4+ Kb3 39.Ne4 Kb2 40.Rc5 Re5 41.Rcc4 Be6 42.Rb4+ Kc2 43.Rd2+ Kc144.Rbb2 Bb3 45.Nc3 Rce7 46.Na2+ Bxa2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Rb8 12.d3 Nd7 13.Nd2 Ne7 14.Qe2 Kh8 15.Nf3 h616.d4 Ba7 17.dxe5 dxe5 18.Rd1 Ng6 19.Bxh6 gxh6 20.Qd2 Nf4 21.Qxd7 Qf6 22.Qf5 Qxf523.exf5 Rg8 24.Nxe5 Rxg2+ 25.Kh1 Rxf2 26.Rd7 Rxb2 27.Bxf7 Ne2 28.Rg1 Bxg129.Be6 Ng3+ 30.Kxg1 Ne2+ 31.Kf2 Nf4+ 32.Ke3 Nxe6 33.fxe6 Re8 34.Nf7+ Kg835.Nxh6+ Kh8 36.Nf7+ Kg8 37.Nh6+ Kh8 38.Nf7+ Kg8 39.Nh6+  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 b5 8.Bc2 Bg49.Nbd2 O-O 10.Re1 Ne7 11.h3 Bxf3 12.Nxf3 Ng6 13.d4 Bb6 14.g3 Qe7 15.Kg2 c516.a4 Rab8 17.d5 c4 18.h4 h6 19.Nh2 Qb7 20.Qf3 Nh7 21.Ng4 Ne7 22.Ne3 Bc523.Bd2 Rfe8 24.Reb1 Qd7 25.axb5 axb5 26.b3 cxb3 27.Rxb3 Rf8 28.Qe2 f5 29.Nxf5 Nxf530.exf5 Nf6 31.c4 bxc4 32.Rxb8 Rxb8 33.Qxc4 Rb2 34.Rb1 Rxb1 35.Bxb1 Qb7 36.Bc2 Kh837.Bb3 Qd7 38.Bc2 Qb7 39.Bb3 Qd7 40.Bc2  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.Re1 O-O9.a4 Bg4 10.h3 Bxf3 11.Qxf3 b4 12.a5 Na7 13.d3 bxc3 14.bxc3 Rb8 15.Bc4 Nb516.Bg5 c6 17.Bxb5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d3 O-O9.Bg5 Bb6 10.Nbd2 Ne7 11.a4 Rb8 12.axb5 axb5 13.Nh4 Bg4 14.Ndf3 Kh8 15.Bxf6 gxf616.Qd2 Qd7 17.d4 Rg8 18.g3 Rg7 19.Bd1 f5 20.exf5 Nxf5 21.Bc2 Rbg8 22.Nxf5 Bxf523.Bxf5 Qxf5 24.Kg2 f6 25.Qe2 Qd7 26.Rfd1 Qc6 27.Kg1 Re8 28.Re1 Rgg8 29.Qe4 Qxe430.Rxe4 f5 31.Ree1 f4 32.Re4 exd4 33.Rxf4 dxc3 34.bxc3 Rgf8 35.Rxf8+ Rxf836.Kg2 Re8 37.Ra2 Re4 38.Ng5 Rc4 39.Ne6 Kg8 40.Ra8+ Kf7 41.Ng5+ Kg7 42.Ne6+ Kf743.Ng5+ Kf6 44.Nxh7+ Kg7 45.Ng5 Rxc3 46.h4 Rc2 47.Kh3 b4 48.f4 b3 49.Rd8 b2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 Rb8 11.axb5 axb5 12.Na3 O-O 13.Nc2 d5 14.Qe2 d4 15.Bg5 h616.cxd4 Bxf3 17.Qxf3 Nxd4 18.Nxd4 Bxd4 19.Bxf6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bh5 12.d3 O-O 13.Bg5 Qd8 14.g4 Bg6 15.Nh4 Qe716.Na3 Nd8 17.Nxb5 c6 18.Na3 Ne6 19.Bxe6 fxe6 20.Nc4 Be8 21.Ng2 Ba7 22.b4 Bb823.Be3 h6 24.Qe2 c5 25.bxc5 d5 26.Nd2 Bc6 27.f3 Rd8 28.Nb3 Ba4 29.Rb1 Ba730.Qa2 Bxb3 31.Qxb3 Bxc5 32.d4 Bd6 33.Qc2 exd4 34.cxd4 e5 35.Nh4 exd4 36.Nf5 Qe637.exd5 Qxd5 38.Bxd4 Qxf3 39.Bxf6 gxf6 40.Qc4+ Kf8 41.Nxd6 Qg3+ 42.Kf1 Qxh3+43.Kf2 Qh2+ 44.Kf3 Qxd6 45.Qb4 Kg7 46.Qxd6 Rxd6 47.Rb8 Rd4 48.Kg3 Kg6 49.Rg8+ Kf750.Ra8 Kg6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 Rb8 13.Nd2 O-O 14.Re1 Qd7 15.Qd1 Qc616.Nf3 bxc3 17.bxc3 Ba7 18.Ra3 Rfe8 19.Qe2 Bc5 20.Ra2 d5 21.Bg5 dxe4 22.dxe4 h623.Bh4 Nh5 24.Nd4 Bxd4 25.cxd4 Nf4 26.Qd2 Nc4 27.Qc1 Qe6 28.Bg3 g5 29.Bxf4 gxf430.Bd3 Nd6 31.Ra3 exd4 32.Qxf4 c5 33.e5 c4 34.Be2 d3 35.exd6 Rb2 36.Bxd3 Qxe1+37.Kh2 Qe5 38.Qxe5 Rxe5 39.Bxc4 Rd2 40.Rf3 Rxd6 41.Rxf7 Kh8 42.Ra7 Ra5 43.Bb5 Rg644.g4 Rg7 45.Rxa6 Rxa6 46.Bxa6 Rc7 47.Kg3 Rc3+ 48.f3 Kg7 49.Kf4 Rb3 50.Bb5 Kf651.Ke4 Rb4+ 52.Kd5 Rf4 53.a5 Rxf3 54.h4 Rf4 55.a6 Rxg4 56.a7 Rg8 57.Bc6 Kf558.Kd6 Kg4 59.Bd5 Rh8 60.a8=Q Rxa8 61.Bxa8 Kxh4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Be3 21.Ra1 Bf422.g3 Bxe5 23.Rd2 h5 24.Nc2 Bxc2 25.Rxc2 f6 26.a4 Rb8 27.axb5 axb5 28.Ra6 b429.cxb4 Rxb4 30.Rac6 Kd7 31.R6c4 Rb3 32.Rd2+ Ke6 33.Rcc2 Kf5 34.Kg2 g5 35.Rf2+ Kg636.Rf3 Rxb2 37.Rxb2 Bxb2 38.Rb3 Bd4 39.Rb8 g4 40.Kf1 c5 41.Rg8+ Kf5 42.Rh8 Kg643.Rg8+ Kf7 44.Rc8  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.h3 Bh5 13.d5 Ne7 14.Na3 O-O 15.Nxb5 Qe816.Na3 Nxe4 17.Bxe4 f5 18.Bd3 e4 19.Be2 exf3 20.Bxf3 Bxf3 21.Qxf3 f4 22.Re1 Qf723.Re4 Ng6 24.Nc4 Ba7 25.Qh5 Re8 26.Qe2 Rf8 27.Qh5 Re8 28.Qe2 Rf8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 O-O 10.Re1 Re8 11.Bc2 h6 12.Be3 exd4 13.cxd4 Nb4 14.Nbd2 Nxc2 15.Qxc2 Nxe416.Nxe4 Bf5 17.Bxh6 gxh6 18.Qc6 Kh8 19.Nf6 Re6 20.Nd5 Rb8 21.Qc3 Kh7 22.Rac1 b423.Qxb4 Be4 24.Rxe4 Rxe4 25.Qc4 Kg7 26.Qxa6 Rxd4 27.Nxd4 Bxd4 28.Qd3 c5 29.Ne3 Bxb230.Nf5+ Kf8 31.Rd1 Be5 32.Nxh6 Qg5 33.Nf5 c4 34.Qc2 c3 35.g3 Rb2 36.Qe4 Kg837.h4 c2 38.Qxc2 Qxg3+ 39.fxg3 Rxc2 40.a4 Ra2 41.Nxd6 Bxg3 42.Nf5 Bf2+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Rb8 12.Kh1 d5 13.exd5 e4 14.Qe2 Ne7 15.d4 exd316.Qxd3 Nexd5 17.Bg5 h6 18.Bh4 Nf4 19.Qg3 Qd3 20.Nd2 Qxd2 21.Bxf6 Nh5 22.Qe5 Nxf623.Qxc5 Qxb2 24.Rab1 Qd2 25.Qxc7 Rbc8 26.Bxf7+ Kh8 27.Qb7 Rb8 28.Qe7 Ne429.Qxe4 Rxf7 30.Qc6 Rf6 31.Qc5 Re8 32.Rbd1 Qa2 33.Ra1 Qc2 34.Rac1 Qa4 35.Rce1 Ref836.Ra1 Qc2 37.Kg1 Rf5 38.Qd4 Rf4 39.Qe3 Rc4 40.Rac1 Qg6 41.Rcd1 Re8 42.Qf3 Rec843.Rd3 Qc6 44.Re1 Qxf3 45.Rxf3 R8c7 46.Re6 Ra7 47.Rf8+ Kh7 48.f4 Rxc3 49.f5 Rcc750.Kf2 b4 51.Rb8 Rc5 52.g4 Rxa5 53.Ree8 g5 54.Rh8+ Kg7 55.Rbf8 Ra2+ 56.Kf3 Ra3+57.Ke4 Re7+ 58.Kd5 Rd3+ 59.Kc5 Rc7+ 60.Kxb4 Rc6 61.Rhg8+ Kh7 62.Rh8+ Kg763.Rhg8+ Kh7 64.Rh8+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.h3 O-O9.d4 Bb6 10.Be3 Bb7 11.Nbd2 h6 12.Qe2 exd4 13.Nxd4 Nxd4 14.Bxd4 c5 15.Be3 Re816.f3 d5 17.Rad1 c4 18.Bc2 Bxe3+ 19.Qxe3 Qc7 20.Rde1 dxe4 21.Nxe4 Nxe4 22.fxe4 Re523.Rf4 Rae8 24.Ref1 R8e7 25.a4 Qc8 26.axb5 axb5 27.Qf3 Qe8 28.Re1 g6 29.Qg3 f530.Ref1 Bxe4 31.Bxe4 fxe4 32.Qf2 Rf5 33.Rxf5 gxf5 34.Qxf5 Re5 35.Qf4 Kh736.Re1 e3 37.Re2 Qe7 38.Kh2 Qe6 39.Kg1 Qe7 40.Kh2 Qe6 41.Kg1 Qe7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Re1+ Be7 11.Bb3 Qd8 12.Nxd4 Nxd4 13.Qxd4 O-O 14.Qxd8 Bxd8 15.Bf4 Bb716.Nd2 Re8 17.Nf3 Rxe1+ 18.Rxe1 c5 19.c4 Rc8 20.Ne5 b4 21.Nd3 Be4 22.Re3  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 b4 11.d3 bxc3 12.bxc3 Qb8 13.Ba2 Nd4 14.Qd1 O-O 15.Nd2 Ne616.Nc4 a5 17.Rb1 Qa7 18.Rb5 c6 19.Rxa5 Qc7 20.Rxa8 Rxa8 21.Ne3 Qa5 22.Ng4 Nxg423.Qxg4 Kh8 24.Qf5 Qxa4 25.Bc4 Qa7 26.Bxe6 fxe6 27.Qxe6 Qa2 28.Qe7 Qa7 29.Qxa7 Rxa730.Bd2 Ra2 31.Rd1 Kg8 32.Kf1 Kf7 33.Be1 Ba3 34.Rd2 Ra1 35.Ke2 d5 36.exd5 cxd537.Rc2 Ke6 38.c4 Kd6 39.cxd5 Kxd5 40.Rc7 Bf8 41.Rf7 Ra8 42.Kf3 Ke6 43.Rc7 Ra344.Ke4 Ra4+ 45.Rc4 Ra2 46.Ke3 Kd5 47.Bb4 Bxb4 48.Rxb4 Ra7 49.h4 Rf7 50.g3 Ra751.h5 Ke6 52.Ke4 Ra6 53.Rb8 Ra4+ 54.Ke3 Rg4 55.h6 gxh6 56.Rb6+ Kf5 57.Rxh6 Rg758.Rh5+ Kf6 59.Ke4 Rg4+ 60.Kf3 Rd4 61.Ke3 Rd7 62.g4 Ra7 63.f3 Ke6 64.Rh6+ Kd565.Rf6 Ra1 66.Rh6 Ra7 67.Rf6 Ra1 68.f4 Rg1 69.Rf5 Rg3+ 70.Ke2 Rxg4 71.Rxe5+ Kd472.Re4+ Kd5 73.Kf3 Rg1 74.Re5+ Kd4 75.Re7 Rf1+ 76.Kg4 h5+ 77.Kg5 Kxd3 78.f5 h479.f6 h3 80.Rh7 Rf3 81.Kg6 Ke2 82.f7 Rg3+ 83.Kf6 Kf2 84.Ke6 Re3+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.a4 Bg4 10.d5 Ne7 11.axb5 axb5 12.Rxa8 Qxa8 13.Na3 Bd7 14.Bd3 O-O 15.Bg5 Ng616.Bxf6 gxf6 17.Bxb5 Bxb5 18.Nxb5 Qc8 19.Ne1 f5 20.exf5 Qxf5 21.Qf3 Qd7 22.Na3 f523.Nec2 Kh8 24.Nc4 f4 25.Nxb6 cxb6 26.Re1 Nh4 27.Qh5 Qd8 28.Kh1 Qf6 29.f3 Nf530.Ra1 Qg7 31.Ne1 Ne3 32.Qh4 Nxd5 33.Rd1 Ne3 34.Ra1 d5 35.Qf2 Qg6 36.Qd2 Qh537.Nc2 Nxc2 38.Qxc2 Rg8 39.Qd2 Qg5 40.Re1 h5 41.Qe2 Rg7 42.Rd1 Rd7 43.Ra1 Re744.Qb5 Rg7 45.Qe2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Nbd2 Bg49.Nc4 Nd7 10.Be3 f6 11.Bxc5 Nxc5 12.Ne3 Bxf3 13.Qxf3 Ne6 14.c3 g6 15.Rfd1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bxf3 12.Qxf3 O-O 13.d3 Na5 14.Bc2 b4 15.Bg5 Qd816.d4 b3 17.Bd3 exd4 18.cxd4 Bxd4 19.Qf5 Be5 20.Bc1 Nd7 21.Nd2 Nc5 22.Bb1 Qf623.Qh5 g6 24.Qe2 Nc6 25.Nc4 Bf4 26.Ne3 Qe6 27.Qf3 Nd4 28.Qd1 Nc2 29.Nxc2 bxc230.Bxc2 Bxc1 31.Qxc1 Rb8 32.Re1 Qe5 33.b3 Ne6 34.Bd1 h5 35.h4 Kg7 36.g3 Ra837.Be2 Nd4 38.Qxc7 Ra1 39.Rxa1 Nxe2+ 40.Kf1 Nxg3+ 41.fxg3 Qxa1+ 42.Kg2 Qb2+43.Kh3 Qa1 44.Kg2 Qb2+ 45.Kh3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Rb8 10.Nbd2 O-O 11.h3 Be6 12.axb5 axb5 13.Re1 Bb6 14.Nf1 h6 15.Ng3 d516.exd5 Nxd5 17.Bc2 Re8 18.Bd2 Qd6 19.Ne4 Qf8 20.Ng3 Qd6 21.Ne4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 h6 12.d3 Ba7 13.Re1 Rb8 14.Nd2 Nd7 15.Nf1 Qf616.Qg3 Nc5 17.Bc2 b4 18.Ne3 Qg6 19.Qf3 bxc3 20.bxc3 Nb3 21.Bxb3 Rxb3 22.Nd5 f523.Be3 fxe4 24.Qd1 Rb5 25.dxe4 Qf7 26.Bxa7 Nxa7 27.Re2 Nc6 28.Rea2 Kh7 29.Qe2 Rfb830.Kh2 Qd7 31.g3 Ne7 32.Nb4 Qc8 33.Qf3 Rc5 34.Ra3 Nc6 35.Nd3 Rcb5 36.Qf7 Qe837.Qc4  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Bg5+ f615.exf6+ gxf6 16.Re1+ Kd6 17.Bxa8 fxg5 18.Nd2 Be6 19.Bb7 Ne4+ 20.Kh1 Nf2+21.Kg1 Ne4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 d6 7.c3 b5 8.Bb3 Bb69.h3 O-O 10.d4 Qe7 11.Bg5 h6 12.Bh4 Bd7 13.Qd3 Kh8 14.Nbd2 Rg8 15.Qe3 g516.Bg3 Rg6 17.Qd3 Rag8 18.Kf1 Nh5 19.dxe5 Nxg3+ 20.fxg3 Nxe5 21.Nxe5 Qxe522.Ke2 Rf8 23.Kd1 a5 24.a3 c5 25.Bd5 c4 26.Qf3 Rf6 27.Qh5 Qxg3 28.Rf1 Rxf1+29.Nxf1 Qd3+ 30.Ke1 Kg7 31.Rd1 Qc2 32.Qe2 Qxe2+ 33.Kxe2 f5 34.Bxc4 Bc7 35.Bd5 fxe436.Bxe4 b4 37.Ne3 bxa3 38.bxa3 Rb8 39.Bd5 Rf8 40.Be4 Re8 41.Kf3 h5 42.g4 h443.Nd5 Bd8 44.Ne3 Rf8+ 45.Nf5+ Bxf5 46.Bxf5 Bc7 47.Re1 Kf7 48.Re3 Bb6 49.Re6 Bc550.a4 Rb8 51.Re4 Rb2 52.Re2 Rb8 53.Re4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 Bd6 8.dxe5 Bxe59.f4 Bd6 10.e5 Bc5+ 11.Kh1 Ng8 12.Qd5 Qe7 13.Nc3 Nh6 14.Ne4 Ba7 15.Bd2 Qe616.Qxe6+ fxe6 17.c4 Nf5 18.Rae1 h6 19.Bd1 O-O 20.b4 b5 21.c5 Bb7 22.Bc2 Rad823.Be3 d6 24.Bg1 dxe5 25.fxe5 Ne7 26.Rxf8+ Rxf8 27.a3 Nc6 28.Ng3 Ne7 29.Rd1 Nd530.Bb3 Bc6 31.Bxd5 Bxd5 32.Rf1 Rxf1 33.Nxf1 c6 34.Bd4 Kf7 35.Kg1 Bb8 36.Kf2 Bc737.g3 Bd8 38.Ne3 Be4 39.Nd1 g5 40.Ke3 Bc2 41.Nc3 g4 42.Kd2 Bf5 43.Be3 Kg644.Ne2 Kf7 45.Nd4 Bc7 46.Bf4 h5 47.Nxc6 Be4 48.Nd4 Bd5 49.Kc3 Kg6 50.Nc2 Kf551.Kd4 Bc6 52.Ne3+ Kg6 53.Kd3 Bb8 54.Nd1 Bc7 55.Nc3 Kf5 56.Kd4 Bf3 57.a4 Bc658.axb5 axb5 59.Nd1 Kg6 60.Nf2 Kf5 61.Kd3 Bd8  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 O-O 8.Nc3 Be7  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d3 O-O9.Nbd2 Be6 10.Re1 Bb6 11.Nf1 Ng4 12.Re2 d5 13.exd5 Bxd5 14.Bxd5 Qxd5 15.h3 e416.Ne1 exd3 17.Qxd3 Qxd3 18.Nxd3 Rad8 19.hxg4 Rxd3 20.Be3 Re8 21.Rae1 h622.Bxb6 Rxe2 23.Rxe2 cxb6 24.Re8+ Kh7 25.Ra8 a5 26.Ra6 Ne5 27.Rxb6 Nc4 28.Rxb5 Rd129.f3 Ne3 30.Kf2 Nxf1 31.Rxa5 Rb1 32.Rd5 Rxb2+ 33.Kxf1 Rxa2 34.c4 Rc2 35.c5 f636.Ke1 Rxg2 37.Kd1 Ra2 38.c6 Ra8 39.c7 Rc8 40.Rd7 Kg6 41.Ke2 f5 42.Ke3 fxg443.fxg4 Kf6 44.Ke4 g6 45.Kd5 Kg5 46.Kd6 Kxg4 47.Rd8 Rxc7 48.Kxc7 h5 49.Rd4+ Kg350.Kd6 h4 51.Ke5 h3 52.Rd3+ Kg4 53.Rd2 Kg3 54.Kf6 h2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 d6 7.d4 b5 8.dxc5 bxa49.cxd6 cxd6 10.Bg5 O-O 11.Qxa4 Bb7 12.Nbd2 h6 13.Bh4 Qe7 14.Bxf6 Qxf6 15.Nc4 Ne716.Nb6 Bc6 17.Qa5 Ra7 18.Nd5 Nxd5 19.exd5 Bb5 20.Rfc1 Rc8 21.Nd2 Qf4 22.c4 Rac723.b3 Rc5 24.Qb4 Rxd5 25.Nf1 Rd4 26.Rd1 d5 27.a4 Bc6 28.Rxd4 Qxd4 29.Re1 dxc430.bxc4 Bd5 31.Ne3 Bxc4 32.Nf5 Qc5 33.Qb7 Rc7 34.Qb8+ Rc8 35.Qb7 Kh7 36.Qb1 Kh837.Qb7 Rc7 38.Qb8+ Rc8 39.Qb1  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 O-O 10.Be3 Bb7 11.Nbd2 Rb8 12.a3 Re8 13.Re1 h6 14.Qe2 Na7 15.dxe5 dxe516.Rad1 Qe7 17.Bxb6 cxb6 18.Bb3 Nc8 19.Qe3 Qc5 20.Nh2 Nd6 21.f3 Rbd8 22.Ng4 Nh523.Nf1 Qc7 24.Qf2 Nc4 25.Nfe3 Nf4 26.Nxc4 bxc4 27.Bc2 h5 28.Ne3 g6 29.Qf1 b530.g3 Qb6 31.Kh2 Rxd1 32.Nxd1 Ne6 33.h4 Rd8 34.Qe2 Qd6 35.Ne3 Qd2 36.Nf1 Qxe2+37.Rxe2 f6 38.Rd2 Rxd2+ 39.Nxd2 Kf8 40.Kg2 Ke7 41.Kf2 g5 42.Nf1 gxh4 43.gxh4 Nf444.Ne3 Bc6 45.Ng2 Nxg2  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.Na3 O-O 12.Nxb5 Bg4 13.h3 Bxf3 14.Qxf3 exd4 15.Bg5 Ne516.Qd1 dxc3 17.Nxc3 h6 18.Bh4 Ng6 19.Bg3 Bc5 20.Kh1 Rb4 21.Bc2 Qb8 22.f4 Re823.e5 dxe5 24.Bxg6 fxg6 25.fxe5 Nh5 26.Qd5+ Kh7 27.Bh2 Be3 28.Rae1 Bf4 29.Qd7 Bxh230.Kxh2 c5 31.Qd6 Rxb2 32.Qxb8 Rexb8 33.Nd5 Rd2 34.Rd1 Re2 35.Rde1 Rd2 36.Ne3 g537.h4 Nf4 38.hxg5 hxg5 39.Kg3 Kg6 40.Rd1 Ne2+ 41.Kf3 Rf8+ 42.Kg4 Rxf1 43.Rxf1 Nf444.Ra1 Nxg2 45.Ra6+ Kh7 46.Nf5 Nh4 47.Kxg5 Nxf5 48.Kxf5 g6+ 49.Kf6 Rf2+ 50.Ke7 g551.e6 Kg7 52.Kd7 Re2 53.Rc6 Kf6 54.Rxc5 Rd2+ 55.Ke8 Kxe6 56.Rxg5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d3 O-O9.Qe2 h6 10.Nbd2 Re8 11.a4 Bb7 12.Nh4 Bf8 13.Nf5 g6 14.Ng3 Rb8 15.Nf3 Bc816.h3 b4 17.a5 b3 18.Bd1 dxe4 19.dxe4 Rb5 20.Be3 Be6 21.Nd2 Qb8 22.Qf3 Nd723.Be2 Rxa5 24.Rxa5 Nxa5 25.Ra1 Nb7 26.Bxa6 Nbc5 27.Bc4 Qb7 28.Bxe6 Rxe629.Qe2 Re8 30.Qc4 Ra8 31.Rxa8 Qxa8 32.Nxb3 Qa2 33.Nd2 Qxb2 34.Nf3 c6 35.h4 Qb1+36.Kh2 Qb5 37.Qa2 Qa6 38.Qd2 Qd3 39.Bxh6 Bxh6 40.Qxh6 Nxe4 41.Nxe4 Qxe4 42.h5 Nf643.Qg5 Nxh5 44.Qxe5  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Re1+ Kf8 11.Bg5 Bg4 12.Bxf6 Bxf3 13.Bb3 Qe4 14.Bxd4 Nxd4 15.Rxe4 Bxd116.Bxd1 Ne6 17.Nd2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Be3 Bxe39.fxe3 O-O 10.c4 Ng4 11.Qd2 f5 12.exf5 Bxf5 13.h3 Nh6 14.Nc3 Qe7 15.d4 e416.Nh2 Qg5 17.g4 Be6 18.d5 Bd7 19.Rf4 Qg6 20.Raf1 Rxf4 21.Rxf4 Nf7 22.Nxe4 Re823.h4 h5 24.Qc2 Kh8 25.g5 Nxg5 26.hxg5 Bf5 27.Nf3 Bxe4 28.Qd1 Bxf3 29.Qxf3 Re530.e4 Rxg5+ 31.Kf2 cxd5 32.cxd5 Kh7 33.b4 Qe8 34.Rf5 Rxf5 35.Qxf5+ g6 36.Qf4 Kg737.Qc1 Qe7 38.a4 h4 39.a5 Qf7+ 40.Kg2 Qd7 41.Qg5 h3+ 42.Kh2 Qf7 43.Qh4 Qf344.Qe7+ Kh6 45.Qh4+ Kg7 46.Qe7+ Kh6 47.Qh4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bd1 b4 12.d3 O-O 13.Nd2 Rb8 14.Rb1 h6 15.Nb3 Nxb316.Bxb3 c6 17.Kh1 bxc3 18.bxc3 d5 19.Ba2 Rxb1 20.Bxb1 Qe7 21.Qe2 a5 22.Re1 Rb823.Bc2 d4 24.cxd4 Bxd4 25.Rf1 Qc5 26.g3 Bb2 27.Be3 Bd4 28.Bc1 Bb2 29.Be3 Bd4  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Ba79.a4 O-O 10.axb5 axb5 11.Na3 Bb6 12.Bg5 h6 13.Bh4 exd4 14.Bd5 Bd7 15.cxd4 g516.Nxg5 Nxd5 17.Nf3 Nde7 18.Bf6 Qe8 19.Re1 Ng6 20.e5 dxe5 21.d5 Bg4 22.Qc1 Kh723.Qxc6 Qxc6 24.dxc6 Bxf3 25.gxf3 Rfe8 26.Nxb5 Rxa1 27.Rxa1 Re6 28.Bd8 Rxc629.Nc3 Nf4 30.Kf1 Kg6 31.Bh4 Bd4 32.Bg3 Bxc3 33.bxc3 Rxc3 34.Bxf4 exf4 35.Ra6+ f636.Ke2 Rc2+ 37.Kd3 Rxf2 38.Ke4 Rxh2 39.Rc6 Re2+ 40.Kxf4 Re7 41.Kg4 Rd7 42.Rc5 h5+43.Kh4 Rg7 44.Kh3 Kh6 45.Kh4 Rh7 46.Rc6 Kg6 47.Rc5 Rd7 48.Kg3 Kf7 49.Rxh5 Ke650.Rc5 Kd6 51.Rf5 Ke6 52.Rc5 Kd6 53.Rf5 Rf7 54.Kf4 Ke6 55.Rc5 Kd6 56.Rf5 c657.Ke4 Re7+ 58.Kd4 Re6 59.Kc4 Ke7 60.Kd4 Kf7 61.Rc5 Kg6 62.Kd3 f5 63.f4 Re464.Kd2 Re8 65.Kd3 Re6 66.Kd2 Rf6 67.Ke3 Rd6 68.Ke2 Kf6 69.Ke3 Ke6 70.Re5+ Kf671.Rc5 Re6+ 72.Kd3 Kg6 73.Kd2 Re4 74.Kd3 Rxf4 75.Rxc6+ Kg5 76.Ke3 Ra4 77.Kf3 Ra3+78.Kf2 Kg4 79.Rc4+ f4 80.Rc2 Rh3 81.Rc8 Rh2+ 82.Kg1 Re2 83.Kf1 Ra2 84.Rc3 f385.Rc8 Ra1+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d3 O-O9.Re1 h6 10.Nbd2 Bb6 11.Nf1 Ne7 12.Be3 c5 13.h3 Ng6 14.Ng3 d5 15.exd5 Nxd516.Bd2 Re8 17.d4 c4 18.Bc2 exd4 19.Rxe8+ Qxe8 20.Nxd4 Qe5 21.Qf3 Nh4 22.Qe4 Qxe423.Bxe4 Bb7 24.a4 b4 25.Nf3 Nxf3+ 26.Bxf3 bxc3 27.Bxc3 Rb8 28.Bxd5 Bxd5 29.Nf5 Re830.Rd1 Bb7 31.Rd7 Ba8 32.a5 Rd8 33.Re7 Bc5 34.Rc7 Bf8 35.Ne3 Be4 36.Ra7 Bc537.Re7 Bxe3 38.fxe3 Bd5 39.Kf2 Rd6 40.g4 Rc6 41.Rd7 Be6 42.Rd8+ Kh7 43.Kg3 f644.e4 Kg6 45.Kf4 h5 46.Rb8 hxg4 47.hxg4 Bc8 48.e5 Kf7 49.exf6 gxf6 50.Rb4 Ke651.Rb6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Bb3 Qd8 11.Re1+ Be7 12.cxd4 O-O 13.h3 Bb7 14.Nc3 Na5 15.Bc2 c516.Bg5 b4 17.Na4 c4 18.b3 Bd5 19.Nh4 g6 20.bxc4 Nxc4 21.Qd3 Nd6 22.Nc5 Re823.Re5 Nde4 24.Ba4 Nxc5 25.dxc5 Bc6 26.Qc2 Bxa4 27.Qxa4 h6 28.Rd1 Qc8 29.Be3 a530.Qb3 a4 31.Qxb4 Rd8 32.Rxd8+ Qxd8 33.Qc4 Bf8 34.Nxg6 Qd1+ 35.Kh2 Bg7 36.Ne7+ Kf837.Nc6 Rc8 38.Qb4 Qd7 39.Na5 Ng4+ 40.hxg4 Bxe5+ 41.g3 Kg7 42.c6 Qd6 43.Qxa4 Bc344.Qb5 Bxa5 45.Qxa5 Rxc6 46.Qb5 Rc8 47.a4 Rb8 48.Qc4 Qe6 49.Qd4+ Qf6 50.Qe4 Qe651.Bd4+ Kg8 52.Qf3 Rc8 53.a5 Rc4 54.Qf4 f6 55.Qb8+ Kf7 56.Qb7+ Qe7 57.Qd5+ Qe658.Qh5+ Kg7 59.Be3 Qxg4 60.Qxh6+ Kf7 61.a6 Ra4 62.Qh7+ Ke6 63.a7 Ra1 64.Kg2 Qd165.a8=Q Qf1+ 66.Kh2 Qg1+ 67.Kh3 Qh1+ 68.Kg4 Qxa8 69.Qf5+ Kf7 70.Qd7+ Kg671.Qf5+ Kf7 72.Qh7+ Ke6 73.f4 Ra4 74.Bc5 Qd8 75.Qf5+ Kf7 76.Qh7+ Ke6 77.Qc2 Qg8+78.Kf3 Qa8+ 79.Kg4 Qg8+ 80.Kf3 Qa8+ 81.Kg4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 O-O 11.Nbd2 Rb8 12.Re1 b4 13.a5 bxc3 14.bxc3 d5 15.Ba4 Nxa516.exd5 Nxd5 17.Rxe5 Nxc3 18.Qc2 Bxf3 19.Nxf3 Bb4 20.Bd2 Nxa4 21.Rxa4 Bxd222.Nxd2 Nb7 23.Rxa6  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 Rb8 13.Nd2 O-O 14.Qe2 Re8 15.Nf3 b316.Bb1 d5 17.d4 exd4 18.cxd4 dxe4 19.dxc5 exf3 20.Qxf3 Qd4 21.Rd1 Qxc5 22.Be3 Qc623.Bd3 Qxf3 24.gxf3 Nd5 25.Bd2 Nb4 26.Bxb4 Rxb4 27.Bxa6 c6 28.Rdc1 Re5 29.Bb5 g630.Bxc6 Nxc6 31.Rxc6 Re2 32.Rb1 Rxa4 33.Rb6 Rd4 34.Rxb3 Rdd2 35.Rf1 Rxb236.Rxb2 Rxb2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.h3 Bb69.d3 Ne7 10.a4 Bb7 11.Na3 Ng6 12.Re1 O-O 13.Nc2 Re8 14.Be3 Bxe3 15.Nxe3 Nd716.Bc2 Nf6 17.Bb3 h6 18.axb5 axb5 19.Rxa8 Bxa8 20.Kh2 Qd7 21.Qd2 Nh7 22.Bc2 c523.Nf5 d5 24.Qe3 c4 25.Ng3 cxd3 26.Qxd3 Qc7 27.Qe2 b4 28.exd5 bxc3 29.bxc3 e430.Nd4 Qxc3 31.Qe3 Qc7 32.d6 Qxd6 33.Nf5 Qc7 34.Bb3 Bb7  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Bg5+ f615.exf6+ gxf6 16.Re1+ Be6 17.Be3 Bxe3 18.Rxe3 Ng4 19.Rxe6+ Kxe6 20.Bxa8 Rxa821.Nd2 Rd8 22.Nb3 Kf7 23.Re1 Rd5 24.h3 Ne5 25.Re2 c5 26.Kf2 Nc4 27.Ke1 a528.Nc1 Nb6 29.Nb3 Nc4 30.Nc1 Ne5 31.b3 Ng6 32.c4 bxc4 33.bxc4 Rd4 34.Nb3 Rxc435.Nxa5 Rc3 36.Nb7 Kg7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bd7 12.d4 Bb6 13.Bg5 Nxe4 14.Bd5 Nf6 15.Bxf6 gxf616.dxe5 dxe5 17.Bxf7+ Ke7 18.Nh4 Qa4 19.Qh5 Qf4 20.Bd5 Be8 21.Qg4 Qxg4 22.hxg4 Bd723.Nd2 Rd8 24.Ndf3 Na5 25.g5 Bg4 26.Be4 fxg5 27.Nxe5 Be2 28.Re1 Rd1 29.Rxd1 Bxd130.Nhf3 h6 31.Kf1 Nb3 32.Bc6 b4 33.cxb4 Nd4 34.Nxd4 Bxd4 35.Nd3 Kd6 36.Be4 h537.f3 Bb3 38.Ke2 Bc4 39.Kd2 Bxd3  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.axb5 axb5 10.d3 O-O 11.Bg5 h6 12.Bh4 g5 13.Bg3 Bg4 14.h3 Bh5 15.Re1 Qd716.Nbd2 g4 17.hxg4 Bxg4 18.Nf1 Nh5 19.Bd5 Ne7 20.Bb3 Nc6 21.Bd5 Ne7 22.Bb3 Nc6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.c3 c5 11.Qe3 O-O 12.f3 Re8 13.Qf2 Nd3 14.Qe3 Nxc1 15.Rxc1 Bb716.Nd2 c4 17.Bc2 Qc7 18.Re1 Re7 19.Nf1 Rae8 20.Ng3 Bc8 21.Qf4 Qc5+ 22.Kf1 d523.Rad1 h6 24.Re2 Re5 25.Qd2 dxe4 26.Bxe4 Nxe4 27.Rxe4 Rxe4 28.Nxe4 Qe5 29.Qd6 Bf530.Qxe5 Rxe5 31.Rd6 a5 32.Rb6 Kh7 33.Kf2 Be6 34.Nd6 Rd5 35.Ke2 Re5+ 36.Kf2 Rd537.Ke2 Re5+ 38.Kd2 Rd5+ 39.Kc1 b4 40.cxb4 axb4 41.Nxc4 Rc5 42.b3 Bxc4 43.bxc4 Rxc4+44.Kb2 Rd4 45.Rc6 Rd2+ 46.Rc2 Rd3 47.Re2 g5 48.Kc2 Ra3 49.Kb2 Rd3 50.Kc2 Ra3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 Rb8 10.axb5 axb5 11.h3 Bh5 12.Nbd2 Ra8 13.Rxa8 Qxa8 14.Re1 Qa7 15.Qe2 O-O16.Nf1 b4 17.Ng3 Bxf3 18.Qxf3 bxc3 19.bxc3 Qa1 20.Bd2 Qb2 21.Qd1 Rb8 22.Ba4 Ne723.Rf1 Ng6 24.Nf5 d5 25.Bc2 dxe4 26.dxe4 Rd8 27.Qc1 Qxc1 28.Bxc1 Nf4 29.Re1 g630.Ne3 Ra8 31.Nc4 Ra2 32.Bb2 Ba3 33.Bxa3 Rxc2 34.Be7 Kg7 35.Nxe5 Ne2+ 36.Kf1 Nxc337.f3 Nh5 38.Bh4 Nf4 39.Ng4 Nh5 40.e5 Nd5 41.Bg5 Ng3+ 42.Kg1 h5 43.Nf6 Re244.Rd1 Ne3 45.Bxe3 Rxe3 46.Kf2 Nf5 47.f4 h4 48.Ne8+ Kf8 49.Nxc7 Ra3 50.Nb5 Ra2+51.Kf3 Rxg2 52.Kxg2 Ne3+ 53.Kf3 Nxd1 54.Kg4 Ke7 55.Kxh4 f6 56.Nd4 fxe5 57.fxe5 Nf258.Kg3 Nd3 59.Nf3 Ke6 60.Kg4 Nf2+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Rb89.c3 Bg4 10.Nbd2 O-O 11.h3 Be6 12.Bc2 b4 13.Re1 a5 14.Nb3 bxc3 15.bxc3 Bb616.Rb1 Re8 17.d4 exd4 18.Nbxd4 Bd7 19.Bg5 h6 20.Bh4 Ne5 21.Nxe5 dxe5 22.Nf5 Bxf523.exf5  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Rb89.axb5 axb5 10.Nc3 Bg4 11.Be3 Nd4 12.Bxd4 Bxd4 13.h3 Bxf3 14.Qxf3 O-O 15.Ra2 c616.Ne2 Bb6 17.c3 Qe7 18.Ng3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.h3 Bh5 11.Nbd2 Na5 12.Ba2 b4 13.Re1 c6 14.Nf1 b3 15.Bb1 Nd7 16.Ng3 Bg617.Nf5 Bxf5 18.exf5 Bb6 19.d4 Re8 20.Bd3 f6 21.dxe5 Nxe5 22.Bf4 Kh8 23.Nd4 Bxd424.cxd4 Nxd3 25.Qxd3 d5 26.Rxe8+ Qxe8 27.Bc7 Nc4 28.Qxb3 Qc8 29.Bg3 Qxf530.Qc3 Qd7 31.b3 Nd6 32.Rc1 Rc8 33.Bxd6  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rdd1 Be3 21.Ra1 Bf422.g3 Bxe5 23.Rd2 f6 24.Nc2 Bxc2 25.Rxc2 h5 26.a4 Rb8 27.axb5 axb5 28.Re1 g529.Re4 Ke6 30.Rd2 Ra8 31.Kg2 Ra2 32.Ree2 Ra8 33.Rd3 Rb8 34.Rd4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bd7 12.d4 Bb6 13.Qd3 exd4 14.cxd4 Nb4 15.Qd2 Na216.Bxa2 Qxa2 17.Nc3 Qc4 18.e5 Nd5 19.Ne4 O-O 20.exd6 cxd6 21.Nxd6 Qc7 22.Ne4 Re823.Nc5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.h3 Bd7 13.Re1 h6 14.Na3 O-O 15.Nxb5 Nxd416.Nbxd4 exd4 17.e5 dxe5 18.Nxe5 Bc6 19.Nxc6 Qxc6 20.cxd4 Qd6 21.Be3 Nd522.Bxd5 Qxd5 23.Qg4 f5 24.Qg3 Bxd4 25.Bxd4 Qxd4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Ba79.h3 Bb7 10.d5 Ne7 11.b3 O-O 12.c4 Ng6 13.Nc3 bxc4 14.bxc4 Nd7 15.Ne2 a516.Nc3 Ba6 17.Nb5 Bc5 18.a4 Nb6 19.Qd3 Qd7 20.Be3 Bxe3 21.fxe3 c6 22.Na3 Rac823.Nd2 Qc7 24.Rac1 Ne7 25.Qc3 cxd5 26.Qxa5 Nxc4 27.Qxa6 Nxd2 28.exd5 e4 29.Rf2 Qc530.Re1 Qxa3 31.Rxd2 f5 32.Qb7 Ng6 33.Rf2 Ne5 34.Ree2 Qc5 35.Kh2 Rc7 36.Qb3 Qc337.Qb6 Qc5 38.Qb3 Qa5 39.Bxe4 fxe4 40.Rxf8+ Kxf8 41.Qb8+ Kf7 42.Rf2+ Kg643.Qe8+ Kh6 44.Qd8 g6 45.Qh4+ Kg7 46.Qf6+ Kh6 47.Qh4+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.h3 Bb79.d4 Bb6 10.Re1 O-O 11.Be3 Na5 12.dxe5 dxe5 13.Bxb6 cxb6 14.Qxd8 Raxd8 15.Bc2 Nc416.b3 Nd6 17.Nbd2 Rc8 18.Re3 Rfe8 19.Rae1 h6 20.Bb1 Rc5 21.Kf1 a5 22.b4 Rc723.a3 Kf8 24.Ng1 Rec8 25.Ne2 Rd8 26.f3 Rcd7 27.Nc1 Nh5 28.Nd3 f6 29.g4 Nf430.Nxf4 exf4 31.R3e2 a4 32.Ba2 Nf7 33.Bxf7 Rxd2 34.Bg6 R2d3 35.e5 Rxf3+ 36.Kg1 Rg3+37.Kh2 fxe5 38.Rf2 Rxc3 39.Rxe5 f3 40.Rxb5 Rd6 41.Rf5+ Kg8 42.Bf7+ Kh7 43.h4 g644.Re5 Rc7 45.Be8 Rd4 46.Kg3 Bc8 47.h5 Rxg4+ 48.Kxf3 gxh5 49.Bxh5 Rgg7 50.Rfe2 Rc151.Kf2 Bh3 52.Bf3 Rf1+ 53.Ke3 Rc7 54.Be4+ Kg7 55.Kd2 Ra1 56.Bc2 Rd7+ 57.Kc3 Rxa3+58.Kb2 Rf3 59.Bxa4 Rd4 60.R5e4 Rxe4 61.Rxe4 h5 62.Bd1 Rf2+ 63.Kc3 Kf6 64.Bxh5 Bf565.Re3 Rc2+  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 O-O 13.Nd2  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.h3 Bh5 11.axb5 axb5 12.Rxa8 Qxa8 13.d5 Na5 14.Bc2 c6 15.dxc6 Qxc616.Qe2 O-O 17.Na3 Nc4 18.Nxc4 bxc4 19.g4 Bg6 20.Re1 Re8 21.Nh4 d5 22.exd5 Nxd523.Nxg6 hxg6 24.Be4 Qc5 25.Bxd5 Qxd5 26.Qe4 Rd8 27.Kf1 f5 28.Qxd5+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.d3 O-O 12.h3 Bxf3 13.Qxf3 Na5 14.Bc2 b4 15.Bg5 Qd816.Nd2 h6 17.Bh4 Qe7 18.Re1 Rb8 19.d4 bxc3 20.bxc3 Rb2 21.Qd3 Bb6 22.Nf3 Qe623.Bg3 Nh5 24.Bh2 Nc4 25.Bd1 Nf4 26.Bxf4 exf4 27.e5 d5 28.Bc2 g6 29.Rb1 Rxb1+30.Bxb1 c5 31.Ba2 cxd4 32.cxd4 Qc6 33.Bb3 Kg7 34.Qc3 Qb5 35.Bc2 Ba5 36.Qb3 Qc637.Bd3 Nd2 38.Nxd2 Bxd2 39.Qc2 Qc3 40.Qxc3 Bxc3 41.Be2 Bxd4 42.Bf3 Bxe5 43.Bxd5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Ne7 12.d3 Ng6 13.Re1 Kh8 14.Nd2 Ng8 15.Nf1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d5 8.a4 Bg49.d3 O-O 10.h3 Bxf3 11.Qxf3 Na5 12.Bc2 b4 13.Bg5 h6 14.Bh4 Rb8 15.Nd2 bxc316.bxc3 Rb2 17.Rfc1 g5 18.Bg3 Qe7 19.Rab1 Ba3 20.Ra1 Bc5 21.Rab1 Ba3 22.Ra1  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.axb5 axb5 11.Rxa8 Qxa8 12.Bg5 Qd8 13.h3 Bxf3 14.Qxf3 h6 15.Bxf6 Qxf616.Qxf6 gxf6 17.Nd2 Ne7 18.Ra1 Rb8 19.Kf1  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bh5 12.d3 O-O 13.Bg5 Nd7 14.g4 Bg6 15.Nh4 Kh816.Bd5 h6 17.Bc1 Nf6 18.b4 Bb6 19.Bb3 Ne7 20.Qf3 c5 21.bxc5 dxc5 22.Bxh6 c423.Bg5 cxb3 24.Bxf6 Nc6 25.Bg5 b4 26.Qd1 bxc3 27.Qxb3 Ba5 28.Be3 Qd8 29.Nxg6+ fxg630.Nxc3 Qxd3 31.Qa4 Nd4 32.Qxa5 Nf3+ 33.Kg2 Nh4+ 34.Kg1 Nf3+ 35.Kg2 Nh4+36.Kg1  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bg49.h3 Bh5 10.Nbd2 Nd7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Rb89.h3 O-O 10.c3 b4 11.Nbd2 d5 12.Re1 bxc3 13.bxc3 dxe4 14.dxe4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.Bg5 Rb8 11.axb5 axb5 12.h3 Bxf3 13.Qxf3 exd4 14.Qd1 h6 15.Bh4 O-O16.Re1 Re8 17.Bc2 Qe7 18.Kh1 Qe5 19.Bd3 dxc3 20.Nxc3 b4 21.Bxf6 Qxf6 22.Nd5 Qxf223.Bb5 Qc5 24.Qa4 Ra8 25.Rac1 Qxd5 26.exd5 Rxe1+ 27.Rxe1 Rxa4 28.Re8+ Kh729.Bxa4 Ne5 30.g4 g6 31.Bc2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 Rb8 10.Nbd2 O-O 11.h3 Bh5 12.Re1 b4 13.a5 bxc3 14.bxc3 d5 15.Ba4 dxe416.Rxe4 Qxd3 17.Bxc6 Nxe4 18.Bxe4 Qxc3 19.Ra2 Rfd8 20.Qf1 Bg6 21.Rc2 Qxa522.Bxg6 hxg6 23.Qc4 Be7 24.Qe2 Bf6 25.g4 Qb5 26.Nc4 Qd5 27.Ne3 Qd3 28.Qxd3 Rxd329.g5 Bd8 30.Nxe5 Rd6 31.h4 f6 32.Nc6 Ra8 33.Ba3 Rd3 34.Bb2 fxg5 35.Nxd8 Raxd836.Rxc7 Rxe3 37.Rxg7+ Kf8 38.fxe3 Rd1+ 39.Kf2 Rd2+ 40.Kf3 Rxb2 41.Rxg6 gxh4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.Qd1 O-O 13.d4 exd4 14.cxd4 Bb6 15.d5 Re816.Nd2 Qd7 17.b3 Bd4 18.Rb1 Bc3 19.f3 c6 20.Nc4 cxd5 21.exd5 Qc7 22.Bd3 Nxc423.bxc4 Re7 24.Kh2 Rae8 25.Bg5 Qc5 26.Qc2 h6 27.Bh4 a5 28.Rbd1 Bd4 29.f4 Qb630.Qb3 Re3  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 e4 12.Be2 Bg4 13.f3 exf3 14.gxf3 Bh3 15.Rd1 O-O16.Bf4 Rfe8 17.Kf2 Re7 18.Bg5 Re6 19.Bxf6 Rae8 20.Re1 Rxf6 21.Nd2 Kf8 22.b4 Rg623.Rg1 Rh6 24.Rh1 Ne5 25.a4 Ng6 26.axb5 Nf4 27.Rhe1 Rg6 28.Bf1 Nd3+ 29.Bxd3 Rg2+30.Kf1 Rg6+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.Qe2 Na5 10.Bc2 b4 11.h3 Bxf3 12.Qxf3 O-O 13.d3 Rb8 14.Nd2 Qd7 15.Re1 bxc316.bxc3 Qc6 17.Nf1 Nb3 18.Bxb3 Rxb3 19.Bd2 Rb2 20.Re2 Rfb8 21.Ne3 Rb1+ 22.Re1 Rxa123.Rxa1 Bxe3 24.Qxe3 Nd7 25.f4 exf4 26.Qxf4 Nc5 27.Qg3 Qb6 28.Be3 Qb2 29.Rc1 Kh830.Rf1 Qxc3 31.Rxf7 Nxd3 32.Ba7 Rg8 33.Kh2 Qc4 34.Re7 Ne5 35.Qg5 Ng6 36.Rd7 Qxa437.Rd8 Qxe4 38.Rxg8+ Kxg8 39.Qd8+ Nf8 40.Qxc7 Qe5+ 41.Kg1 a5 42.Bb6 a4 43.Qc4+ Ne644.Qxa4 Nf4 45.Qa8+ Kf7 46.Qa7+ Ke6 47.Qa8 Kf7 48.Qf3 Qf6 49.Qb7+ Kg8 50.Qa8+ Qf851.Qa2+ Kh8 52.Bc7 Ng6 53.Qe6 d5 54.Qxd5 h6  1/2-1/2");
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.h3 h6 10.Be3 O-O 11.Nbd2 Bb7 12.Re1 Qe7 13.Qe2 Rfe8 14.Nf1 exd4 15.Bxd4 Nxd416.Nxd4 Qe5 17.Nf3 Qc5 18.Ng3 Nd7 19.Rad1 Ne5 20.Nxe5 Qxe5 21.Qf3 Re6 22.Re2 Rae823.Rde1 Qf6 24.Qxf6 Rxf6 25.Nf5 Rfe6 26.Kf1 Kf8 27.a4 Bc6 28.a5 Ba7 29.Nd4 Bxd430.cxd4 d5 31.Bb3 Rxe4 32.Rxe4 Rxe4 33.Rc1 Re6 34.Rc5 Rd6 35.Ke2 Ke7 36.Kd3 Kd737.Bd1 Rg6 38.Bf3 Kd6 39.b4 Bb7 40.Rc2 Bc8 41.Re2 Bf5+ 42.Kc3 Re6 43.Rxe6+ Kxe644.Kd2 Be4 45.Ke3 Bxf3 46.Kxf3 Kf5 47.Ke3 h5 48.g3 f6 49.f4 Kg6 50.Kf3 Kh651.Ke3 Kg6 52.Kf3 h4 53.g4 Kh6 54.Kf2 Kg6 55.Kf3 f5 56.g5 Kf7 57.Ke3 Ke658.Kd3  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nbd2 exf3 10.Qxf3 Be7 11.Qxc6+ Bd7 12.Qf3 exd4 13.cxd4 O-O 14.Ne4 Nxe415.Bxe4 Rb8 16.Bf4 Rb6 17.Be5 Bd6 18.Qg3 Bxe5 19.dxe5 Bc6 20.Rad1 Qa8 21.Bc2 Be422.Bxe4 Qxe4 23.Rfe1 Qc2 24.Qb3 Rc6 25.Qb4 Qc4 26.Qxc4 Rxc4 27.Re2  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.h3 Bb79.d3 O-O 10.Be3 Bxe3 11.fxe3 d5 12.Nbd2 dxe4 13.dxe4 Qd6 14.Qe2 Na5 15.Bc2 c516.b3 Nc6 17.a4 b4 18.Nc4 Qc7 19.Qe1 bxc3 20.Qxc3 Nb4 21.Nfd2 Ne8 22.Bd1 Rd823.Be2 Nf6 24.Rf5 Nxe4 25.Nxe4 Bxe4 26.Qxe5 Qxe5 27.Rxe5 Bc2 28.Rxc5 Bxb329.Na5 Rd2 30.Bxa6 Bxa4 31.Rxa4 Nxa6 32.Rc6 Nb8 33.Rc7 Rd7 34.Rxd7 Nxd7 35.Nc4 Nc536.Ra7 Ne6 37.Nd6 h5 38.Re7 Nd8 39.Kf2 g6 40.Kf3 Kg7 41.Ne8+ Kh6 42.Nd6 Kg743.Ne8+ Kh6 44.Nd6  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.h3 Bh5 11.Bg5 Rb8 12.axb5 axb5 13.Qd3 Bxf3 14.Bd5 Qd7 15.Qxf3 Nxd516.exd5 Ne7 17.Bxe7 Qxe7 18.Na3 b4 19.Nc4 bxc3 20.bxc3 O-O 21.Qe2 f6 22.Rfb1 Qf723.dxe5 fxe5 24.Nxb6 Rxb6 25.Rxb6 cxb6 26.c4 Qf4 27.Rb1 Qd4 28.Rb2 Rf4 29.Ra2 g630.g3 Rf7  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 Rb8 13.Nd2 O-O 14.Rb1 Qd7 15.Nb3 Nxb316.Bxb3 Rb7 17.Bg5 bxc3 18.bxc3 Rfb8 19.Ba2 Rxb1 20.Bxb1 Qxa4 21.Bxf6 gxf622.Qxf6 Qa1 23.d4 Rxb1 24.Qg5+  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bc2 b4 12.d3 O-O 13.Nd2 Rb8 14.Qe2 Re8 15.Nf3 bxc316.bxc3 Nb3 17.Bxb3 Rxb3 18.d4 exd4 19.cxd4 Rxe4 20.Be3 Bb4 21.Qxa6 d5 22.Rab1 Rxb123.Rxb1 Re6 24.Qa7 Rb6 25.Ne5 Qc8 26.Nc6 Rxc6 27.Rxb4 Nd7 28.Qb7 Qxb7 29.Rxb7 Kf830.Rb5 Ra6 31.Rxd5 Ke7 32.a5 c6 33.Rg5 Nf8 34.d5 cxd5 35.Rxd5 Nd7 36.Kf1 Nb837.Bb6 Nd7 38.Bd4 f6 39.Ke2 Nb8 40.Bc3 Nc6 41.Kd3 Ra8 42.Kc4 Rc8 43.Kb3 Ke644.Rd3 Ra8 45.Ka4 Rb8 46.Rd1 g6 47.Re1+ Kd5 48.Rd1+ Kc5 49.Rc1 Kd5 50.Rc2 f551.Rb2 Re8 52.Rc2 Rb8 53.Rb2 Re8 54.Rc2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 Bb6 7.Re1 d6 8.h3 O-O9.d4 exd4 10.cxd4 d5 11.e5 Ne4 12.Nc3 Bf5 13.Bc2 Nb4 14.Bxe4 dxe4 15.Nxe4 Qd516.Nc3 Qc4 17.Re2 Rad8 18.Be3 c5 19.Nd2 Qe6 20.dxc5 Ba7 21.Qb3 Nc2 22.Qxe6 fxe623.Rc1 Nxe3 24.fxe3 Bd3 25.Ree1 Bxc5 26.Nce4 Bb4 27.Nc3 Be7 28.Nf3 Bc5 29.a3 Ba730.Kh2 h6 31.Kg3 Bg6 32.Rcd1 Bh5 33.Rxd8 Rxd8 34.Rd1 Rf8 35.Rd3 Bg6 36.e4 Rf737.Kg4 Re7 38.h4 Be8 39.Rd6 Kf7 40.Rd1 g6 41.Kf4 Rd7 42.Rxd7+ Bxd7 43.Nd2 Bf244.g3 Ke7 45.Nc4 Be1 46.Nb6 Bc6 47.Nc4 b5 48.Na5 Bd7 49.Nb3 Bc8 50.Kf3 Kf751.Nc5 h5 52.Nb3 Bb7 53.Nc5 Bc8 54.Nd3 Bd2 55.Ke2 Bh6 56.a4 bxa4 57.Nxa4 Bd758.Nac5 Bb5 59.Kf3 a5 60.Nf4 Bc4 61.Ke3 g5 62.hxg5 Bxg5 63.Kf3 h4 64.gxh4 Bxh465.b3 Be7 66.Nfd3 Bb5 67.Ke3 Bg5+ 68.Kd4 Bd2 69.Nb7 Ke7 70.Nd6 Ba6 71.Nb2 Be172.Kc5 Bf2+ 73.Kc6 Be2 74.Nbc4 Bd4 75.Nxa5 Bxe5 76.Nac4 Bc3 77.Kc5 Be1 78.b4 Kd779.b5 Bf2+ 80.Kb4 Be1+ 81.Kc5 Bf2+ 82.Kb4 Be1+ 83.Kb3 Bd1+ 84.Ka3 Be2 85.Kb3 Bd1+86.Ka3 Be2 87.Kb3  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.Na3 O-O 12.Nxb5 Bg4 13.d5 Ne7 14.Bc2 Qe8 15.Na3 Nxe416.Bxe4 f5 17.Bd3 e4 18.Be2 exf3 19.Bxf3 Qh5 20.Nc4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 O-O 13.dxe5 dxe5 14.Na3 Nd8 15.axb5 axb516.Bxb7 Nxb7 17.Nxb5 Rxa1 18.Qxa1 Nc5 19.Qe1 Qf4 20.Qc1 Qxe4 21.Qe1 Qxe122.Rxe1 Nd3 23.Re2 Ra8 24.g3 f6 25.Kg2 Ra2 26.c4 Rxb2 27.Rxb2 Nxb2 28.Nd2 c629.Nd6 Bc7 30.Nc8 Kf8 31.Na7 c5 32.Ne4 Nxc4 33.Nxc5 Bb6 34.Nd7+ Ke7 35.Nxb6 Nxb636.h4 Nd5 37.Nc6+ Kd6 38.Nd8 Nc7 39.Nb7+ Kd5 40.Na5 Ne6 41.Nb3 f5 42.Nd2 Nd443.Nf1 Nc2 44.Kf3 g6 45.Nd2 Nd4+ 46.Ke3 Nb5 47.Nf1 Nd6 48.Kf3 Kd4 49.Ne3 Kd350.Nd5 g5 51.hxg5 hxg5 52.Ne7 e4+ 53.Kg2 Ke2 54.Nd5 Nf7 55.Ne7 Nh6 56.Nc6 Kd357.Ne5+ Kd2 58.Kf1 Kc3 59.Ke2 Kd4 60.Nc6+ Kd5 61.Ne7+ Kd6 62.Nc8+ Ke6 63.Na7 Nf764.Nc6 Ne5 65.Nd4+ Kf6 66.Nb5 Nc6 67.Nd6 Ke6 68.Nc4 Kd5 69.Ne3+ Ke5 70.Nc4+ Ke671.Ke3 Ne5 72.Nb6 Ng4+ 73.Ke2 Ne5 74.Ke3 Kd6 75.Nc8+ Kd5 76.Ke2 Nc6 77.Ke3 Ke578.Nb6 f4+ 79.gxf4+ gxf4+ 80.Ke2 Kd4 81.Nd7 Ne5 82.Nf6 Nd3 83.Ng4 Nc5 84.Nh6 Ne685.f3 Ng5 86.fxe4 Kxe4 87.Ng4 f3+ 88.Kf1 Nh3 89.Nh2 f2 90.Ng4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.exd5 Qxd59.d4 exd4 10.Bb3 Qd8 11.Re1+ Be7 12.cxd4 Bg4 13.Be3 O-O 14.h3 Bh5 15.g4 Bg616.Ne5 Na5 17.Bg5 c5 18.dxc5 Bxc5 19.Nc3 Qb6 20.Qf3 Nxb3 21.axb3 Bd4 22.Bxf6 Qxf623.Qxf6 gxf6 24.Nc6 Bxc3 25.bxc3 Kg7 26.Nd4 Rfc8 27.Re3 Rc5 28.f4 f5 29.b4 Rd530.g5 h6 31.gxh6+ Kxh6 32.Kf2 Kg7 33.Ke2 Kf6 34.Kd3 Rd6 35.h4 Rh8 36.Rh1 a537.bxa5 b4 38.Kc4 bxc3 39.Rxc3 Bh5 40.Rb1 Rc8+ 41.Kd3 Be2+ 42.Kc2 Rcd8 43.Nc6 Rd2+44.Kc1 R8d5 45.Rb6 Kg7 46.Rc2 Rd1+ 47.Kb2 Bd3 48.Rc3 Be4 49.Ka3 R5d2 50.a6 Ra1+51.Kb4 Rda2 52.Kb5 Bxc6+  1/2-1/2");
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 O-O 7.c3 b5 8.Bb3 d69.d3 h6 10.Nbd2 Re8 11.Nf1 Bb6 12.a4 Rb8 13.axb5 axb5 14.Be3 Be6  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 Na5 11.Bd1 b4 12.d3 O-O 13.Nd2 Rb8 14.Kh1 bxc3 15.bxc3 d516.exd5 Qxd5 17.Qe2 Rfe8 18.Bc2 Qc6 19.Rb1 Bb6 20.Bb2 Rbd8 21.Rbd1 Qd5 22.Bb1 Qc623.Bc2 h6 24.Ne4 Nxe4 25.dxe4 Nc4 26.Bc1 Rxd1 27.Rxd1  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxe5 Qxd1 10.Rxd1 Ng4 11.Bxe4 Bxf2+ 12.Kf1 Bb7 13.a4 Bb6 14.axb5 axb5 15.Rxa8+ Bxa816.Re1 Nf2 17.Bc2 Ne7 18.Na3 Bd5 19.Be3 Bxe3 20.Rxe3 Ng4 21.Re1 c6 22.Be4 h523.Bxd5 Nxd5 24.Nc2 Kd7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 O-O 13.Na3 exd4 14.cxd4 Rfb8 15.Nc2 bxa416.Rxa4 a5 17.Re1 Ne7 18.Bxb7 Rxb7 19.Ne3 Rab8 20.h3 c6 21.e5 dxe5 22.dxe5 Qe623.Nc4 Bc5 24.Qc2 Rb4 25.Rd1 Rxa4 26.Qxa4 Ng6 27.Qc2 a4 28.Nd4 Qe8 29.Nf3 Qe630.Nd4 Bxd4 31.Rxd4 Rb4 32.f4 Qe7 33.Kh2 c5 34.Re4 Qe6 35.g3 Qd5 36.Nd6 Rd437.Rxd4 Qxd4 38.Ne4 c4 39.Nd6 h5 40.h4 Nxf4 41.gxf4 Qxf4+ 42.Kg2 Qg4+ 43.Kf1 Qh3+44.Ke2 Qh2+ 45.Kd1 Qxe5 46.Nxc4 Qd4+ 47.Kc1 Qxh4 48.Qxa4 Qf4+ 49.Kd1 Qd4+50.Ke2 Qe4+ 51.Kf2 h4 52.Qa6 Qf4+ 53.Ke2 Qg4+ 54.Kf2 Qg3+ 55.Ke2 Qg2+ 56.Ke1 Qg1+57.Ke2 Qg4+ 58.Kf2 Qg3+ 59.Ke2 Qg2+ 60.Ke1 Qe4+ 61.Kf2 Qf4+ 62.Ke2 Qg4+  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Be3 Bg4 10.Nbd2 O-O 11.h3 Bh5 12.Bg5 Na5 13.g4 Nxb3 14.axb3 Bg6 15.dxe5 dxe516.Nxe5 h6 17.Bxf6 Qxf6 18.Nd7 Qf4 19.Nxb6 cxb6 20.Qe2 Rfe8 21.Qe3 Qxe3 22.fxe3 Bxe423.Nxe4 Rxe4 24.Kf2 b4 25.Rfd1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Rb8 10.axb5 axb5 11.Qd3 O-O 12.Bg5 Qe7 13.Qxb5 Bd7 14.Bxf6 gxf6 15.Qd3 exd416.cxd4 Nxd4 17.Nxd4 Bxd4 18.Bxf7+ Rxf7 19.Qxd4 Qe5 20.Qe3 Rxb2 21.Ra8+ Rf822.Rxf8+ Kxf8 23.Nc3 Qg5 24.Nd5 Bb5 25.Nf4 Bc4 26.Rc1 Bf7 27.Rxc7 Rb1+ 28.Rc1 Rxc1+29.Qxc1 Qe5 30.f3 Qd4+ 31.Kh1 Kg7 32.h3 Qe5 33.Ne2 d5 34.Qf4 Qxf4 35.Nxf4 dxe436.fxe4 Be8 37.Ne2 Bc6 38.Nc3 Kf7 39.g4 Ke6 40.Kg2 Ke5 41.Kf3 Bb7 42.Ke3 Bc643.h4 Bb7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.Qd3 Bg4 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 Bd7 13.a4 O-O 14.axb5 axb5 15.Rxa8 Rxa816.Qxb5 Ra5 17.Qd3 exd4 18.Bxc6 Bxc6 19.b4 Ra4 20.cxd4 Rxb4 21.Qc3 Rxb1 22.Qxc6 Rxf1+23.Kxf1 Bxd4 24.Qxc7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.a5 Ba7 11.h3 Bb7 12.Re1 Ne7 13.Bc2 Ng6 14.Nbd2 O-O 15.Nf1 Re816.Ng3 d5 17.Nxe5 Nxe4 18.Nf3 c5 19.dxc5 Bxc5 20.Be3 Bxe3 21.Rxe3 Qc7 22.Ne2 Rbd823.Ned4 Nf4 24.Qf1 Rd6 25.Ne2 Ne6 26.Nfd4 Nxd4 27.Nxd4 Rf8 28.Qe1 Rf6 29.f3 Nd630.Qg3 b4 31.cxb4 Qc4 32.Rd1 Qxb4 33.Qe1 Qc4 34.b3 Qc5 35.Qc3 Qa7 36.Kh1 Ba837.Qe1 Rf4 38.Re7 Qc5 39.b4 Qc8 40.Qe5 Rf6 41.Bd3 Qb8 42.Rb1 Qc8 43.Qe1 Rf444.Qe3 Rh4 45.Qf2 Rh6 46.Qe1 Nc4 47.Rc1 Qd8 48.Rc2 Bc6 49.Rce2 Ba4 50.Qg3 Qd651.Qe1 Qf6 52.Nf5 Rh5 53.Ng3 Rxh3+ 54.gxh3 Qxf3+ 55.Kh2 Qxd3 56.Qf2 Qg6 57.Nf5 Nd658.R7e5 Nxf5 59.Qxf5 Qd6 60.Qf4 d4 61.R5e4 Qxf4+ 62.Rxf4 d3 63.Rd2 Bb5 64.Rf5 Rb865.Kg3 g6 66.Rc5 Kg7 67.Kf4 h6 68.Ke5 Rb7 69.Kd4 Rd7+ 70.Kc3 g5 71.Rxb5 axb572.Rxd3 Rc7+ 73.Kb3 Kg6 74.Rd5 f5 75.Rxb5 f4 76.Rb6+ Kf5 77.Rd6 f3 78.Rd1 h579.b5 g4 80.hxg4+ hxg4 81.a6 Ra7 82.Kc4 g3 83.Kc5 g2 84.b6 Rd7 85.Rxd7 g1=Q+86.Kc6 Ke6 87.Rd6+ Ke7 88.Rd7+ Ke6 89.Rd6+ Ke7 90.Rd7+ Ke8 91.a7 Qc1+ 92.Kb7 Kxd793.a8=Q Qc6+ 94.Ka7 Qa4+ 95.Kb8 Qf4+ 96.Ka7 f2 97.Qb7+ Kd8 98.Qd5+ Ke7 99.Qc5+ Kf7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.axb5 axb5 10.d3 O-O 11.h3 h6 12.Re1 b4 13.Nbd2 bxc3 14.bxc3 Bd7 15.Nf1 Bb616.Be3 Ne7 17.Qc2 Ng6 18.Reb1 Nh5 19.Ba4 Bxa4 20.Rxa4 Bxe3 21.Nxe3 Nhf4 22.Rxb8 Qxb823.d4 Re8 24.Kh2 Qb7 25.dxe5 Nxe5 26.Nxe5 Rxe5 27.f3 Re8 28.Qa2 Ne6 29.Nd5 Qb530.Qc4 Qxc4 31.Rxc4 Ra8 32.h4 g5 33.Kg3 c5 34.hxg5 hxg5 35.Kg4 Kg7 36.g3 Ra237.f4 gxf4 38.gxf4 Nd8 39.e5 dxe5 40.fxe5  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.c3 O-O9.a4 Bg4 10.h3 Bxf3 11.Qxf3 Na5 12.Ba2 b4 13.Nd2 c6 14.Nb3 Nxb3 15.Bxb3 Rb816.Bc4 d5 17.exd5 bxc3 18.bxc3 cxd5 19.Ba2 e4 20.Qe2 d4 21.Bf4 exd3 22.Qxd3 dxc323.Qxc3 Bd4 24.Qa3 Bb2 25.Qd6 Bxa1 26.Qxb8 Qxb8 27.Bxb8 Bd4 28.Bf4 Ne4 29.Be3 Bxe330.fxe3 Nc3 31.Bb3 g6 32.Rf6 Ne4 33.Rxa6 Nc5 34.Rb6 Ra8 35.Rb4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bxf3 10.Qxf3 O-O 11.a5 Rb8 12.d3 Nd7 13.Nd2 Ne7 14.Qe2 Ba7 15.Nf3 Nc516.Bc2 Ne6  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.h3 Bh5 11.Qd3 exd4 12.axb5 axb5 13.Rxa8 Qxa8 14.Bg5 Bxf3 15.Qxf3 Ne516.Qf5 O-O 17.Bxf6 gxf6 18.Rd1 Qa1 19.cxd4 Bxd4 20.Nc3 Qxb2 21.Nd5 Ng6 22.Nxc7 Bb623.Nd5 Qxb3 24.Nxf6+ Kh8 25.Rxd6 Bd8 26.Nd5 Qb2 27.Ne3 Be7 28.Rd7 b4 29.Ng4 Kg730.g3 Rd8 31.Rb7 Qc1+ 32.Kg2 Qc6 33.Ra7 Qe6 34.h4 Re8 35.h5 Nf8 36.Qf4 h637.Ne5 Kg8 38.Rb7 Bd6 39.Qxf7+ Qxf7 40.Nxf7 Bc5 41.Nxh6+ Kh8 42.e5 Re6 43.Nf7+ Kg844.f4 Re7 45.Nh6+ Kh7 46.Rb5 Kxh6 47.Rxc5 Rb7 48.Rc1 Kxh5 49.Kf3 b3 50.g4+ Kg651.f5+ Kf7 52.Ke4 b2 53.Rb1 Nh7 54.Kd3 Rb5 55.e6+ Kf6 56.Kc3 Ng5 57.Rxb2 Rxb258.Kxb2 Nxe6  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.axb5 axb5 11.Rxa8 Qxa8 12.d5 Ne7 13.Qd3 O-O 14.Na3 Ng6 15.Bd1 Bd716.Be3 Qa7 17.Bxb6 Qxb6 18.g3 b4 19.Nc4 Bb5 20.cxb4 Ba6 21.Nfd2 Qxb4 22.Be2 Rb823.Ra1 Bb5 24.f3 h5 25.Qa3 Bd7 26.Qxb4 Rxb4 27.Ra8+ Kh7 28.Ra7 Ne8 29.Kf2 f530.Ke3 Ne7 31.Kd3 Kg6 32.Kc3 Rb8 33.b4 Nf6 34.Ne3 f4 35.gxf4 exf4 36.Ng2 Nexd5+37.exd5 Nxd5+ 38.Kd4 Nf6 39.Rxc7 Rxb4+ 40.Rc4 Rb5 41.Nxf4+ Kf5 42.Ke3 g543.Bd3+ Ke5 44.Ng6+ Ke6 45.Nf8+ Ke7 46.Nxd7 Nxd7 47.Re4+ Re5 48.Rxe5+ dxe549.Bg6 Nf6 50.Ne4 g4 51.Nxf6 Kxf6  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.Nxe5 Nxe4 8.Qe2 Qd59.Nd3 O-O 10.Nxc5 Nxc5 11.Nc3 Qd6 12.d3 Ne6 13.Be3 f5 14.f3 c5 15.Rfe1 b616.Bf2 Bd7 17.Qe5 Rae8 18.Qxd6 cxd6 19.d4 cxd4 20.Ne2 d3 21.cxd3 b5 22.b4 Rc823.Rac1 g5 24.Rxc8 Rxc8 25.Rc1 Rxc1+ 26.Nxc1 Kf7 27.Ne2 Kf6 28.h4 h6 29.hxg5+ hxg530.Be3 f4 31.Bd2 Be8 32.Bc3+ Kf7 33.Kf2 Nc7 34.g3 Ne6  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.dxe5 Nxe49.Qd5 Nc5 10.Bc2 Ne7 11.Qd1 d5 12.exd6 Qxd6 13.Qxd6 cxd6 14.Rd1 Bf5 15.Na3 Rfd816.Nd4 Bxc2 17.Naxc2 Ne6 18.Ne2 Bc5 19.Rd3 Nc6 20.Be3 Ne5 21.Rd5 Nc4 22.Bc1 a523.a4 Rac8 24.Kf1 Nc7 25.Rd1 d5 26.b3 Ne5 27.Be3 Ne6 28.f3 Nc6 29.Bxc5 Nxc530.Ncd4 Nxd4 31.Nxd4 Ne6 32.Rac1 Nxd4 33.Rxd4 Kf8 34.Ke2 Rc5 35.Kd2 Rdc836.Rd3 R8c6 37.Re1 Re6 38.Rb1 Rb6 39.Re3 Re6 40.Rd3 Rb6 41.Kc2 Ke7 42.Rbd1 Rbc643.Kb2 b6 44.R1d2 Ke6 45.h4 h6 46.g4 g6 47.f4 Kf6 48.Rxd5 Rxc3 49.g5+ Kg750.Rd8 Rc8 51.Rxc8 Rxc8 52.Rd6 Rb8 53.b4 axb4 54.Kb3 Re8 55.Rxb6 Re3+ 56.Kxb4 Re4+57.Kb3 Rxf4 58.a5 Rxh4 59.a6 Rh1 60.Ka2 Rh2+ 61.Rb2 Rh4 62.Rb3 Rh2+ 63.Ka3 Rh164.Ka4 Ra1+ 65.Ra3 Re1 66.a7 Re8 67.Kb5 Ra8 68.gxh6+ Kxh6 69.Kc6 Kg5 70.Kb7 Re871.a8=Q Rxa8 72.Rxa8 Kf4 73.Ra4+ Kf3 74.Ra3+ Kf4 75.Kc6 g5 76.Kd5 g4 77.Ra4+ Kf378.Ke5 g3 79.Ra3+ Kg4 80.Kf6  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Rb8 10.a5 Ba7 11.Be3 exd4 12.cxd4 O-O 13.Nc3 Bg4 14.e5  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 Bb7 10.Re1 h6 11.a4 O-O 12.dxe5 Nxe5 13.Nxe5 dxe5 14.Qf3 Kh8 15.Nd2 Nxe416.Nxe4 f5 17.Qh5 fxe4 18.Be3 Qf6 19.Bxb6 Qxb6 20.Re2 Rf4 21.Qxe5 Raf8 22.a5 Qc623.Rd1 R4f6 24.Qe7 Re8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bg4 10.Be3 O-O 11.dxe5 Nxe5 12.Bxb6 Bxf3 13.gxf3 cxb6 14.f4 Ng6 15.f5 Ne516.Qe2 bxa4 17.Rxa4 Re8 18.Nd2 b5 19.Rd4 Qd7 20.Re1 g6 21.f4 Nc6 22.fxg6 hxg623.Rd3 Kg7 24.Rg3 Rh8 25.Rf1 Rae8 26.Qd3 Rh5 27.Bc2 Rh6 28.Qf3 Reh8 29.e5 dxe530.fxe5 Nh5 31.Rg5 Re8 32.Qe3 Nxe5 33.Rxe5 Qg4+ 34.Kf2 Qh4+ 35.Kg2 Qg4+ 36.Kf2 Nf437.Rg1 Nh3+ 38.Kf1 Qxg1+  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.d3 O-O 10.Nbd2 Qd7 11.h3 Be6 12.Bxe6 fxe6 13.axb5 axb5 14.Rxa8 Rxa8 15.b4 Bb616.Nb3 h6 17.Be3 Bxe3 18.fxe3 Qe8  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d4 Nxd4 7.Nxe5 O-O 8.Nd3 Ba79.e5 Ne4 10.Be3 d6 11.c3 Ne6 12.Bxa7 Rxa7 13.Re1 N4c5 14.Nxc5 Nxc5 15.Qd4 Bf516.Na3 Ra8 17.Rad1 Nxa4 18.Qxa4 d5 19.Qb3 Be6 20.Qxb7 Rb8 21.Qxa6 Rxb2 22.Re2 Rb623.Qd3 Qa8 24.Nc2 Qxa2 25.Ne3 Qa6 26.Qxa6 Rxa6 27.f4 c6 28.g4 Ra3 29.c4 dxc430.f5 Bd5 31.Nxd5 cxd5 32.Rxd5 Rc8 33.Rc2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.c3 h6 9.Be3 O-O10.Nbd2 Re8 11.h3 Bxe3 12.fxe3 Na5 13.Bc2 c5 14.Qe1 Be6 15.Qg3 Nc6 16.Nh4 Nh517.Qf2 g6 18.Bb3 Bxb3 19.axb3 Rf8 20.d4 cxd4 21.exd4 exd4 22.cxd4 Nxd4 23.Nxg6 fxg624.Qxd4 Qg5 25.Rxf8+ Rxf8 26.Qd5+ Qxd5 27.exd5 Rf5 28.Rxa6 Rxd5 29.Ne4 Rd330.Rxd6 Rxb3 31.Rxg6+ Kh7 32.Rb6 Rxb2 33.g4 Nf4 34.h4 Kg7 35.Rb7+ Kf8 36.Nf6 Nh3+37.Kh1 Nf2+ 38.Kg1 Nh3+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.h3 Bh5 10.d3 Rb8 11.Nbd2 O-O 12.axb5 axb5 13.Re1 Bb6 14.Nf1 Na5 15.Bc2 Qd716.Bg5 Ne8 17.b4 Nc6 18.Ng3 Bg6 19.Bb3 Kh8 20.Nh4 Ne7 21.Qf3 f6 22.Nxg6+ Nxg623.Bd2 f5 24.exf5 Nh4 25.Qg4 Nxf5 26.d4 g6 27.Nxf5 gxf5 28.Qh4 f4 29.dxe5 dxe530.Rad1 Qg7 31.Qh5 e4 32.Qg4 Qe5 33.Qe6 Qxe6 34.Bxe6 Nd6 35.Bd5 Rbe8 36.Bc6 e337.Re2 exf2+ 38.Kf1 Rxe2 39.Kxe2 Be3 40.c4 Bxd2 41.Rxd2 bxc4 42.Kxf2 Rb843.Rb2 Nf5 44.Be4 c3 45.Rb3 Nd6 46.Bc6 c2 47.Rc3 Rxb4 48.Rxc2 Rc4 49.Rxc4 Nxc450.Be4 Ne5 51.g3 fxg3+ 52.Kxg3 Kg7 53.Kf4 Nf7 54.Bd3 h6 55.Kf5 Ng5 56.Bf1 Kf757.Bc4+ Kg7 58.Bf1 Nf3 59.Ke6 Kg6 60.Kd5 Kg5 61.Kc6 h5 62.Kxc7 h4 63.Kd6 Kf464.Ke6 Kg3 65.Kf5 Nd4+ 66.Ke4 Ne6 67.Ke3 Ng5 68.Ke2 Nf3 69.Ke3 Nh2 70.Ke2  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.Nf3 Nc6 2.e4 e5 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.h3 O-O 10.Be3 exd4 11.cxd4 Nxe4 12.Bd5 Qe8 13.Qc2 Nb4 14.Qxe4 Qxe4 15.Bxe4 d516.Bxh7+ Kxh7 17.Nc3 c6 18.Rfd1 Nc2 19.Rac1 Nxe3 20.fxe3 f6 21.Ne2 Bd7 22.Nf4 Rfe823.Kf2 Re7 24.Nd3 Rae8 25.Re1 a5 26.Nc5 Bf5 27.Re2 g5 28.Ree1 Kg6 29.h4 g430.Ng1 g3+ 31.Kxg3 Bxc5 32.Rxc5 Rxe3+ 33.Rxe3 Rxe3+ 34.Kf2 Re4 35.Rxc6 Rxd436.Nf3 Rb4 37.b3 a4 38.Ne5+ Kg7 39.Rc7+ Kh6 40.Rc6 Kg7 41.Rc7+ Kh6 42.Rc6 Kg743.Rc7+ Kh6 44.Rc6  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bg49.Bxc5 Qxc5  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.c3 h6 9.a4 Rb810.axb5 axb5 11.Na3 O-O 12.Nc2 b4 13.Ne3 bxc3 14.bxc3 Ne7 15.d4 Bb6 16.Bc2 Bb717.dxe5 Nxe4 18.Nc4 Bc5 19.Na5 Ba8 20.Nb3 Bd5 21.Nxc5 Nxc5 22.Ba3 Re8 23.Re1 Ba824.Nd4 dxe5 25.Rxe5 Nd7 26.Ra5 Ng6 27.Nf5 Nde5 28.Qxd8 Rbxd8 29.Bc5 Bd5 30.Ra7 Rd731.Bd4 f6 32.Ne3 Bc6 33.R1a6 Bb5 34.Ra5 Bc6 35.Rc5 Ra8 36.Rxa8+ Bxa8 37.h3 Nf438.Bxe5 fxe5 39.Rxe5 Bb7 40.Re8+ Kf7 41.Rb8 Bc6 42.Bb3+ Ne6 43.Kh2 Ke7 44.Rg8 Kf745.Rh8 Ke7 46.Nf5+ Kf7 47.Ne3 Ke7 48.Bc4 Rd8 49.Rxd8 Nxd8 50.Kg3 Nb7 51.Kf4 Nc552.Ke5 Bb7 53.Nf5+ Kf8 54.Kd4 Na4 55.Bb5 c5+ 56.Kc4 Nb2+ 57.Kxc5 Bxg2 58.Ne3 Bf359.Kd4 Nd1 60.Nxd1 Bxd1 61.Kc5 g5 62.Kd6 Kf7 63.Bd3 Bf3 64.c4 Kf6 65.Bf1 Kf566.c5 Kf4 67.Bb5 h5 68.Be8 g4 69.h4 g3 70.fxg3+ Kxg3 71.Bf7 Kxh4 72.Bd5 Be273.c6 Kg3 74.c7 Ba6 75.Bc4 Bb7 76.Bd5 Ba6 77.Be6 h4 78.Kc6 h3 79.Kb6 h2 80.Kxa6 h1=Q81.c8=Q Qa1+ 82.Kb6  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.d5 Ne79.Nxe5 d6 10.Nf3 Nxe4 11.Bc2 Nf6 12.c4 h6 13.b3 Ng6 14.Nc3 Bg4 15.h3 Bxf316.Qxf3 Ne5 17.Qd1 Nh7 18.Kh2 Qf6 19.Bd2 Qe7 20.f4 Ng6 21.Qg4 Nf6 22.Qg3 Kh823.Rae1 Qd7 24.Bxg6 fxg6 25.Qxg6 Qf7 26.Qg3 Rae8 27.f5 Bd4 28.Kh1 Bxc3 29.Bxc3 Ne430.Qe3 Nxc3 31.Qxc3 Rxe1 32.Qxe1 Re8 33.Qd2 Qf6 34.Qf2 b6 35.Qf3 Kg8 36.Qh5 Re537.Qf3 Kf8 38.g3 Re7 39.g4 Rf7 40.Kg2 Qb2+ 41.Rf2 Qe5  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 O-O 10.h3 Bxf3 11.Qxf3 Na5 12.Ba2 bxa4 13.Nd2 Rb8 14.Nc4 Nb3 15.Bxb3 axb316.Rxa6 Ra8 17.Bg5 Nd7 18.Qg4 f6 19.Be3 Rf7 20.Qe6 Nf8 21.Qg4 Nd7 22.d4 exd423.cxd4 Bb4 24.Qd1 Bc5 25.Qg4 Bb4 26.Qd1 Bc5 27.Qg4 Bb4 28.Qd1  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 O-O 10.h3 Bxf3 11.Qxf3 Na5 12.Ba2 bxa4 13.Nd2 Rb8 14.Nc4 Nb3 15.Bxb3 axb316.Rxa6 Ra8 17.Rxa8 Qxa8 18.Bg5 Nd7 19.Qg4 f6 20.Be3 Rf7 21.Qe6 Nf8 22.Qg4 Nd723.d4 exd4 24.cxd4 Bb4 25.Qd1 Qa4 26.Qd3 Re7 27.Bd2 Re8 28.Bxb4 Qxb4 29.Ra1 d530.exd5 Re1+ 31.Rxe1 Qxe1+ 32.Kh2 Qxf2 33.Qe4 h6 34.d6 cxd6 35.Nxd6 Qxb236.Qe8+ Kh7 37.Qe4+ Kg8 38.Qe8+ Kh7 39.Qe4+ Kg8 40.Qe6+ Kh7 41.Qf5+ Kg8 42.Qxd7 Qxd443.Qc8+ Kh7 44.Qf5+ Kh8 45.Nf7+ Kg8 46.Nxh6+ gxh6 47.Qe6+ Kg7 48.Qxb3 h549.Qb7+ Kh6 50.Qb1 Qf4+ 51.Kh1 h4 52.Qe1 Qg3 53.Qf1 Kg6 54.Qa1  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Na3 Be6 18.Rxc1 Rxa8 19.Rd3 Bf5 20.Rg3 Rd8 21.Nc2 c522.Ke2 Bc7 23.Ne1 Bxe5 24.Re3 Kf6 25.g3 Be6 26.Nd3 Bg4+ 27.Ke1 Bc7 28.Nxc5 Bb629.b4 Rd5 30.Re4 Bxc5 31.bxc5 Be6 32.a3 Rxc5 33.Kd2 g5 34.Rf1+ Ke7 35.Rfe1 Kf636.Rd4 a5 37.Rf1+ Kg7 38.Rd6 h6 39.Rf3 Re5 40.Rf2 Bc4 41.Rd4 a4 42.h4 Kg643.Rd6+ Kg7 44.Rd8 Kg6 45.Rd6+  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.a5 Ba7 11.Be3 Bg4 12.Nbd2 O-O 13.h3 Bh5 14.dxe5 Bxe3 15.exf6 Bxd216.fxg7 Re8 17.Qxd2 Bxf3 18.gxf3 Ne5 19.Qe3 Qf6 20.Kg2 Nc4 21.Bxc4 bxc4 22.Rab1 Rb523.Rg1 Rxa5 24.Kh2 Qe5+ 25.Rg3 Rb5 26.Kg2 a5 27.h4 Qc5 28.Qh6 Qh5 29.Qf4 Re630.Rd1 Rg6 31.Rd4 Rc5 32.Kh3 Kxg7 33.Rg4 a4 34.Qe3 Qh6 35.Rd5 Qxe3 36.fxe3 Rc637.Ra5 Rb6 38.Rxa4 Rxb2 39.Rxc4 c5 40.e5 dxe5 41.Rxc5 Kf6 42.Rc6+ Ke7 43.Rc7+ Kf644.Rg5 Rc2 45.f4 exf4 46.exf4 h6 47.Rc6+ Ke7 48.Rgxg6 fxg6 49.Rxg6 Rxc3+50.Kg4 Rc5 51.Rxh6 Kf7 52.Rb6 Ra5 53.Rh6 Kg7 54.Re6 Kf7 55.Re5 Ra6 56.Rg5 Ra157.Rb5 Kf6 58.Rb6+ Kg7 59.Kg5 Rg1+ 60.Kf5 Rh1 61.Rb7+ Kh6 62.Kf6 Rxh4 63.f5 Ra464.Kf7 Ra8 65.f6 Kh7 66.Re7 Kh6 67.Re8 Ra7+ 68.Re7 Ra8 69.Rc7 Kh7 70.Rd7 Kh671.Re7 Kh7 72.Re8 Ra7+ 73.Ke6 Ra6+ 74.Kf5 Ra5+ 75.Re5 Ra1 76.Re8 Ra5+ 77.Ke6 Ra6+78.Kf7 Ra7+  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Rb8 10.axb5 axb5 11.Qd3 O-O 12.Bg5 exd4 13.cxd4 h6 14.Bh4 g5 15.Bg3 Nh516.Rc1 Bd7 17.e5 Kg7 18.exd6 Nxg3 19.dxc7 Qxc7 20.hxg3 Qd6 21.Nc3 Nxd4 22.Nd5 Nxb323.Qxb3 b4 24.Nxb6 Qxb6 25.Qd5 Rfd8 26.Qe5+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.Qd3 O-O 12.Bg5 exd4 13.cxd4 h6 14.Bh4 g5 15.Bg3 Kg716.h3 Ne7 17.Re1 Ng6 18.Nc3 Nh5 19.Bh2 Nhf4 20.Qd2 Qd7 21.Re3 Bb7 22.Bc2 Ra823.Rd1 Ba5 24.Bb1 Rfe8 25.Qc2 b4 26.Ne2 Bxe4 27.Rxe4 b3 28.Qxb3 Nxe2+ 29.Kh1 Rab830.Qa3 Bb4 31.Qd3 Rxe4 32.Qxe4 Re8 33.Qc2 Re7 34.Qd3 Qe6 35.Bc2 Ba5 36.Ra1 Bb437.Bb3 Qf6 38.Qc4 c5 39.Rd1 Nef4 40.Ng1 Re4 41.f3 d5 42.Qc2 Rxd4 43.g3 c444.gxf4 cxb3 45.Qxb3 Rxd1 46.Qxd1 Nxf4 47.Bxf4 Qxf4 48.Qxd5 Bd6 49.Kg2 Qh2+50.Kf1 Bg3 51.Qd4+ Be5 52.Qf2 Qf4 53.b3 Qc1+ 54.Qe1 Qb2 55.Qe2 Qa1+ 56.Qe1 Qb257.Qe2 Qc3 58.Qc4 Qe3 59.Qe4 Qc1+ 60.Qe1 Qc5 61.Ne2 Qe3 62.Ng1 Qc5 63.Qd2 Qb5+64.Qe2 Qd5 65.Qe4 Qd1+ 66.Qe1 Qd3+ 67.Qe2 Qb1+ 68.Qe1 Qd3+ 69.Qe2 Qb1+  1/2-1/2");
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.Bb3 Bxd49.Qxd4 d6 10.Qd1 Bb7 11.f3 c5 12.c3 O-O 13.Bg5 h6 14.Bh4 Re8 15.Bc2 Nc4 16.Qc1 d517.b3 Nb6 18.Rd1 Qe7 19.Nd2 g5 20.Bf2 dxe4 21.Re1 Nbd5 22.Nxe4 Nxe4 23.Bxe4 Qc724.Qc2 Rad8 25.Rad1 c4 26.b4 Nf4 27.Bh7+ Kg7 28.Bd4+ Kf8 29.Qf5 Qc6 30.Bc5+ Kg731.Bd4+ Kf8 32.Kf1 Nd3 33.Rxe8+ Rxe8 34.h4 Bc8 35.Qf6 Qxf6 36.Bxf6 gxh4 37.Bxd3 cxd338.Rxd3 h3 39.gxh3 Bxh3+ 40.Kf2 Kg8 41.Rd6 Re6 42.Rd8+ Kh7 43.Bd4 Bf5 44.Kg3 Bb145.a3 Kg6 46.Kf4 f6 47.Rg8+ Kf7 48.Rg1 Bc2 49.Rg2 Bb1 50.Rb2 Bd3 51.Rd2 Bc452.Rd1 Bb3 53.Rh1 Kg6 54.Rg1+ Kf7 55.Kg4 Re2 56.Kf4  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 O-O9.h3 Bxe3 10.fxe3 Ne8 11.Nc3 Nd6 12.Qe1 Bd7 13.Nh4 Rad8 14.Kh2 Bc8 15.g4 f616.Qg3 Kh8 17.Rf2 Nb5 18.Nxb5 cxb5 19.Raf1 b4 20.g5 fxg5 21.Nf3 Rf6 22.Nxe5 Rdf823.d4 Kg8 24.Rf3 Qd8 25.Nd3 a5 26.e5 Rf5 27.R3f2 b6 28.Qg2 Rxf2 29.Rxf2 Bf530.e4 Bc8 31.Rxf8+ Kxf8 32.d5 Qe7 33.Qg3 Ba6 34.Nf2 Ke8 35.Kg2 h6 36.e6 Qd637.Qf3 Qf8 38.Qg3 Kd8 39.Qe5 Be2 40.Qg3 Qc5 41.c3 bxc3 42.bxc3 Qf8 43.Qe3 Bc444.Qd2 Qf6 45.a3 Ke7 46.Qe3  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Re1 b59.Bb3 d6 10.h3 Bb7 11.Bg5 h6 12.Bxf6 Qxf6 13.Bd5 Rab8 14.a4 b4 15.Qd3 bxc316.bxc3 exd4 17.Bxc6 Bxc6 18.Qxa6 Bb6 19.Qc4 Bc5 20.cxd4 Rb4 21.Qc2 Bxd422.Nxd4 Qxd4 23.Nc3 Qc5 24.Re3 Rxe4 25.Rxe4 Bxe4 26.Qxe4 Qxc3 27.Rb1 c6 28.a5 Qxa529.Qxc6 d5 30.Rd1 Rd8 31.Qc2 Re8 32.g3 d4 33.Rxd4 Re1+ 34.Kg2 Qa8+ 35.f3 Qe836.Re4 Rxe4 37.fxe4 Qa8 38.Kh2 g6 39.h4 h5 40.Qc4 Qa1 41.Kg2 Kg7 42.Qd5 Qb2+43.Kf3 Qc3+ 44.Kg2 Qb2+ 45.Kf3 Qf6+ 46.Kg2 Qb2+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Bg5 h69.Bh4 exd4 10.cxd4 b5 11.Bb3 g5 12.Nxg5 hxg5 13.Bxg5 Bxd4 14.Nc3 Qe8 15.Nd5 Nh716.Bh6 Qe5 17.Qg4+ Kh8 18.Bxf8 Nxf8 19.Kh1 d6 20.Qe2 Qg7 21.Rac1 Bd7 22.Nxc7 Ra723.Nd5 Ne6 24.Rcd1 Nc5 25.Bc2 Bxb2 26.Qh5+ Kg8 27.Qh4 Kf8 28.f4 Qh8 29.Qg3 Qg730.Qe1 Bg4 31.Rd2 Be6 32.Rf3 Bxd5 33.Rxd5 Nd4 34.Qh4 Nde6 35.e5 Ke8 36.Rg3 Qf837.exd6 Kd7 38.f5 Kc6 39.Be4 Nxe4 40.Qxe4 Nc5 41.Qf3 Bf6 42.Rg4 Rd7 43.Rb4 Rxd644.Rxd6+ Kxd6 45.Rb1 Kc7 46.Rd1 Qe7 47.Qd5 Kb6 48.Qd6+ Ka5 49.Qd2+  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Rb89.d4 Bb6 10.axb5 axb5 11.Na3 Bg4 12.d5 Ne7 13.Nxb5 Ng6 14.h3 Bd7 15.Na3 Nf416.Nc4 g5 17.Nxb6 Rxb6 18.Nh2 Ke7 19.c4 Qg8 20.Ra3 Qg6 21.Re1 Rg8 22.Ree3 Qh623.Ra7 g4 24.Rxc7 gxh3 25.g3 Ra6 26.Bd2 Rga8 27.Re1 Ra1 28.Bb1 Qg6 29.Bxf4 Kd830.Rxd7+ Kxd7 31.Bd2 Nxe4 32.Nf1 f5 33.Qf3 Rxb1 34.Rxb1 f4 35.Re1 Ng5 36.Qb3 Rc837.Ba5 Ke8 38.Nh2 Kf8 39.Kh1 Ra8 40.Bb4 Ne4 41.Qf3 Ng5 42.Qg4 h5 43.Qd7 Ne444.Rf1 Kg8 45.Qxh3 fxg3 46.Qe6+ Qxe6 47.dxe6 gxh2 48.Kxh2 Rc8 49.f3 Nc5 50.f4 exf451.Bxc5 Rxc5 52.Rxf4 Re5 53.b4 Rxe6 54.Kg3 Re3+ 55.Kh4 Rb3 56.b5 d5 57.cxd5 Rxb558.Rf5 Kg7 59.Kxh5 Rb1 60.Kg5 Rd1 61.Kf4 Kg6 62.Rg5+ Kf6 63.Rh5 Ke7  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Bb6 8.Bg5 h69.Bh4 d6 10.Qd3 Ne7 11.Bxf6 gxf6 12.Nh4 Ng6 13.Nf5 Bxf5 14.exf5 Nf4 15.Qf3 Kh716.Kh1 c6 17.Nd2 Bc7 18.g3 Nd5 19.Ne4 Nb6 20.dxe5 dxe5 21.Bb3 Qe7 22.Qh5 Nd723.Rad1 Rad8 24.Rd3 Kg7 25.Qg4+ Kh7 26.Qh4 Kg7 27.Qg4+ Kh7 28.Rfd1 Nb6 29.Qh4 Kg730.Qg4+ Kh7  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.dxc5 Qxd1 10.Bxd1 exf3 11.Bxf3 Bb7 12.b4 e4 13.Be2 O-O 14.a4 bxa4 15.Rxa4 Nd516.Rd1 Rfd8 17.f3 exf3 18.gxf3 Ne5 19.Kf2 Ng6 20.Rd4 Re8 21.c4 Nf6 22.Nc3 Re523.Ra5 Rae8 24.h4 Ne7 25.b5 axb5 26.cxb5 Rxc5 27.Rc4 Rxc4 28.Bxc4 Ra8  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb69.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+ Kxd8 12.Bg5 Ke7 13.Nd2 h6 14.Bxf6+ Kxf615.Nf3 Bb7 16.Rad1 Rhd8 17.Rfe1 g5 18.h3 h5 19.g4 hxg4 20.hxg4 Rd6 21.Rxd6+ cxd622.Bb3 Rh8 23.Kg2 Rc8 24.Nd2 a5 25.Rh1 Kg7 26.f3 Rc7 27.a3 Bc8 28.Rd1 Be629.Bd5 b4 30.Nb1 bxc3 31.bxc3 Bc5 32.Kf1 Rc8 33.Bxe6 fxe6 34.Ke2 Rb8 35.Nd2 Rb236.Rb1 Ra2 37.Kd3 Rxa3 38.Nc4 Ra2 39.Rb5 a4 40.Nxe5 Rf2 41.Rb7+ Kf8 42.Nd7+ Ke843.Nxc5 dxc5 44.Ke3 Rf1 45.Ra7 Ra1 46.Kd3 Rf1 47.Ke2 Ra1 48.Kd3 Rf1  1/2-1/2");
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 Ba7 8.Bxc6+ bxc69.Qe2 h6 10.Nbd2 O-O 11.Re1 Nh5 12.d4 Nf4 13.Qc4 Qf6 14.Qxc6 Bh3 15.g3 exd416.cxd4 Nd3 17.Re3 Nxf2 18.Kxf2 Bxd4 19.Qc4 Bxe3+ 20.Kxe3  1/2-1/2");
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.Nc3 h69.Nd5 O-O 10.c3 Rb8 11.Be3 Nxd5 12.Bxd5 Bxe3 13.fxe3 Ne7 14.Bb3 Ng6 15.Qe1 c516.Qg3 Kh7 17.h4 c4 18.dxc4 bxc4 19.Bxc4 Rxb2 20.h5 Nh8 21.Rad1 Qe7 22.Nh4 Rc223.Nf5 Bxf5 24.exf5 f6 25.e4 Nf7 26.Rb1 d5 27.Qg6+ Kh8 28.Bxd5 Rxc3 29.Rb7 Rc730.Rfb1 Nd6 31.Rxc7 Qxc7 32.Qg3 Rb8 33.Rxb8+ Qxb8 34.Qe3 Qb1+ 35.Kf2 Kh736.Qe2 a5 37.Kf3 Nb5 38.Qd2 Qf1+ 39.Kg3 Nd4 40.Qf2 Ne2+ 41.Kf3 Nd4+ 42.Kg3 Qd143.Kh4 Qh1+ 44.Kg4 Qd1+ 45.Kh4 Qh1+ 46.Kg4 Qc1 47.Kh3 Qh1+  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb79.d4 Bb6 10.Re1 h6 11.Be3 O-O 12.d5 Na7 13.Bxb6 cxb6 14.axb5 Nxb5 15.Nbd2 Na716.Nc4 a5 17.Nfd2 a4 18.Bc2 b5 19.Ne3 Nd7 20.Nf5 Nc5 21.Qg4 Qf6 22.f4 Bc823.fxe5 Bxf5 24.Qxf5 Qxe5 25.Qf2 Nd7 26.Nf3 Qf6 27.Qe2 Ne5 28.Nd4 Rfb8 29.Rf1 Qg530.Bd3 b4 31.Rxa4 bxc3 32.bxc3 Nc8 33.Rb4 Ne7 34.Bb5 Rc8 35.Rb3 Rc7 36.Kh1 Rca737.Bc6 Rc8 38.Nb5 N7xc6 39.dxc6 Re7 40.c7 Qg6 41.Qd1 Nc4 42.Re1 Rxe4 43.Rb4 Rce844.Rxe4 Qxe4 45.h3 d5 46.Rxc4 Qxc4 47.Nd6 Qxc7 48.Nxe8 Qe5 49.Nxg7 Kxg7  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 O-O 8.a4 Rb89.axb5 axb5 10.Nc3 h6 11.Be3 Bxe3 12.fxe3 d6 13.Qe1 b4 14.Nd5 Nxd5 15.exd5 Ne716.Ra4 c5 17.dxc6 Nxc6 18.d4 e4 19.Nh4 d5 20.Nf5 Bxf5 21.Rxf5 Rb5 22.Qf1 Ne723.Rxf7 Rxf7 24.Qxb5 Kh7 25.Ra1 Qd6 26.Ra6 Qd8 27.h3 Qc7 28.Qe2 Nf5 29.Ra1 Ng330.Qg4 Rf5 31.Re1 h5 32.Qd1 Qd6 33.c4 bxc3 34.bxc3 Qc6 35.Qc2 Qf6 36.Qd1 Qc637.Qc2 Qf6 38.Qd1 Qa6 39.Kh2 Qd6 40.Kg1 Qc6 41.Qc2 Qf6 42.Qd1 Qc6 43.Qc2  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Bxc6 dxc6 7.d3 Qe7 8.Be3 Bd69.Nbd2 Ng4 10.Nc4 Nxe3 11.fxe3 O-O 12.Qe1 f6 13.Nxd6 cxd6 14.Qg3 Be6 15.Nh4 d516.exd5 Bxd5 17.Nf5 Qd7 18.e4 Be6 19.Qe3  1/2-1/2");
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Re1 O-O 7.Bxc6 bxc6 8.c3 Re89.d4 Bd6 10.Nbd2 c5 11.Qc2 Bb7 12.d5 c6 13.c4 Bc7 14.Nf1 cxd5 15.cxd5 d616.Ng3 Bc8 17.Bd2 Bb6 18.b4 Qc7 19.bxc5 Qxc5 20.Bc3 Ba5 21.Rac1 Qxc3 22.Qxc3 Bxc323.Rxc3 Nd7 24.Nf5 Rd8 25.Nxd6 f6 26.Nh4 Nb6 27.Nxc8 Nxc8 28.Rec1 Nd6 29.f3 Nb530.Rc5 Nd4 31.Kf1 Rab8 32.Rc7 Rb2 33.a4 Ra2 34.R1c4 Ra1+ 35.Kf2 Ra2+ 36.Kg3 Ne2+37.Kg4 h5+  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb69.a4 Bb7 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 Rb8 13.axb5 axb5 14.dxe5 dxe5 15.Na3 b416.Nc4 O-O 17.cxb4 Rfe8 18.Qa4 Ra8 19.Qb5 Nd4 20.Nxd4 Bxd5 21.Rxa8 Rxa8 22.Nxb6 cxb623.exd5 exd4 24.Re1 Qf5 25.f3 Kh7 26.Rd1 Rd8 27.Rxd4 Qb1+ 28.Qf1 Qxb2 29.Qd3+ g630.h4 Ra8 31.h5 Ra1+ 32.Kh2 Ra2 33.hxg6+ fxg6 34.Rg4 Qe5+ 35.Kh3 Qh5+ 36.Rh4 Qg537.Rg4 Qh5+ 38.Kg3 Qe5+ 39.f4 Qf5 40.Qe3 Ra7 41.Qe6  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 d6 7.c3 b5 8.Bb3 h6 9.a4 Rb810.axb5 axb5 11.Nbd2 O-O 12.h3 Re8 13.Re1 Be6 14.Bxe6 fxe6 15.Nb3 Bb6 16.Be3 Qe717.Ra6 Qf7 18.Bxb6 cxb6 19.d4 Rf8 20.Qd3 Nh5 21.Qxb5 Qg6 22.Re3 Nf4 23.Ne1 exd424.cxd4 Rbc8 25.Ra1 e5 26.Rd1 Qf6 27.Qxb6 Nxh3+ 28.Rxh3 Qxf2+ 29.Kh2 Qf4+30.Kh1 Qf1+ 31.Kh2 Qf4+ 32.Kh1  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.Re1 d6 8.d4 Ba79.h3 h6 10.Bxc6 bxc6 11.dxe5 dxe5 12.Qxd8 Rxd8 13.Nbd2 Nd7 14.Nc4 Re8 15.Be3 Bxe316.Rxe3 a5 17.a4 f6 18.Nfd2 Nc5 19.b4 axb4 20.cxb4 Rxa4 21.Rxa4 Nxa4 22.Ra3 Nb623.Ra7 Be6 24.Na5 Rc8 25.Nxc6 Kf8 26.Rb7 Ke8 27.Na7 Rd8 28.Rxc7 Rxd2 29.Rc6 Nc430.Rxe6+ Kd7 31.Ra6 Nd6 32.f3 Kc7 33.b5 Kb7 34.Ra4 h5 35.h4 Rc2 36.Kh2 Rc737.Ra2 Rd7 38.Kh3 Kb6 39.Ra6+ Kb7 40.Ra2 Kb6 41.Ra6+ Kb7 42.Ra2 Kb6  1/2-1/2");
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 d6 8.a4 Bg49.c3 O-O 10.h3 Bxf3 11.Qxf3 Rb8 12.axb5 axb5 13.Rd1 h6 14.Nd2 Nh7 15.Nf1 Bb616.Ne3 Ne7 17.d4 Qe8 18.dxe5 dxe5 19.Qg3 Ng5 20.Qxe5 Ng6 21.Qxe8 Rfxe8 22.Nd5 Nxe423.Nxb6 Rxb6 24.Ra7 Re7 25.Re1 Rf6 26.f3 Nc5 27.Rxe7 Nxe7 28.Ra8+ Kh7 29.Bc2+ g630.Be3 Ne6 31.Kf2 Nd5 32.Bd2 c5 33.Rb8 Nec7 34.Rb7 Rb6 35.Rxb6 Nxb6 36.Be3 Nc437.Bxc5 Nxb2 38.Bd4 Nc4 39.Bd3 Ne6 40.Bf6 Nc5 41.Bxc4 bxc4 42.Ke3 g5 43.Kd4 Ne6+44.Kxc4 Nf4 45.g4 Nxh3 46.Kd4 Nf4 47.c4 Kg6 48.Be5 Ne6+ 49.Ke4 Nc5+ 50.Kd5 Nb351.c5 Nxc5 52.Kxc5 h5 53.gxh5+ Kxh5 54.Kd5 f5 55.Ke6 Kg6 56.Bf6 f4 57.Bxg5 Kxg558.Ke5 Kg6 59.Kxf4 Kf6 60.Ke4  1/2-1/2");
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb79.d4 Bb6 10.Bg5 h6 11.Bxf6 Qxf6 12.Bd5 O-O 13.Na3 exd4 14.cxd4 Ra7 15.Nc2 bxa416.Rxa4 a5 17.Qd2 Ne7 18.Bxb7 Rxb7 19.Ne3 Qg6 20.e5 Rd8 21.Nc4 dxe5 22.Ncxe5 Qf623.Qc3 Nd5 24.Qc6 Qxc6 25.Nxc6 Rd6 26.Rc4 Nf4 27.Re1 Kf8 28.Re5 g5 29.g3 Ne630.Rb5 f6 31.Nd2 Rxc6 32.Rxc6 Nxd4 33.Rxf6+ Ke7 34.Rbxb6 Rxb6 35.Rxb6 cxb636.Nc4 b5 37.Nxa5 Nf3+ 38.Kf1 Nxh2+ 39.Ke2 Ng4 40.Nc6+ Kd6 41.Nd4 Kc5 42.Nf5 h543.Ng7 h4 44.Ne6+ Kc4 45.Nxg5 hxg3 46.fxg3 Kb3  1/2-1/2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bg49.axb5 axb5 10.Rxa8 Qxa8 11.h3 Bxf3 12.Qxf3 Nb8 13.d3 Nbd7 14.g4 O-O 15.g5 Ne816.Qg4 Qd8 17.Kg2 Bb6 18.f4 Nc5 19.Bc2 exf4 20.Qxf4 d5 21.exd5 Qxd5+ 22.Qf3 Qxf3+23.Rxf3 Nd6 24.d4 Ne6 25.Bb3 b4 26.Bxe6 fxe6 27.Rxf8+ Kxf8 28.Kf3 Ke7 29.Nd2 bxc330.bxc3 Ba5 31.Bb2 Kd7 32.Ke3 c6 33.Kd3 Nf7 34.Nf3 Bc7 35.c4 Bf4 36.h4 g637.Ke4 Bg3 38.c5 Bf2 39.Ba3 Ke7 40.Bb4 Bg3 41.Bd2 Bc7 42.Bf4 Ba5 43.Bg3 Bd844.Be1 Bc7 45.Bd2 Kd7 46.Bf4 Ba5 47.Kd3 Ke7 48.Bg3 Bd8 49.Nh2 h6 50.Nf3 hxg551.hxg5 Kd7 52.Bf4 Be7 53.Ke4 Bd8 54.Be3 Be7 55.Kf4 Bd8 56.Ke4 Be7 57.Kf4 Bd858.Ke4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.d3 b5 7.Bb3 O-O 8.c3 d69.h3 h6 10.Nbd2 Re8 11.Re1 b4 12.Nf1 a5 13.Ba4 Bd7 14.Be3 Bxe3 15.Nxe3 Ne716.d4 exd4 17.Bxd7 Qxd7 18.Nc4 dxc3 19.bxc3 bxc3 20.Rc1 d5 21.Nce5 Qd6 22.exd5 Nexd523.Nc4 Rxe1+ 24.Qxe1 Qf4 25.Qf1 a4 26.Nce5 Re8 27.Nd3 Qe4  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Bxf2+ 7.Rxf2 Nxe5 8.d4 Nc49.Bb3 Nb6 10.e5 Nfd5 11.Qf3 Qe7 12.Bxd5 Nxd5 13.Qxd5 d6 14.Nc3 Be6 15.Qxb7 O-O16.exd6 Qxd6 17.Qe4 Rfe8 18.Bf4 Qb6 19.Re1 Qxb2 20.Qf3 c6 21.Bd6 a5 22.Rxe6 fxe623.Qf7+ Kh8 24.Be5 Rg8 25.Ne4 Qc1+ 26.Rf1 Qe3+ 27.Nf2 c5 28.Qxe6 cxd4 29.Qd5 Rgd830.Qe4 Qxe4 31.Nxe4 Re8 32.Nd6 Re7 33.Bxd4 Kg8 34.Nf5 Rd7 35.Bc5 Rd2 36.Ne7+ Kh837.c3 Rb8 38.h3 h5 39.Bd4 Rbb2 40.Rf7 Rxg2+ 41.Kf1 Rxa2 42.c4 Rg5 43.c5 Rc244.c6 a4 45.Be5 a3 46.c7 a2 47.Rf8+ Kh7 48.c8=Q Rxc8 49.Rxc8 Rxe5 50.Ra8 Rxe751.Rxa2  1/2-1/2");
+
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d3 O-O9.h3 h6 10.Re1 Re8 11.Nbd2 Ba7 12.Nf1 Ne7 13.Ng3 Ng6 14.a4 Bb7 15.Be3 Bxe316.fxe3 d5 17.exd5 Nxd5 18.Qe2 c5 19.Qf2 Qc7 20.Bc2 b4 21.c4 Nf6 22.Nd2 Rad823.b3 Re6 24.Nf5 Ne7 25.Ng3 Red6 26.Rf1 Rf8 27.Rad1 Bc8 28.Nf3 Nd7 29.d4 exd430.exd4 cxd4 31.Ne4 Rg6 32.Nxd4 Ne5 33.Ng3 Rf6 34.Qe3 Rxf1+ 35.Rxf1 N7g636.Ndf5 Rd8 37.Nh5 Bxf5 38.Bxf5 Qd6 39.Nf4 Ne7 40.Bc2 Qd4 41.Qxd4 Rxd4 42.Re1 f643.Ne6 Rd2 44.Be4 Kf7 45.Nc7 a5 46.Nb5 N7g6 47.c5 Ne7 48.Rc1 N7c6 49.Nd6+ Ke750.Nf5+ Kf7 51.Nd6+ Ke7 52.Nf5+ Kf7 53.Nd6+ Ke7  1/2-1/2");
+tap['RuyMoeller-SteinDef'].push("1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe49.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb615.Bxa8 Nd3+ 16.Kf1 Nxc1 17.Nd2 Be6 18.Rxc1  1/2-1/2");

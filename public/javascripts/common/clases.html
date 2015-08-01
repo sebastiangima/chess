@@ -1,0 +1,398 @@
+
+<html>
+	<head>
+		<style>
+			div{
+				-webkit-perspective: 1 1;
+				opacity:1!important;
+				
+			}
+			.tri-equi-up {
+				width: 0px;
+				height: 0px;
+				border-left: 0.5px solid transparent;
+				border-right: 0.5px solid transparent;
+				border-bottom: 1px solid #2f2f2f;
+			}
+
+			.tri-equi-down {
+				width: 0; 
+				height: 0; 
+				border-left: 20px solid transparent;
+				border-right: 20px solid transparent;
+				
+				border-top: 20px solid #f00;
+			}
+
+			.tri-equi-right {
+				width: 0; 
+				height: 0; 
+				border-top: 60px solid transparent;
+				border-bottom: 60px solid transparent;
+				
+				border-left: 60px solid green;
+			}
+
+			.tri-equi-left {
+				width: 0; 
+				height: 0; 
+				border-top: 10px solid transparent;
+				border-bottom: 10px solid transparent; 
+				
+				border-right:10px solid blue; 
+			}
+		</style>
+		<script>
+		
+
+			function efectos(e){
+				var n =e.keyCode-48; 
+				switch(n) {
+					case 3:
+						var m = e.ctrlKey?0:'50px';
+						for (var i=0; i<8; ++i)  {
+							for (var j=0; j<8; ++j) {
+								if (vars.figuras[i*8+j].element.style['transition'].indexOf('border-radius')==0)
+									vars.figuras[i*8+j].element.style['transition']+=' border-radius 4s';
+								}
+								//vars.figuras[i].draw(true);
+						}
+						for (var i=0; i<8; ++i)  {
+							for (var j=0; j<8; ++j) {
+								vars.figuras[i*8+j].element.style.borderRadius=m;
+								}
+								//vars.figuras[i].draw(true);
+						}
+						
+					break;
+					case 2:
+					case 1:
+						var s = e.ctrlKey?-1:1;
+						var m = n%2;
+						for (var i=0; i<8; ++i)  {
+							for (var j=0; j<8; ++j) {
+								vars.figuras[i*8+j].transform(s*360,[25,25]);
+								vars.figuras[i*8+j].moveTo([s*j*m,s*i*m])
+								}
+								//vars.figuras[i].draw(true);
+						}
+					break;
+				}
+				e.cancelBubble=true;
+				e.stopPropagation();
+				e.preventDefault();
+				
+			}
+		
+			var newguid = 1; // para serializar objetos
+//function b() {console.log(arguments.length); for (var i=0; i<arguments.length; ++i) console.log(i+': '+arguments[i])}
+//function a(){ b.apply('undefined',Array.prototype.slice.call(arguments,0).concat('llamado desde a'))}
+		
+			// Figura: clase base 
+			function SgObject() {
+				var args = arguments[0] || {};
+				this.GUID = args.GUID || newguid++;
+				this.base_ = function(o){
+					if (o && o.constructor && o.constructor.prototype)
+						return Object.getPrototypeOf(o);
+					return null;
+				}
+			}
+			
+			SgObject.prototype.base = function base() {
+				var result = Object.getPrototypeOf(this.constructor.prototype);
+				if (result == SgObject)
+					return null;
+				return Object.getPrototypeOf( result);
+					return result;
+			}
+			
+			function Figura() {
+				SgObject.call(this);
+				var args = arguments[0] || {};
+				this.name = args.name || 'FIGURA';
+				this.data = args.data || {};
+				this.element = args.element || document.createElement('DIV');
+				this.scale = args.scale || [1,1,1];
+				if (typeof (this.scale) == 'number') {
+					this.scale=[this.scale,this.scale,this.scale];
+				}
+				this.position = args.position || {x:0, y:0, z:0};
+				this.vertexs = args.vertexs || [];
+				this.element.style.position='relative';
+				this.container = document.createElement('div');
+				this.container.style.position='absolute';
+				this.container.appendChild(this.element);
+				this.container.style.transition='top 4s, left 4s'
+				
+				this.mx=0;
+				this.my=0;
+				this.rx=0;
+				this.ry=0;
+				this.rz=0;
+				this.tx=0;
+				this.ty=0;
+				this.tz=0;
+			}
+			Figura.prototype = Object.create(SgObject.prototype);
+			Figura.prototype.constructor = Figura;
+			
+			// superclass method
+			Figura.prototype.transform = function transform(r,t,nodraw) {
+				if (typeof(r) != 'undefined' && !(r instanceof Array)) {
+					if (r!=0)
+						r = [0,0,r];
+					else
+						r=[0,0,0];
+				}
+				if (t.length==1) t.push(0);
+				if (t.length==2) t.push(0);
+				this.rx+=r[0];
+				this.ry+=r[1];
+				this.rz+=r[2];
+				this.tx+=t[0];
+				this.ty+=t[1];
+				this.tz+=t[2];			
+				var transform = 'rotateZ('+this.rz+'deg) ';
+				transform += 'rotateX('+this.rx+'deg) ';
+				transform += 'rotateY('+this.ry+'deg) ';
+				transform += 'translate3D('+this.tx+'px,'+this.ty+'px,'+this.tz+'px) ';
+				this.element.style['-webkit-transform']=transform;
+				if (!nodraw)
+					this.draw();
+				
+			}
+			Figura.prototype.moveTo_ = function moveTo_() {
+				
+					if (typeof(arguments[1]) != 'undefined' ) {
+						v.push('TranslateY(arguments[1]+px)')
+					}
+					if (arguments[2]) {
+						v.push('TranslateZ(arguments[2]+px)')
+					}
+					this.element.style.top = this.position.y+'px';
+					this.element.style.left = this.position.x+'px';
+					this.element.style.left = x+'px';
+
+			}
+			
+			function out() {
+				if (arguments[0] && arguments[0] instanceof Array) {
+					var level = arguments[0][0] || 999999999;
+					if (GLOBAL_LOGOUT_LEVEL>=level) {
+						var context = arguments[0][1] || 'contexto no definido';
+						var descripcion = arguments[0][2] || 'sin descripcion';
+						var parametros = arguments;
+					}
+				}
+			}
+				Figura.prototype.moveTo = function moveTo() {
+				if (arguments.length) {
+					if (arguments.length>1) {
+						// var v = ['x','y','z']
+						// var max = arguments.length;
+						// if (max>3) {
+							// max=3; 
+							// Array.prototype.slice.call(arguments,0)
+							// out([WARNING,'Figura.moveTo','demasiados argumentos, solo coordenadas 3D se soportan'],arguments)
+						// }
+						// for (var i=0; i<arguments.length;  ++i) {
+							// if (typeof(arguments[i])=='undefined' || isNaN(arguments[i])) {
+								// this.position[v[i]] = 0;
+								// console.log('WARNING Figura.moveTo, el valor para la coordenada ['+v[i]+'='+arguments[i]+']: no es un número.')
+							// }
+							// else
+								// this.position[v[i]] = arguments[i];
+						// }
+						
+					}
+					else if (arguments[0] instanceof Array) {
+						if (arguments[0].length==3) {
+							
+						}
+						else {
+							this.my += arguments[0][1];
+							this.mx += arguments[0][0];
+							this.container.style.left = this.mx*this.scale[0]+'px';
+							this.container.style.top = this.my*this.scale[1]+'px';
+						}
+					}
+					else {
+						if (arguments[0].top && arguments[0].left) {
+						}
+					}
+					
+				}
+				// else if (arg
+				
+					// this.topLeft = [y,x];
+					// console.info("Shape moved.");
+			};
+
+			// Rectangulo - subclass
+			function Rectangulo() {
+				var args = arguments[0] || {};
+				args.name = 'Rectangulo';
+				args.scale = args.scale || 50;
+				args.vertexs = args.vertexs || [[0,0,0],[0,50,0],[50,50,0],[50,0,0]]
+				Figura.call(this,args); // call super constructor.
+				this.element.style.border = 'solid 1px black';
+				this.container.style.backgroundColor = 'transparent';
+				if ((Math.floor((this.GUID-1)/8)+this.GUID%8)  %2)
+					this.element.style.backgroundColor = '#ddd';
+				else {
+					this.element.style.backgroundColor = '#333';
+					this.element.style.opacity = '0.5';
+				}
+			}
+
+			// subclass extends superclass
+			Rectangulo.prototype = Object.create(Figura.prototype);
+			Rectangulo.prototype.constructor = Rectangulo;
+			Rectangulo.prototype.draw = function draw() {
+				var top = this.vertexs[0][1];
+				var left = this.vertexs[0][0];
+				var width = Math.abs(this.vertexs[2][0]-left);
+				var height = Math.abs(this.vertexs[2][1]-top);
+				this.container.style.top = top+this.my+'px';
+				this.container.style.left = left+this.mx+'px';
+				this.element.style.height = height+'px';
+				this.element.style.width = width+'px';
+				this.container.style.position = 'absolute';
+				this.element.style.position = 'relative';
+				this.element.style.transition = '-webkit-transform 4s, border-radius 4s';
+				if (!this.container.parentNode)
+					document.body.appendChild(this.container);
+				this.transform(0,[0,0],true);
+			}
+
+			function Circulo() {
+				var args = arguments[0] || {};
+				args.name = 'Circulo';
+				args.scale = args.scale || 50;
+				args.vertexs = args.vertexs || [[0,0,0],[0,50,0],[50,50,0],[50,0,0]]
+				Rectangulo.call(this,args); // call super constructor.
+				this.element.style.border = 'solid 1px black';
+				this.element.style.borderRadius = '500px';
+				//this.element.style['-webkit-transform']='translate3D('+50+'px,'+50+'px,'+0+')';
+			}
+
+			// subclass extends superclass
+			Circulo.prototype = Object.create(Rectangulo.prototype);
+			Circulo.prototype.constructor = Circulo;
+			
+			function Triangulo() {
+				var args = arguments[0] || {};
+				args.name = 'Triangulo';
+				args.scale = args.scale || 50;
+//				args.scale=86.6;
+				this.angle=0;
+	//			args.scale/=sin60;
+				args.vertexs = args.vertexs || [[0,0,0],[0,50,0],[50,50,0],[50,0,0]]
+				Rectangulo.call(this,args); // call super constructor.
+				args.className==args.className || 'tri-equi-up';
+				this.base = Rectangulo;
+				
+				
+				
+				this.asParent=false;
+				var this_=this;
+				this.element.onclick = function(){
+					this_.asParent=!this_.asParent;
+					this_.draw();
+				}
+				
+			}
+
+			// subclass extends superclass
+			Triangulo.prototype = Object.create(Rectangulo.prototype);
+			Triangulo.prototype.constructor = Triangulo;
+			Triangulo.prototype.rotate = function rotate(angle){
+				var _50sin = sin60*this.scale[0]/2
+				if (!angle) angle=0;
+				this.angle+=angle
+				this.transform(this.angle,[0,0])
+				this.element.style['-webkit-transform']='rotateZ('+this.angle+'deg) translate3D('+_50sin+'px,'+_50sin+'px,'+0+')';
+			}
+			Triangulo.prototype.draw = function draw(){
+
+			//this.base().draw();
+			
+				Object.getPrototypeOf(Triangulo.prototype).draw.call(this);
+				
+				if(this.asParent) return;
+				this.element.style.width='0px';
+				this.element.style.height='0px';
+				this.element.style.transition='-webkit-transform 2s';
+		//		this.element.style.top=+this.element.style.top.replace(/[a-z]/ig,'')+7.2+'px'
+			}
+			
+			var sin60=Math.sin(Math.PI/3);
+			var sin60=1;
+			
+			function TrianguloEqui() {
+				var args = arguments[0] || {};
+				args.name = 'Triangulo Equilatero';
+				args.scale = 50;
+				args.scale = args.scale || 50;
+				args.vertexs = args.vertexs || [[0,0,0],[0,50,0],[50,50,0],[50,0,0]]
+				Triangulo.call(this,args); // call super constructor.
+				this.base = Triangulo;
+				args.className=='tri-equi-up';
+				this.element.style.border = 'solid 1px black';
+				var bb = this.element.style.borderBottomWidth;
+				var bt = this.element.style.borderTopWidth;
+				var bl = this.element.style.borderLeftWidth;
+				var br = this.element.style.borderRightWidth;
+				this.	element.style.borderLeft= (bl?(+bl.replace(/[a-z]/gi,''))*25:0)+'px solid transparent';
+				this.element.style.borderRight= (br?(+br.replace(/[a-z]/gi,''))*25:0)+'px solid transparent';
+				this.element.style.borderBottom= (bb?(+bb.replace(/[a-z]/gi,''))*50:0)+'px solid #2f2f2f';
+				this.element.style.borderTop= 'none';
+				this.element.position='relative';
+			}
+
+			// subclass extends superclass
+			TrianguloEqui.prototype = Object.create(Triangulo.prototype);
+			TrianguloEqui.prototype.constructor = TrianguloEqui;
+
+			TrianguloEqui.prototype.draw = function draw(){
+				Object.getPrototypeOf(TrianguloEqui.prototype).draw.call(this);
+			}
+			var vars = {
+				figuras:[]
+			}
+			function onLoad(){
+//				vars.figuras=[new Rectangulo(),new Circulo(), new TrianguloEqui()];
+				
+				for (var i=0; i<8; ++i)  {
+					for (var j=0; j<8; ++j) {
+						var f = new Rectangulo();
+						f.draw(true);
+//						f.transform(0,[-25,-25])
+						f.transform(0,[25,25])
+						vars.figuras.push(f);
+						f.moveTo([10,5])
+						}
+						//vars.figuras[i].draw(true);
+				}
+//				setTimeout("efectos(1)",2000);
+				//vars.figuras[i].draw(true);
+
+// 				for (var i=0; i<vars.figuras.length; ++i) 
+					//vars.figuras[i].draw(true);
+ 
+				
+			}
+			function onKeyDown(){
+				switch(arguments[0].keyCode) {
+					case 49: efectos(arguments[0]); break;
+					case 50: efectos(arguments[0]); break;
+					case 51: efectos(arguments[0]); break;
+					case 52: efectos(arguments[0]); break;
+				}
+			}
+		</script>
+	</head>
+	<body onload="onLoad()" onkeydown="onKeyDown(event)">
+	</body>
+</html>

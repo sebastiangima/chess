@@ -1,0 +1,162 @@
+div.slider{
+	top:auto!important;
+	bottom:auto!important;
+	height:auto;
+	border:solid 0.5mm black;
+	border-radius:5px;
+}
+div.slider.right {
+	*float:right;
+	*left:auto!important;
+}
+
+div.slider-thumb{
+	position:absolute;
+	z-index:2;
+	border:solid 1px #008;
+	background-color:#00f;
+}
+
+div.slider.horizontal {
+	width:300px;
+}
+
+div.slider.horizontal > div >  div.slider-thumb {
+	height:16px;
+	width:5px;
+	left:11px;
+	top:-2px;
+	margin-left:195px;
+}
+
+div.slider.horizontal > div >  div.slider-value {
+	top:-5px;
+}
+
+div.slider.vertical > div >  div.slider-thumb {
+	height:5px;
+	width:16px;
+	
+}
+
+div.slider{
+	position:relative!important;
+	background: rgb(203,211,244); /* Old browsers */
+	background:linear-gradient(to right, rgba(83, 86, 100, 1) 1%,rgba(139, 147, 155, 1) 51%,rgba(54, 59, 65, 1) 99%);	padding:8px 0px 0px 5px;
+	border-radius:10px;
+	height: 28px;
+	font-size: 12px;
+	font-family: sans-serif;	
+}
+div.slider-value {
+	height: 15px;
+	border: solid 0.5mm;
+	width: 30px;
+	position: relative;
+	float:right;
+	font-size: 12px;
+	text-align: center;
+	color: black;
+	font-family: sans-serif;
+	font-weight: bold;	
+	
+}
+div.slider-bar {
+	display:inline-block;
+	position:relative;
+background: rgb(125,185,232); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(125,185,232,1) 0%, rgba(41,137,216,1) 50%, rgba(30,87,153,1) 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(125,185,232,1)), color-stop(50%,rgba(41,137,216,1)), color-stop(99%,rgba(30,87,153,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(125,185,232,1) 0%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(125,185,232,1) 0%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(125,185,232,1) 0%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 99%); /* IE10+ */
+background: linear-gradient(to right,  rgba(125,185,232,1) 0%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#1e5799',GradientType=1 ); /* IE6-9 */
+
+}
+div.slider-content{
+	position:relative;
+	padding:5px 10px 15px 10px;
+	
+}
+div.slider.horizontal > div >  div.slider-bar {
+	width:150px;
+	height:5px;
+	border: solid 1px black;
+	top:-8px;
+	left:25px;
+}
+div.slider.vertical > div > div.slider-bar{
+	height:200px;
+	width:5px;
+	border: solid 1px black;
+}
+
+
+div.opacidad  div.slider-bar:before{
+	content: "OPACIDAD (0 a 100)"; 
+}
+
+div.alto div.slider-bar:before {
+	content: "ALTO (0 a 100)"; 
+}
+
+div.ancho  div.slider-bar:before{
+	content: "ANCHO (0 a 100)"; 
+}
+div.opacidad > div > input:first-child:before{
+	content: "VAL";
+}
+
+div.opacidad > div > input:first-child+input:before{
+	content: "MIN";
+}
+div.opacidad > div > input:first-child+input+input:before{
+	content: "MA";
+}
+div.slider-bar:before { 
+	font-size:12px;
+	color: rgb(94, 107, 109);
+	text-shadow: 1px 1px #97A8B1;
+	
+}
+
+div.flier-context-menu>div.slider{
+	margin-left:-340px;
+}
+input.slider-value{
+	position: relative;
+	width: 32px;
+	height: 15px;
+	right: 0px;
+	top: 0px;
+	background:linear-gradient(to right, rgba(83, 86, 100, 1) 1%,rgba(139, 147, 155, 1) 51%,rgba(54, 59, 65, 1) 99%);	
+	border:none;
+	color:white;
+	font-size:10px;
+}
+
+div.label.min:before{
+	*content:'MIN';
+}
+
+div.label.max:before{
+	content:'MAX';
+}
+
+div.label.val:before{
+	content:'VAL';
+}
+
+div.label.min{
+	position: absolute;
+	left: 0px;
+	top: -5px;
+	width: 35px;
+	overflow: hidden;	
+}
+
+div.label:before{
+	font-size: 9px;
+	font-family: sans-serif;
+}

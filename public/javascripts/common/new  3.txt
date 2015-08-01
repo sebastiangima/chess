@@ -1,0 +1,120 @@
+
+<html>
+	<head>
+		<script>
+			var newguid = 1; // para serializar objetos
+//function b() {console.log(arguments.length); for (var i=0; i<arguments.length; ++i) console.log(i+': '+arguments[i])}
+//function a(){ b.apply('undefined',Array.prototype.slice.call(arguments,0).concat('llamado desde a'))}
+		
+			// Figura: clase base 
+			function Figura() {
+				var args = argumrns[0] || {};
+				this.name = args[0].name || 'FIGURA';
+				this.data = args[0].data || {};
+				this.element = args[0].element || document.createElement('DIV');
+				this.GUID = args[0].GUID || newguid++;
+				this.scale = args[0].scale || [1,1,1];
+				if (this.scale instanceof Number) {
+					this.scale=[this.scale,this.scale,this.scale];
+				}
+				this.position = args[0].position || {x:0, y:0, z:0};
+				this.vertexs = args[0].vertexs || [];
+			}
+			
+			// superclass method
+			Figura.prototype.moveTo_ = function moveTo_() {
+				
+					if (typeof(arguments[1]) != 'undefined' && ) {
+						v.push('TranslateY(arguments[1]+px)')
+					}
+					if (arguments[2]) {
+						v.push('TranslateZ(arguments[2]+px)')
+					}
+					this.element.style.top = this.position.y+'px';
+					this.element.style.left = this.position.x+'px';
+					this.element.style.left = x+'px';
+
+			}
+			
+			function out() {
+				if (arguments[0] && arguments[0] instanceof Array) {
+					var level = arguments[0][0] || 999999999;
+					if (GLOBAL_LOGOUT_LEVEL>=level) {
+						var context = arguments[0][1] || 'contexto no definido';
+						var descripcion = arguments[0][2] || 'sin descripcion';
+						var parametros = arguments[
+					}
+				}
+			}
+				Figura.prototype.moveTo = function moveTo() {
+				if (arguments.length) {
+					if (arguments.length>1) {
+						// var v = ['x','y','z']
+						// var max = arguments.length;
+						// if (max>3) {
+							// max=3; 
+							// Array.prototype.slice.call(arguments,0)
+							// out([WARNING,'Figura.moveTo','demasiados argumentos, solo coordenadas 3D se soportan'],arguments)
+						// }
+						// for (var i=0; i<arguments.length;  ++i) {
+							// if (typeof(arguments[i])=='undefined' || isNaN(arguments[i])) {
+								// this.position[v[i]] = 0;
+								// console.log('WARNING Figura.moveTo, el valor para la coordenada ['+v[i]+'='+arguments[i]+']: no es un número.')
+							// }
+							// else
+								// this.position[v[i]] = arguments[i];
+						// }
+						
+					}
+					else if (arguments[0] instanceof Array) {
+					}
+					else {
+						if (arguments[0].top && arguments[0].left) {
+						}
+					}
+					
+				}
+				// else if (arg
+				
+					// this.topLeft = [y,x];
+					// console.info("Shape moved.");
+			};
+
+			// Rectangulo - subclass
+			function Rectangulo() {
+				var args = arguments[0] || {};
+				args.name = 'Rectangulo';
+				args.scale = args.scale || 100;
+				args.vertexs = args.vertexs || [[0,0,0],[0,1,0],[1,1,0],[1,0,0]]
+				Figura.call(this,args); // call super constructor.
+				this.element.style.border = 'solid 1px black';
+			}
+
+			// subclass extends superclass
+			Rectangulo.prototype = Object.create(Figura.prototype);
+			Rectangulo.prototype.constructor = Rectangulo;
+			Rectangulo.prototype.draw = function draw() {
+				var top = this.vertexs[0][1];
+				var left = this.vertexs[0][0];
+				var width = Math.abs(this.vertexs[2][0]-left);
+				var height = Math.abs(this.vertexs[2][1]-top);
+				this.element.style.top = top*this.scale[1]+'px';
+				this.element.style.left = left*this.scale[0]+'px';
+				this.element.style.height = height*this.scale[1]+'px';
+				this.element.style.width = width*this.scale[0]+'px';
+				this.element.style.position = 'absolute';
+				if (!this.element.parentNode)
+					document.body.appendChild(this.element);
+			}
+			var vars = {
+				figuras=[];
+			}
+			function onLoad(){
+				vars.figuras.push(new Rectangulo());
+				vars.figuras[0].draw();
+			}
+		</script>
+	</head>
+	<body onload="onLoad()">
+	</body>
+</html>

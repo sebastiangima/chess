@@ -1,0 +1,57 @@
+<html>
+<head>
+<style>
+div.row:odd > div.col{
+  background-color:blue;
+}
+div.row {
+  clear:both;
+}
+div.col {
+  float:left;
+  height:50px;
+  width:50px;
+  border:solid 1px black;
+  border-collapse:collapse;
+}
+div.col[color="0"] {
+  background-color:white;
+}
+
+div.col[color="1"] {
+  background-color:black;
+}
+</style>
+<script>
+function onLoad(){
+  var d = document.createElement('div'),
+      dr,
+      dc,
+      cr=0,
+      cc;
+  document.body.appendChild(d);
+  d.className = 'container';
+  
+  for (var i=0; i<8; ++i) {
+    dr =  document.createElement('div');
+    dr.setAttribute('row',i);
+    d.appendChild(dr);
+    cc = cr
+    dr.className = 'row';
+    for (var j=0; j<8; ++j) {
+        dc =  document.createElement('div');
+        dc.setAttribute('col',j);
+        dc.className = 'col';
+        dr.appendChild(dc);
+        dc.setAttribute('color',cc);
+        cc = 1-cc;
+        
+    }    
+    cr = 1-cr;
+  }
+}
+</script>
+</head>
+<body onload="onLoad()">
+</body>
+</html>
