@@ -42,7 +42,7 @@ app.get("/jugadores", function(req,res){
 });
 
 
-server.listen(3000,'0.0.0.0');
+server.listen(8080,'0.0.0.0');
 
 //objecto para guardar en la sesión del socket a los que se vayan conectando
 
