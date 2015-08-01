@@ -122,10 +122,10 @@ var SampleApp = function() {
             res.send("<html><body><img src='" + link + "'></body></html>");
         };
 
-        self.routes['/'] = function(req, res) {
-            res.setHeader('Content-Type', 'text/html');
-            res.send(self.cache_get('index.html') );
-        };
+        // self.routes['/'] = function(req, res) {
+            // res.setHeader('Content-Type', 'text/html');
+            // res.send(self.cache_get('index.html') );
+        // };
     };
 
 		self.initializeSocket = function() {
@@ -137,10 +137,10 @@ var SampleApp = function() {
      *  the handlers.
      */
     self.initializeServer = function() {
-        self.createRoutes();
+
         self.app = express();
 				self.server=http.createServer(app,"0,0,0,0");
-
+        self.createRoutes();
         //  Add handlers for the app (from the routes).
         for (var r in self.routes) {
             self.app.get(r, self.routes[r]);
@@ -192,7 +192,7 @@ console.log('ready')
 }
 
 
-var io = require("socket.io").listen(server);
+var io = require("socket.io").listen(zapp.server);
 onready()
 //al conectar un usuario||socket, este evento viene predefinido por socketio
 io.sockets.on('connection', function(socket) 
