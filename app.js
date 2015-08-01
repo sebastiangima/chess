@@ -196,8 +196,8 @@ onready()
 //al conectar un usuario||socket, este evento viene predefinido por socketio
 io.sockets.on('connection', function(socket) 
 {
-	//cuando el usuario conecta al chat comprobamos si est· logueado
-	//el par·metro es la sesiÛn login almacenada con sessionStorage
+	//cuando el usuario conecta al chat comprobamos si est√° logueado
+	//el par√°metro es la sesi√≥n login almacenada con sessionStorage
 	socket.on("loginUser", function(username)	{
 		//si existe el nombre de usuario en el chat
 		if(usuariosOnline[username])
@@ -205,12 +205,12 @@ io.sockets.on('connection', function(socket)
 			socket.emit("userInUse");
 			return;
 		}
-		//Guardamos el nombre de usuario en la sesiÛn del socket para este cliente
+		//Guardamos el nombre de usuario en la sesi√≥n del socket para este cliente
 		socket.username = username;
 		if(username=='serveruser') {
 			return;
 		}
-		//aÒadimos al usuario a la lista global donde almacenamos usuarios
+		//a√±adimos al usuario a la lista global donde almacenamos usuarios
 		usuariosOnline[username] = socket.username;
 		//mostramos al cliente como que se ha conectado
 		socket.emit("refreshChat", "yo", "Bienvenido " + socket.username + ", te has conectado correctamente.");
@@ -227,11 +227,11 @@ io.sockets.on('connection', function(socket)
 		
 	});
 
-	//cuando un usuario envia un nuevo mensaje, el par·metro es el 
+	//cuando un usuario envia un nuevo mensaje, el par√°metro es el 
 	//mensaje que ha escrito en la caja de texto
 	socket.on('addNewMessage', function(message) 	{
-		//pasamos un par·metro, que es el mensaje que ha escrito en el chat, 
-		//Èsto lo hacemos cuando el usuario pulsa el botÛn de enviar un nuevo mensaje al chat
+		//pasamos un par√°metro, que es el mensaje que ha escrito en el chat, 
+		//√©sto lo hacemos cuando el usuario pulsa el bot√≥n de enviar un nuevo mensaje al chat
 
 		//con socket.emit, el mensaje es para mi
 		socket.emit("refreshChat", "msg", "Yo : " + message + ".");
@@ -343,8 +343,8 @@ io.sockets.on('connection', function(socket)
 	
 	socket.on("disconnect", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
-		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
+		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
+		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -357,15 +357,15 @@ io.sockets.on('connection', function(socket)
 		delete usuariosOnline[socket.username];
 		//actualizamos la lista de usuarios en el chat, zona cliente
 		io.sockets.emit("updateSidebarUsers", usuariosOnline);
-		//emitimos el mensaje global a todos los que est·n conectados con broadcasts
+		//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
 		socket.broadcast.emit("refreshChat", "desconectado", "El usuario " + socket.username + " se ha desconectado del chat.");
 	});
 
 	//cuando el usuario cierra o actualiza el navegador
 	socket.on("unirse", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
-		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
+		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
+		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -378,15 +378,15 @@ io.sockets.on('connection', function(socket)
 			
 			//actualizamos la lista de usuarios en el chat, zona cliente
 			io.sockets.emit("updateUsers", [socket.username, 'blancas']);
-			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
 			socket.broadcast.emit("refreshChat", "unirse", unidos);
 		}
 	});
 	//cuando el usuario cierra o actualiza el navegador
 	socket.on("unirseN", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
-		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
+		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
+		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -398,7 +398,7 @@ io.sockets.on('connection', function(socket)
 			unidos[socket.username] = 'negras'
 			//actualizamos la lista de usuarios en el chat, zona cliente
 			io.sockets.emit("updateUsers", [socket.username, 'negras']);
-			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
 
 			socket.broadcast.emit("refreshChat", "unirse", unidos);
 		}
@@ -406,15 +406,15 @@ io.sockets.on('connection', function(socket)
 		
 	socket.on("comenzar", function(roomid)	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
-		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
+		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
+		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
 		// if(typeof(socket.username) == "undefined")
 		// {
 			// return;
 		// }
 		//en otro caso, eliminamos al usuario
 			//actualizamos la lista de usuarios en el chat, zona cliente
-			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
 
 		//	io.sockets.emit("startGame", roomid);
 
