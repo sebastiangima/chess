@@ -1,14 +1,38 @@
 
 {
   "name": "app",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app.js"
+  "version": "1.0.0",
+  "description": "Chess on line",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "application",
+    "openshift"
+  ],
+  "author": {
+    "name": "SebastianGima",
+    "email": "sebastiangima@gmail.com",
+    "url": "http://www.openshift.com/"
   },
+  "homepage": "http://chess-sebastiangima/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastiangima/chess"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
   "dependencies": {
-    "express": "3.4.3",
-    "jade": "*",
+    "express": "~3.4.4"
+		  "jade": "*",
     "socket.io": "~0.9.16"
-  }
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "app.js"
 }

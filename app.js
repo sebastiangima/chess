@@ -1,51 +1,189 @@
-var express = require("express"), 
-http = require("http"),
-app = express(),
-server = http.createServer(app,'0.0.0.0'),
-path = require('path'),
- fs = require('fs');
+#!/bin/env node
+//  OpenShift sample Node application
+var express = require('express');
+var fs      = require('fs');
+var http = require("http"),
+var path = require('path'),
 
-
+var usuariosOnline = {},
 unidos = {},
 rooms={};
+/**
+ *  Define the sample application.
+ */
+var SampleApp = function() {
 
-app.use(express.static(path.join(__dirname, 'public')));
-
-app.set("views",__dirname + "/views");
-app.configure(function(){
-	app.use(express.static(__dirname));
-});
-
-app.get("/save", function(req,res){
-	console.log(req);
-	res.render("index2.jade", {title : "Server functions"});
-});
-app.get("/", function(req,res){
-	
-	res.render("index.jade", {title : "Chat con NodeJS, Express, Socket.IO y jQuery"});
-});
-var usuariosOnline = {};
+    //  Scope.
+    var self = this;
 
 
-app.get("/jugadores", function(req,res){
-	var result=''
-  for (var i in unidos) {
-    if (result) result+=',';
-    result += unidos[i]+','+i
-  }
-  
-  var body = JSON.stringify(unidos);
-  res.writeHead(200, {'Content-Type': 'text/html'});
-  res.end(body);  
+    /*  ================================================================  */
+    /*  Helper functions.                                                 */
+    /*  ================================================================  */
 
-  
-});
+    /**
+     *  Set up server IP address and port # using env variables/defaults.
+     */
+    self.setupVariables = function() {
+        //  Set the environment variables we need.
+        self.ipaddress = process.env.OPENSHIFT_NODEJS_IP;
+        self.port      = process.env.OPENSHIFT_NODEJS_PORT || 8080;
+
+        if (typeof self.ipaddress === "undefined") {
+            //  Log errors on OpenShift but continue w/ 127.0.0.1 - this
+            //  allows us to run/test the app locally.
+            console.warn('No OPENSHIFT_NODEJS_IP var, using 127.0.0.1');
+            self.ipaddress = "127.0.0.1";
+        };
+    };
 
 
-server.listen(16543,'0.0.0.0');
+    /**
+     *  Populate the cache.
+     */
+    self.populateCache = function() {
+        if (typeof self.zcache === "undefined") {
+            self.zcache = { 'index.html': '' };
+        }
 
-//objecto para guardar en la sesi√≥n del socket a los que se vayan conectando
+        //  Local cache for static content.
+        self.zcache['index.html'] = fs.readFileSync('./index.html');
+    };
 
+
+    /**
+     *  Retrieve entry (content) from cache.
+     *  @param {string} key  Key identifying content to retrieve from cache.
+     */
+    self.cache_get = function(key) { return self.zcache[key]; };
+
+
+    /**
+     *  terminator === the termination handler
+     *  Terminate server on receipt of the specified signal.
+     *  @param {string} sig  Signal to terminate on.
+     */
+    self.terminator = function(sig){
+        if (typeof sig === "string") {
+           console.log('%s: Received %s - terminating sample app ...',
+                       Date(Date.now()), sig);
+           process.exit(1);
+        }
+        console.log('%s: Node server stopped.', Date(Date.now()) );
+    };
+
+
+    /**
+     *  Setup termination handlers (for exit and a list of signals).
+     */
+    self.setupTerminationHandlers = function(){
+        //  Process on exit and signals.
+        process.on('exit', function() { self.terminator(); });
+
+        // Removed 'SIGPIPE' from the list - bugz 852598.
+        ['SIGHUP', 'SIGINT', 'SIGQUIT', 'SIGILL', 'SIGTRAP', 'SIGABRT',
+         'SIGBUS', 'SIGFPE', 'SIGUSR1', 'SIGSEGV', 'SIGUSR2', 'SIGTERM'
+        ].forEach(function(element, index, array) {
+            process.on(element, function() { self.terminator(element); });
+        });
+    };
+
+
+    /*  ================================================================  */
+    /*  App server functions (main app logic here).                       */
+    /*  ================================================================  */
+
+    /**
+     *  Create the routing table entries + handlers for the application.
+     */
+    self.createRoutes = function() {
+        self.routes = { };
+				
+				
+				self.app.use(express.static(path.join(__dirname, 'public')));
+
+				self.app.set("views",__dirname + "/views");
+				self.app.configure(function(){
+					self.app.use(express.static(__dirname));
+				});
+
+				self.routes['/save'], function(req,res){
+					console.log(req);
+					res.render("index2.jade", {title : "Server functions"});
+				};
+				self.routes['/']= function(req,res){
+					res.render("index.jade", {title : "Chat con NodeJS, Express, Socket.IO y jQuery"});
+				};
+
+
+        self.routes['/asciimo'] = function(req, res) {
+            var link = "http://i.imgur.com/kmbjB.png";
+            res.send("<html><body><img src='" + link + "'></body></html>");
+        };
+
+        self.routes['/'] = function(req, res) {
+            res.setHeader('Content-Type', 'text/html');
+            res.send(self.cache_get('index.html') );
+        };
+    };
+
+		self.initializeSocket = function() {
+			
+		}
+
+    /**
+     *  Initialize the server (express) and create the routes and register
+     *  the handlers.
+     */
+    self.initializeServer = function() {
+        self.createRoutes();
+        self.app = express();
+				self.server=http.createServer(app,"0,0,0,0");
+
+        //  Add handlers for the app (from the routes).
+        for (var r in self.routes) {
+            self.app.get(r, self.routes[r]);
+        }
+    };
+
+
+    /**
+     *  Initializes the sample application.
+     */
+    self.initialize = function() {
+        self.setupVariables();
+        self.populateCache();
+        self.setupTerminationHandlers();
+
+        // Create the express server and routes.
+        self.initializeServer();
+        self.initializeSocket();
+    };
+
+
+    /**
+     *  Start the server (starts up the sample application).
+     */
+    self.start = function() {
+        //  Start the app on the specific interface (and port).
+        // self.app.listen(self.port, self.ipaddress, function() {
+        self.server.listen(self.port, self.ipaddress, function() {
+            console.log('%s: Node server started on %s:%d ...',
+                        Date(Date.now() ), self.ipaddress, self.port);
+        });
+    };
+
+		return this;
+};   /*  Sample Application.  */
+
+
+
+/**
+ *  main():  Main code.
+ */
+var zapp = new SampleApp();
+zapp.initialize();
+zapp.start();
 
 function onready(){
 console.log('ready')
@@ -58,8 +196,8 @@ onready()
 //al conectar un usuario||socket, este evento viene predefinido por socketio
 io.sockets.on('connection', function(socket) 
 {
-	//cuando el usuario conecta al chat comprobamos si est√° logueado
-	//el par√°metro es la sesi√≥n login almacenada con sessionStorage
+	//cuando el usuario conecta al chat comprobamos si est· logueado
+	//el par·metro es la sesiÛn login almacenada con sessionStorage
 	socket.on("loginUser", function(username)	{
 		//si existe el nombre de usuario en el chat
 		if(usuariosOnline[username])
@@ -67,12 +205,12 @@ io.sockets.on('connection', function(socket)
 			socket.emit("userInUse");
 			return;
 		}
-		//Guardamos el nombre de usuario en la sesi√≥n del socket para este cliente
+		//Guardamos el nombre de usuario en la sesiÛn del socket para este cliente
 		socket.username = username;
 		if(username=='serveruser') {
 			return;
 		}
-		//a√±adimos al usuario a la lista global donde almacenamos usuarios
+		//aÒadimos al usuario a la lista global donde almacenamos usuarios
 		usuariosOnline[username] = socket.username;
 		//mostramos al cliente como que se ha conectado
 		socket.emit("refreshChat", "yo", "Bienvenido " + socket.username + ", te has conectado correctamente.");
@@ -89,11 +227,11 @@ io.sockets.on('connection', function(socket)
 		
 	});
 
-	//cuando un usuario envia un nuevo mensaje, el par√°metro es el 
+	//cuando un usuario envia un nuevo mensaje, el par·metro es el 
 	//mensaje que ha escrito en la caja de texto
 	socket.on('addNewMessage', function(message) 	{
-		//pasamos un par√°metro, que es el mensaje que ha escrito en el chat, 
-		//√©sto lo hacemos cuando el usuario pulsa el bot√≥n de enviar un nuevo mensaje al chat
+		//pasamos un par·metro, que es el mensaje que ha escrito en el chat, 
+		//Èsto lo hacemos cuando el usuario pulsa el botÛn de enviar un nuevo mensaje al chat
 
 		//con socket.emit, el mensaje es para mi
 		socket.emit("refreshChat", "msg", "Yo : " + message + ".");
@@ -205,8 +343,8 @@ io.sockets.on('connection', function(socket)
 	
 	socket.on("disconnect", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
-		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
+		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
+		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -219,15 +357,15 @@ io.sockets.on('connection', function(socket)
 		delete usuariosOnline[socket.username];
 		//actualizamos la lista de usuarios en el chat, zona cliente
 		io.sockets.emit("updateSidebarUsers", usuariosOnline);
-		//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
+		//emitimos el mensaje global a todos los que est·n conectados con broadcasts
 		socket.broadcast.emit("refreshChat", "desconectado", "El usuario " + socket.username + " se ha desconectado del chat.");
 	});
 
 	//cuando el usuario cierra o actualiza el navegador
 	socket.on("unirse", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
-		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
+		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
+		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -240,15 +378,15 @@ io.sockets.on('connection', function(socket)
 			
 			//actualizamos la lista de usuarios en el chat, zona cliente
 			io.sockets.emit("updateUsers", [socket.username, 'blancas']);
-			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
 			socket.broadcast.emit("refreshChat", "unirse", unidos);
 		}
 	});
 	//cuando el usuario cierra o actualiza el navegador
 	socket.on("unirseN", function()	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
-		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
+		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
+		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
 		if(typeof(socket.username) == "undefined")
 		{
 			return;
@@ -260,7 +398,7 @@ io.sockets.on('connection', function(socket)
 			unidos[socket.username] = 'negras'
 			//actualizamos la lista de usuarios en el chat, zona cliente
 			io.sockets.emit("updateUsers", [socket.username, 'negras']);
-			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
 
 			socket.broadcast.emit("refreshChat", "unirse", unidos);
 		}
@@ -268,15 +406,15 @@ io.sockets.on('connection', function(socket)
 		
 	socket.on("comenzar", function(roomid)	{
 		//si el usuario, por ejemplo, sin estar logueado refresca la
-		//p√°gina, el typeof del socket username es undefined, y el mensaje ser√≠a 
-		//El usuario undefined se ha desconectado del chat, con √©sto lo evitamos
+		//p·gina, el typeof del socket username es undefined, y el mensaje serÌa 
+		//El usuario undefined se ha desconectado del chat, con Èsto lo evitamos
 		// if(typeof(socket.username) == "undefined")
 		// {
 			// return;
 		// }
 		//en otro caso, eliminamos al usuario
 			//actualizamos la lista de usuarios en el chat, zona cliente
-			//emitimos el mensaje global a todos los que est√°n conectados con broadcasts
+			//emitimos el mensaje global a todos los que est·n conectados con broadcasts
 
 		//	io.sockets.emit("startGame", roomid);
 
