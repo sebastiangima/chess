@@ -2,8 +2,8 @@
 //  OpenShift sample Node application
 var express = require('express');
 var fs      = require('fs');
-var http = require("http"),
-var path = require('path'),
+var http = require("http");
+var path = require('path');
 
 var usuariosOnline = {},
 unidos = {},
@@ -27,8 +27,8 @@ var SampleApp = function() {
     self.setupVariables = function() {
         //  Set the environment variables we need.
         self.ipaddress = process.env.OPENSHIFT_NODEJS_IP;
-//        self.port      = process.env.OPENSHIFT_NODEJS_PORT || 8443;
-        self.port      = 8443;
+        self.port      = process.env.OPENSHIFT_NODEJS_PORT || 8443;
+   //     self.port      = 8443;
 
         if (typeof self.ipaddress === "undefined") {
             //  Log errors on OpenShift but continue w/ 127.0.0.1 - this
@@ -108,7 +108,7 @@ var SampleApp = function() {
 					self.app.use(express.static(__dirname));
 				});
 
-				self.routes['/save'], function(req,res){
+				self.routes['/save']= function(req,res){
 					console.log(req);
 					res.render("index2.jade", {title : "Server functions"});
 				};
@@ -139,7 +139,7 @@ var SampleApp = function() {
     self.initializeServer = function() {
 
         self.app = express();
-				self.server=http.createServer(app,"0,0,0,0");
+				self.server=http.createServer(self.app);
         self.createRoutes();
         //  Add handlers for the app (from the routes).
         for (var r in self.routes) {
@@ -153,7 +153,7 @@ var SampleApp = function() {
      */
     self.initialize = function() {
         self.setupVariables();
-        self.populateCache();
+        // self.populateCache();
         self.setupTerminationHandlers();
 
         // Create the express server and routes.
@@ -184,6 +184,7 @@ var SampleApp = function() {
  */
 var zapp = new SampleApp();
 zapp.initialize();
+var io = require("socket.io").listen(zapp.server);
 zapp.start();
 
 function onready(){
@@ -192,7 +193,7 @@ console.log('ready')
 }
 
 
-var io = require("socket.io").listen(zapp.server);
+
 onready()
 //al conectar un usuario||socket, este evento viene predefinido por socketio
 io.sockets.on('connection', function(socket) 

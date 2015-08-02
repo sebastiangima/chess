@@ -14,7 +14,7 @@
     "email": "sebastiangima@gmail.com",
     "url": "http://www.openshift.com/"
   },
-  "homepage": "http://chess-sebastiangima/",
+  "homepage": "http://chess-sebastiangima.rhcloud.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/sebastiangima/chess"

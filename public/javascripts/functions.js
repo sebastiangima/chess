@@ -1,5 +1,5 @@
 
-
+var socket = io.connect('https://chess-sebastiangima.rhcloud.com:8443/', {'forceNew':true });
 var socket = io.connect(document.location);
 //al actualizar la página eliminamos la sesión del usuario de sessionStorage
 $(document).ready(function() {
