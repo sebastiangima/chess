@@ -513,7 +513,7 @@ var domHelper = (function(){
 					case 'onclick':
 					case 'oncontextmenu':
 					case 'ondblclick':
-					case 'ontouchstart':
+					//case 'ontouchstart':
 					case 'ondrag':
 					case 'onfocus':
 					case 'onkeydown':
