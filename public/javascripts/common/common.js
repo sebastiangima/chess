@@ -73,10 +73,32 @@ function sgCreateNode(tagName, properties){
 	return domHelper.mapToElement(d,properties);
 	for (var i in properties) {
 		switch (i) {
+			case 'onmousedown':
+							d.addEventListener('touchmove', function (e) {
+			    // stop touch event
+			    e.stopPropagation();
+			    e.preventDefault();
+
+			    // translate to mouse event
+			    var clkEvt = document.createEvent('MouseEvent');
+			    clkEvt.initMouseEvent('mousedown', true, true, window, e.detail, 
+			                 e.touches[0].screenX, e.touches[0].screenY, 
+			                 e.touches[0].clientX, e.touches[0].clientY, 
+			                 false, false, false, false, 
+			                 0, null);
+			    mydiv.dispatchEvent(clkEvt);
+
+			    // or just handle touch event
+			    myMoveHandler(e);
+			}, false);
 			case 'onclick':
 			case 'onmouseup':
-			case 'onmousedown':
+			
+
 				d.onmousedown = properties[i];
+			break;
+			case 'ontouchstart':
+				d.ontouchstart = properties[i];
 			break;
 			case 'className':
 				properties[i]=properties[i].replace(/undefined/g,'').trim();

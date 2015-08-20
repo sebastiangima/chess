@@ -1106,6 +1106,8 @@ table.table-room td{
 table.table-room td:nth-child(2) {
 	width:100%;
 }
+
+@media only screen and (max-width: 400px) {    .table-grande {    max-width:300px;}}
 table.table-room td:first-child {
 	z-index:5;
   width:430px;

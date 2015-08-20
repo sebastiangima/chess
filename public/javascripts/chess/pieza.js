@@ -424,6 +424,8 @@ Pieza.prototype.init = function init(eargs,oargs){
 		
 		
   }
+  eargs.ontouchstart=function(){
+  	alert('touch')}
 	// this.element.children[0].onmousedown = function() {
 		// if (arguments[0].button!=2)
 			// return this_.mouseDown(arguments[0],this.parentNode);

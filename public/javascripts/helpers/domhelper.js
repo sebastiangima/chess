@@ -357,6 +357,69 @@ var domHelper = (function(){
 	}
 	
 	DomHelper.prototype.mapMethodToElement=function mapMethodToElement(e,mn,mv){
+		switch(mn){
+			case "onmousedown":
+				e.addEventListener('touchstart', function (ee) {
+				    // stop touch event
+				    ee.stopPropagation();
+				    ee.preventDefault();
+
+				    // translate to mouse event
+				    var clkEvt = document.createEvent('MouseEvent');
+				    clkEvt.initMouseEvent('mousedown', true, true, window, ee.detail, 
+				                 ee.touches[0].screenX, ee.touches[0].screenY, 
+				                 ee.touches[0].clientX, ee.touches[0].clientY, 
+				                 false, false, false, false, 
+				                 0, null);
+				    e.dispatchEvent(clkEvt);
+
+				    // or just handle touch event
+			    //myMoveHandler(e);
+				}, false);
+
+			break;
+						case "onmouseup":
+				e.addEventListener('touchend', function (ee) {
+				    // stop touch event
+				    ee.stopPropagation();
+				    ee.preventDefault();
+
+				    // translate to mouse event
+				    var clkEvt = document.createEvent('MouseEvent');
+				    clkEvt.initMouseEvent('mouseup', true, true, window, ee.detail, 
+				                 ee.touches[0].screenX, ee.touches[0].screenY, 
+				                 ee.touches[0].clientX, ee.touches[0].clientY, 
+				                 false, false, false, false, 
+				                 0, null);
+				    e.dispatchEvent(clkEvt);
+
+				    // or just handle touch event
+			    //myMoveHandler(e);
+				}, false);
+
+			break;
+						case "onmousemove":
+				e.addEventListener('touchsmove', function (ee) {
+				    // stop touch event
+				    ee.stopPropagation();
+				    ee.preventDefault();
+
+				    // translate to mouse event
+				    var clkEvt = document.createEvent('MouseEvent');
+				    clkEvt.initMouseEvent('mousemove', true, true, window, ee.detail, 
+				                 ee.touches[0].screenX, ee.touches[0].screenY, 
+				                 ee.touches[0].clientX, ee.touches[0].clientY, 
+				                 false, false, false, false, 
+				                 0, null);
+				    e.dispatchEvent(clkEvt);
+
+				    // or just handle touch event
+			    //myMoveHandler(e);
+				}, false);
+
+			break;
+
+		}
 		e[mn]=function() {
 			if (domHelper.captureEvents[arguments[0].type]) {
 				var o = this;
@@ -450,6 +513,7 @@ var domHelper = (function(){
 					case 'onclick':
 					case 'oncontextmenu':
 					case 'ondblclick':
+					case 'ontouchstart':
 					case 'ondrag':
 					case 'onfocus':
 					case 'onkeydown':

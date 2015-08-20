@@ -5,7 +5,7 @@ var aperturas = (function(){
 		this.apertura.moveJugada(n);
 	}
 	Aperturas.prototype.keyDown = function keyDown(e,o) {
-		alert(e.keyCode)
+		
 		switch(e.keyCode) {
 			case 37:
 			case 39:
