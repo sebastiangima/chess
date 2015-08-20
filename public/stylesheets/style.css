@@ -1107,7 +1107,24 @@ table.table-room td:nth-child(2) {
 	width:100%;
 }
 
-@media only screen and (max-width: 400px) {    .table-grande {    max-width:300px;}}
+@media only screen and (max-width: 400px) {    
+	.table-grande {    max-width:300px;}}
+
+@media (max-width:800px) {
+ 
+  table.table-room{
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+    	position: fixed;
+    	top:50px;
+    	left:50px;
+  }
+  td.table-tablero+td{
+  	display: none;
+  }
+
+}
+
 table.table-room td:first-child {
 	z-index:5;
   width:430px;

@@ -36,6 +36,7 @@ var rooms = (function(){
 				}
 		})(o,callback,params)
 		this.waitForGlobalRoom(handler);
+		alert(document.body.clientWidth)
 	}
 	
 	Rooms.prototype.onSolicitudAnular1 = function onSolicitudAnular1(r,c,u){	

@@ -71,65 +71,7 @@ function sgCreateNode(tagName, properties){
 	var d = document.createElement(tagName);
 	
 	return domHelper.mapToElement(d,properties);
-	for (var i in properties) {
-		switch (i) {
-			case 'onmousedown':
-							d.addEventListener('touchmove', function (e) {
-			    // stop touch event
-			    e.stopPropagation();
-			    e.preventDefault();
-
-			    // translate to mouse event
-			    var clkEvt = document.createEvent('MouseEvent');
-			    clkEvt.initMouseEvent('mousedown', true, true, window, e.detail, 
-			                 e.touches[0].screenX, e.touches[0].screenY, 
-			                 e.touches[0].clientX, e.touches[0].clientY, 
-			                 false, false, false, false, 
-			                 0, null);
-			    mydiv.dispatchEvent(clkEvt);
-
-			    // or just handle touch event
-			    myMoveHandler(e);
-			}, false);
-			case 'onclick':
-			case 'onmouseup':
-			
-
-				d.onmousedown = properties[i];
-			break;
-			case 'ontouchstart':
-				d.ontouchstart = properties[i];
-			break;
-			case 'className':
-				properties[i]=properties[i].replace(/undefined/g,'').trim();
-			case 'innerHTML':
-			case 'name':
-			case 'id':
-				d[i] = properties[i];
-			break;
-			case 'parentNode':
-				properties[i].appendChild(d);
-			break;
-			case 'pcolor':
-			case 'fila':
-			case 'orientacion':
-			case 'columna':
-			case 'state':
-				d.setAttribute(i,properties[i]);
-			break;
-			case 'display': 
-			case 'top': 
-			case 'left':
-				d.style[i]=properties[i];
-			break;
-			case 'src':
-				var img = sgCreateNode('IMG',{parentNode:d});
-				img.src = properties[i];
-			
-			break;
-		}
-	}
-	return d;
+	
 }
 
 
