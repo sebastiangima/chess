@@ -355,66 +355,9 @@ var domHelper = (function(){
 			return r[s[0]];
 		return r;
 	}
-	DomHelper.prototype.buildMobileEvent=function buildMobileEvent(e,mn,mv){
-		var mmn="",		// nombre dem metodo para mobies
-			nmn="";		// nombre normalizado para resgistrarse en el evento
-		switch(mn) {
-			case 'onmousedown': mmn='touchstart'; nmn='mousedown'; break;
-			case 'onmousemove': mmn='touchmove';  nmn='mousemove';break;
-			case 'onmouseup': mmn='touchend';  nmn='mouseup';break;
-			case 'touchhoverin': mmn='touchstart';  nmn='mousedown';break;
-			case 'touchhoverout': mmn='touchend'; nmn='mouseup'; break;
-		}
-		var mobileScope = function(e,mn,mv,mmn, nmn){
-			e.addEventListener(mmn,function(ee) {
-				ee.stopPropagation();
-			    ee.preventDefault();
-			  var touchObj;
-			   if(!ee.touches || !ee.touches.length) {
-
-				   touchObj=ee.changedTouches[0]
-			    }
-			    else {
-
-			     touchObj=ee.touches[0]
-			    }
-			  /*  switch (mn) {
-			    	case "touchhoverin":
-			    	break;
-			    	case "touchhoverout":
-			    	break;
-			    	default:
-*/
-				 		var clkEvt = document.createEvent('MouseEvent');
-					    clkEvt.initMouseEvent(nmn, true, true, window, ee.detail, 
-							                 touchObj.screenX, touchObj.screenY, 
-					                 		 touchObj.clientX, touchObj.clientY, 
-							                 false, false, false, false, 
-							                 0, null);
-					    e.dispatchEvent(clkEvt);
-				//	break;
-				//}
-
-	    	},false)
-		}
-		mobileScope(e,mn,mv,mmn,nmn)
-		
-	}
-	
-	
 	
 	DomHelper.prototype.mapMethodToElement=function mapMethodToElement(e,mn,mv){
 		switch(mn){
-			case "onmousedown":
-			case "onmousemove":
-			case "onmouseup":
-			case "touchhoverin":
-			case "touchhoverout":
-			
-				this.buildMobileEvent(e,mn,mv)
-			break;
-		}
-/*		switch(mn){
 			case "onmousedown":
 				e.addEventListener('touchstart', function (ee) {
 				    // stop touch event
@@ -435,18 +378,17 @@ var domHelper = (function(){
 				}, false);
 
 			break;
-			case "onmouseup":
+						case "onmouseup":
 				e.addEventListener('touchend', function (ee) {
 				    // stop touch event
 				    ee.stopPropagation();
 				    ee.preventDefault();
 
-				    var touchObj=ee.changedTouches[0];
 				    // translate to mouse event
 				    var clkEvt = document.createEvent('MouseEvent');
 				    clkEvt.initMouseEvent('mouseup', true, true, window, ee.detail, 
-				                 touchObj.screenX, touchObj.screenY, 
-				                 touchObj.clientX, touchObj.clientY, 
+				                 ee.touches[0].screenX, ee.touches[0].screenY, 
+				                 ee.touches[0].clientX, ee.touches[0].clientY, 
 				                 false, false, false, false, 
 				                 0, null);
 				    e.dispatchEvent(clkEvt);
@@ -477,7 +419,7 @@ var domHelper = (function(){
 
 			break;
 
-		} */
+		}
 		e[mn]=function() {
 			if (domHelper.captureEvents[arguments[0].type]) {
 				var o = this;
