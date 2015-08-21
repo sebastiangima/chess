@@ -563,9 +563,18 @@
 	Chess.prototype.capturer = function capturer(pieza){
 		this.captured=pieza;
 		this.dcapturer.setAttribute('active','1');
-		this.dcapturer.onmouseup=function() {
-			return chess.chesses[this.activeChess].onCaptured(arguments[0],this);
-		}
+		
+		var args={
+
+	  		onmouseup:function() {
+				return chess.chesses[this.activeChess].onCaptured(arguments[0],this);
+			}
+	  	}
+
+  	domHelper.mapToElement(chess.dcapturer,args);
+//		this.dcapturer.onmouseup=function() {
+			//return chess.chesses[this.activeChess].onCaptured(arguments[0],this);
+		//}
 	}
 	
 	Chess.prototype.showRivalHorseAction_ = function showRivalHorseAction_(pieza,nc,v){

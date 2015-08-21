@@ -275,10 +275,10 @@ div.room[showMode="1"] {
 
 div.room-container{
 	position:fixed;
-	left:2%;
-	right:2%;
-	top:2%;
-	bottom:2%;
+	left:0%;
+	right:0%;
+	top:0%;
+	bottom:0%;
 }
 
 div.room {
@@ -424,7 +424,8 @@ span.NEGRAS {
 }
 
 /* PANEL DE SALAS*/
-div.rooms-container:hover{
+div.rooms-container:hover,
+div.rooms-container.forced-hover{
 	opacity:1;
 	*right:0px;
 	max-width:500px;
@@ -439,10 +440,10 @@ div.rooms-container{
 	width:500px;
 	background-color:black;
 	height:300px;
-	opacity:0.5;
+	opacity:0.25;
 	overflow:hidden;
 	transition:opacity 1s, max-width 1s;
-	z-index:1;
+	z-index:11!important;
 } 
 
 div.rooms-buttons>button{
@@ -1110,20 +1111,7 @@ table.table-room td:nth-child(2) {
 @media only screen and (max-width: 400px) {    
 	.table-grande {    max-width:300px;}}
 
-@media (max-width:800px) {
- 
-  table.table-room{
-    -webkit-transform:scale(0.5);
-    transform:scale(0.5);
-    	position: fixed;
-    	top:50px;
-    	left:50px;
-  }
-  td.table-tablero+td{
-  	display: none;
-  }
 
-}
 
 table.table-room td:first-child {
 	z-index:5;
@@ -1423,4 +1411,9 @@ div.tablerito-space{
 
   margin-right: -21.5%;
   margin-bottom: -30.5%;	
+}
+
+
+.forced-hover{
+	background-color:red!important;
 }

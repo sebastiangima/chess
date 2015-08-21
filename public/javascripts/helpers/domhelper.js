@@ -355,9 +355,66 @@ var domHelper = (function(){
 			return r[s[0]];
 		return r;
 	}
+	DomHelper.prototype.buildMobileEvent=function buildMobileEvent(e,mn,mv){
+		var mmn=""
+		switch(mn) {
+			case 'onmousedown': mmn='touchstart'; break;
+			case 'onmousemove': mmn='touchmove'; break;
+			case 'onmouseup': mmn='touchend'; break;
+			case 'touchhoverin': mmn='touchstart'; break;
+			case 'touchhoverout': mmn='touchend'; break;
+		}
+		(function(e,mn,mv,mmn){
+			e.addEventListener(mmn,function(ee) {
+				ee.stopPropagation();
+			    ee.preventDefault();
+			  var touchObj;
+			   if(!ee.touches || !ee.touches.length) {
+
+				   touchObj=ee.changedTouches[0]
+			    }
+			    else {
+
+			     touchObj=ee.touches[0]
+			    }
+			  /*  switch (mn) {
+			    	case "touchhoverin":
+			    	break;
+			    	case "touchhoverout":
+			    	break;
+			    	default:
+*/
+				 		var clkEvt = document.createEvent('MouseEvent');
+					    clkEvt.initMouseEvent(mn, true, true, window, ee.detail, 
+							                 ee.touches[0].screenX, ee.touches[0].screenY,  
+							                 touchObj.screenX, touchObj.screenY, 
+					                 		 touchObj.clientX, touchObj.clientY, 
+							                 ee.touches[0].clientX, ee.touches[0].clientY, 
+							                 false, false, false, false, 
+							                 0, null);
+					    e.dispatchEvent(clkEvt);
+				//	break;
+				//}
+
+	    	},false)
+		})(e,mn,mv,mmn)
+		
+	}
+	
+	
 	
 	DomHelper.prototype.mapMethodToElement=function mapMethodToElement(e,mn,mv){
 		switch(mn){
+			case "onmousedown":
+			case "onmousemove":
+			case "onmouseup":
+			case "touchhoverin":
+			case "touchhoverout":
+			
+				this.buildMobileEvent(e,mn,mv)
+			break;
+		}
+/*		switch(mn){
 			case "onmousedown":
 				e.addEventListener('touchstart', function (ee) {
 				    // stop touch event
@@ -378,17 +435,18 @@ var domHelper = (function(){
 				}, false);
 
 			break;
-						case "onmouseup":
+			case "onmouseup":
 				e.addEventListener('touchend', function (ee) {
 				    // stop touch event
 				    ee.stopPropagation();
 				    ee.preventDefault();
 
+				    var touchObj=ee.changedTouches[0];
 				    // translate to mouse event
 				    var clkEvt = document.createEvent('MouseEvent');
 				    clkEvt.initMouseEvent('mouseup', true, true, window, ee.detail, 
-				                 ee.touches[0].screenX, ee.touches[0].screenY, 
-				                 ee.touches[0].clientX, ee.touches[0].clientY, 
+				                 touchObj.screenX, touchObj.screenY, 
+				                 touchObj.clientX, touchObj.clientY, 
 				                 false, false, false, false, 
 				                 0, null);
 				    e.dispatchEvent(clkEvt);
@@ -419,7 +477,7 @@ var domHelper = (function(){
 
 			break;
 
-		}
+		} */
 		e[mn]=function() {
 			if (domHelper.captureEvents[arguments[0].type]) {
 				var o = this;

@@ -90,12 +90,25 @@ var flier = (function(){
 		d = document.createElement('div'),
 		d.className = 'flier-capturer';
 		document.body.appendChild(d);
-		d.onmouseup = function() {
+
+		var args={
+					onmouseup:function() {
+						return flier.mouseUp(arguments[0],this);
+					},
+				//	onmousemove:function() {
+				//		return flier.mouseMove(arguments[0],this);
+				//	}
+				}
+
+  		domHelper.mapToElement(d,args);
+
+/*		d.onmouseup = function() {
 			return flier.mouseUp(arguments[0],this);
 		}
 		d.onmousemove = function() {
 			return flier.mouseMove(arguments[0],this);
 		}
+*/
 		this.element = d;
 		this.listeners={
 			mousedown:[],

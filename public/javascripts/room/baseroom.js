@@ -78,13 +78,15 @@ IBaseRoom.prototype.anular1 = function anular1(e,o){
 IBaseRoom.prototype.endInit = function endInit() {
 	var d = this.getElement('PANEL_PLAYERS');
 	d.parentNode.appendChild(d.parentNode.removeChild(d))
-	var d = this.getElement('TABLERITOS');
-	d.parentNode.appendChild(d.parentNode.removeChild(d))
-	var this_=this;
-	setTimeout(function(){
-	for(var i=0; i<12; ++i)
-		this_.addTablerito()
-	},555)
+	var d = this.getElement('7TOS');
+	if (d) {
+		d.parentNode.appendChild(d.parentNode.removeChild(d))
+		var this_=this;
+	//setTimeout(function(){
+	//for(var i=0; i<12; ++i)
+	//	this_.addTablerito()
+	//},555)
+	}
 }
 
 IBaseRoom.prototype.onLeftPanel = function onLeftPanel(e,o){

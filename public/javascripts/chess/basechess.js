@@ -1037,10 +1037,18 @@ IBaseChess.prototype.capturer = function capturer(pieza){
 	chess.dcapturer.setAttribute('active','1');
 	chess.dcapturer.setAttribute('activeChess',this.chessid);
   
-	chess.dcapturer.onmouseup=function() {
-		return chess.onCaptured(arguments[0],this);
-	}
-}	
+  	var args={
+
+  		onmouseup:function() {
+			return chess.onCaptured(arguments[0],this);
+		}
+  	}
+
+  	domHelper.mapToElement(chess.dcapturer,args);
+	//chess.dcapturer.onmouseup=function() {
+	//	return chess.onCaptured(arguments[0],this);
+	//}
+}//	
 
 IBaseChess.prototype.invertir = function invertir(){
 	this.orientacion*=-1;

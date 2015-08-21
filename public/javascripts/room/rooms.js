@@ -176,15 +176,15 @@ var rooms = (function(){
 		
 	}
 	
-  Rooms.prototype.setChessId = function setChessId(roomid,chessid){
+  	Rooms.prototype.setChessId = function setChessId(roomid,chessid){
 		this.rooms[roomid].setChessId(chessid);
 	}
 	
-  Rooms.prototype.moveElementTo = function moveElementTo(x,y){
+  	Rooms.prototype.moveElementTo = function moveElementTo(x,y){
 		ISgControl.prototype.moveElementTo.call(this,x,y);
 	}
 
-  Rooms.prototype.createLocalRoom = function createLocalRoom(e,o){
+  	Rooms.prototype.createLocalRoom = function createLocalRoom(e,o){
 		var args = {
 			user:manageSessions.get('login'),
 			owner:manageSessions.get('login'),
@@ -204,7 +204,7 @@ var rooms = (function(){
 		macroTimer = setTimeout('macro(5)',500);
 	}
 	
-  Rooms.prototype.addToList = function addToList(room){
+  	Rooms.prototype.addToList = function addToList(room){
 		if (!this.initted) {
 			this.init();
 		}
@@ -247,7 +247,7 @@ var rooms = (function(){
 
 	}
 
-  Rooms.prototype.add = function add(room, args){
+  	Rooms.prototype.add = function add(room, args){
 		this.rooms[room.roomid]=room;
 		if (args) {
 		}
@@ -256,10 +256,9 @@ var rooms = (function(){
   
 	Rooms.prototype.setColorInRoom = function setColorInRoom(user,room,color){
 		this.rooms[room].refresh('setColor',{'user':user,'color':color});
-    if (!this.players[room])
+    	if (!this.players[room])
 			this.players[room]={BLANCAS:'',NEGRAS:''};
 		this.players[room][color]=user;
-    //if (this.rooBLANCAS && this.NEGRAS
 	}
   
 	Rooms.prototype.setColorInList = function setColorInList(user,room,color){
@@ -373,8 +372,30 @@ var rooms = (function(){
 	Rooms.prototype.init = function init(){
 		this.initted=true;
 		this.element = document.body.querySelector('div.rooms-container');
+
+		var aargs={
+
+					touchhoverin: function(){
+						var cn=this.className || '';
+						cn=cn.replace(/[ ]*forced-hover/,'');
+						cn=(cn?cn + "  " : "") + 'forced-hover';
+						this.className=cn;
+//						this.style['background-color']='red';
+					},
+					touchhoverout: function(){
+						var cn=this.className || ''
+						cn=cn.replace(/[ ]*forced-hover/,'');
+						this.className=cn;
+//						this.style['background-color']='red';
+					}
+		}
+		domHelper.mapToElement(this.element.dcapturer,args);
 		var args = {
-			eargs:{parentNode:this.element},
+			eargs:{
+					parentNode:this.element,
+					
+				  
+			},
 			oargs:{handler:this},
 			common:{d: (this.id?this.id:this.guid?this.guid:'GUID')+'_'+guid}
 		}
